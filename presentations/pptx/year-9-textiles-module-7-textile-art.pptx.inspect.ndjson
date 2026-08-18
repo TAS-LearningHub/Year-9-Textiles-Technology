@@ -1,0 +1,172 @@
+{"kind":"deck","id":"pr/z753lf","name":"Deck"}
+{"kind":"layout","layoutId":"31102cb6-eb63-4284-bb12-7e78a76b7e37","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"ac0d83f5-2f0e-48f9-bfd5-b17605311b65","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/by7wku","slide":1,"title":"7","textShapes":6}
+{"kind":"shape","id":"sh/radgvmxo","slide":1,"bbox":[0,0,24,720]}
+{"kind":"shape","id":"sh/sb6h4ret","slide":1,"bbox":[78,64,58,58]}
+{"kind":"textbox","id":"sh/tcfyxwfe","slide":1,"text":"7","textPreview":"7","textChars":1,"textLines":1,"bbox":[78,64,58,58]}
+{"kind":"textbox","id":"sh/edoz61wz","slide":1,"text":"YEAR 9 TEXTILES TECHNOLOGY","textPreview":"YEAR 9 TEXTILES TECHNOLOGY","textChars":26,"textLines":1,"bbox":[154,77,420,36]}
+{"kind":"textbox","id":"sh/fexgz6xk","slide":1,"text":"Textile art: ideas to evidence","textPreview":"Textile art: ideas to evidence","textChars":30,"textLines":1,"bbox":[78,172,515,212]}
+{"kind":"textbox","id":"sh/gz6h8be5","slide":1,"text":"Explore textile-art techniques, develop an original concept for the teacher-confirmed theme and document a controlled production process.","textPreview":"Explore textile-art techniques, develop an original concept for the teacher-confirmed theme and document a controlled production process.","textChars":137,"textLines":1,"bbox":[82,414,500,110]}
+{"kind":"shape","id":"sh/10fy1wvq","slide":1,"bbox":[82,558,500,68]}
+{"kind":"textbox","id":"sh/uhkfuxwv","slide":1,"text":"TODAY: understand → retrieve → explain → save evidence","textPreview":"TODAY: understand → retrieve → explain → save evidence","textChars":54,"textLines":1,"bbox":[106,572,452,42]}
+{"kind":"shape","id":"sh/vitgn2xg","slide":1,"bbox":[646,86,562,518]}
+{"kind":"textbox","id":"sh/6dg3ap8z","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1124,666,84,32]}
+{"kind":"image","id":"im/oji5orup","slide":1,"name":"","geometry":"roundRect","alt":"Module 7 subject visual","bbox":[670,110,514,470]}
+{"kind":"notes","id":"nt/by7wku","slide":1,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 7, module summary and evidence sequence.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/textile-art-techniques.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: the assessed textile-art theme is Teacher to confirm because supplied sources conflict.\n[/Sources]\n\nTeaching note: State the module purpose. Ask students which part of the topic feels familiar and which part is new.\nSlide 1 of 8."}
+{"kind":"slide","id":"sl/9x4uk1","slide":2,"title":"LEARNING MAP + RETRIEVAL STARTER","textShapes":15}
+{"kind":"shape","id":"sh/srqt4bed","slide":2,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/7qhcv6ds","slide":2,"text":"LEARNING MAP + RETRIEVAL STARTER","textPreview":"LEARNING MAP + RETRIEVAL STARTER","textChars":32,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/6p8b21w7","slide":2,"text":"Three ideas to connect","textPreview":"Three ideas to connect","textChars":22,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/5ozutgvm","slide":2,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/knqt0be1","slide":2,"text":"YEAR 9 TEXTILES · MODULE 7","textPreview":"YEAR 9 TEXTILES · MODULE 7","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/jmhcr6dg","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/il8by1wb","slide":2,"bbox":[72,182,760,98]}
+{"kind":"textbox","id":"sh/xkfupwvq","slide":2,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[94,202,52,52]}
+{"kind":"textbox","id":"sh/wj6twre5","slide":2,"text":"Exploring textile-art techniques","textPreview":"Exploring textile-art techniques","textChars":32,"textLines":1,"bbox":[170,198,630,34]}
+{"kind":"textbox","id":"sh/21gn2t0n","slide":2,"text":"Technique samples record process, materials, result and possible use.","textPreview":"Technique samples record process, materials, result and possible use.","textChars":69,"textLines":1,"bbox":[170,234,630,30]}
+{"kind":"shape","id":"sh/n2p4vyh8","slide":2,"bbox":[72,302,760,98]}
+{"kind":"textbox","id":"sh/o3y54jit","slide":2,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[94,322,52,52]}
+{"kind":"textbox","id":"sh/po7mxoze","slide":2,"text":"Developing an original textile-art design","textPreview":"Developing an original textile-art design","textChars":41,"textLines":1,"bbox":[170,318,630,34]}
+{"kind":"textbox","id":"sh/exwny90r","slide":2,"text":"The current assessed theme must be confirmed by the teacher.","textPreview":"The current assessed theme must be confirmed by the teacher.","textChars":60,"textLines":1,"bbox":[170,354,630,30]}
+{"kind":"shape","id":"sh/fy54rehc","slide":2,"bbox":[72,422,760,98]}
+{"kind":"textbox","id":"sh/0ze50jix","slide":2,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[94,442,52,52]}
+{"kind":"textbox","id":"sh/10nmtozi","slide":2,"text":"Production drawing, making and evaluation","textPreview":"Production drawing, making and evaluation","textChars":41,"textLines":1,"bbox":[170,438,630,34]}
+{"kind":"textbox","id":"sh/qtcnu90v","slide":2,"text":"A production drawing clearly communicates the intended textile item.","textPreview":"A production drawing clearly communicates the intended textile item.","textChars":68,"textLines":1,"bbox":[170,474,630,30]}
+{"kind":"shape","id":"sh/ru54neh0","slide":2,"bbox":[866,182,342,344]}
+{"kind":"textbox","id":"sh/udsj25gn","slide":2,"text":"RETRIEVE FIRST","textPreview":"RETRIEVE FIRST","textChars":14,"textLines":1,"bbox":[892,404,286,26]}
+{"kind":"textbox","id":"sh/h0j2x0fy","slide":2,"text":"Without notes: say one fact you already know and one question you need answered.","textPreview":"Without notes: say one fact you already know and one question you need answered.","textChars":80,"textLines":1,"bbox":[900,438,270,68]}
+{"kind":"image","id":"im/8fypcjex","slide":2,"name":"","geometry":"roundRect","alt":"Course learning map visual","bbox":[892,198,290,190]}
+{"kind":"notes","id":"nt/9x4uk1","slide":2,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 7, all three section titles and first facts.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/textiles-course-hero.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: the assessed textile-art theme is Teacher to confirm because supplied sources conflict.\n[/Sources]\n\nTeaching note: Give students 30 seconds of silent retrieval, then connect their responses to the three-part learning map.\nSlide 2 of 8."}
+{"kind":"slide","id":"sl/0ybt5j","slide":3,"title":"THEORY 1 OF 3","textShapes":15}
+{"kind":"shape","id":"sh/cri10z61","slide":3,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/rq907upg","slide":3,"text":"THEORY 1 OF 3","textPreview":"THEORY 1 OF 3","textChars":13,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/qp0jypov","slide":3,"text":"Exploring textile-art techniques","textPreview":"Exploring textile-art techniques","textChars":32,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/1gbid47i","slide":3,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/0f214z6x","slide":3,"text":"YEAR 9 TEXTILES · MODULE 7","textPreview":"YEAR 9 TEXTILES · MODULE 7","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/zet0bups","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/etkj29o7","slide":3,"bbox":[72,184,558,338]}
+{"kind":"textbox","id":"sh/hkri1k7e","slide":3,"text":"UNDERSTAND THE IDEA","textPreview":"UNDERSTAND THE IDEA","textChars":19,"textLines":1,"bbox":[100,208,502,26]}
+{"kind":"textbox","id":"sh/gjy1sf6t","slide":3,"text":"Technique samples record process, materials, result and possible use. They turn experimentation into evidence for later design decisions.\nAppliqué adds fabric shapes to a base fabric. Layered shapes can build colour, form and imagery.\nCouching secures a yarn or cord on the surface. It can create controlled lines and texture without pulling the yarn through every stitch.","textPreview":"Technique samples record process, materials, result and possible use. They turn experimentation into evidence for later design decisions....","textChars":372,"textLines":3,"bbox":[100,252,502,246]}
+{"kind":"shape","id":"sh/ypcvmt47","slide":3,"bbox":[650,184,558,338]}
+{"kind":"shape","id":"sh/zqlcvyls","slide":3,"bbox":[690,198,478,70]}
+{"kind":"textbox","id":"sh/0rudo32d","slide":3,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[706,211,44,44]}
+{"kind":"textbox","id":"sh/ls3uxo3y","slide":3,"text":"Technique samples record process, materials, result and possible use","textPreview":"Technique samples record process, materials, result and possible use","textChars":68,"textLines":1,"bbox":[772,206,368,54]}
+{"kind":"shape","id":"sh/mtcvqtk3","slide":3,"bbox":[690,292,478,70]}
+{"kind":"textbox","id":"sh/nulczylo","slide":3,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[706,305,44,44]}
+{"kind":"textbox","id":"sh/8vuds329","slide":3,"text":"Appliqué adds fabric shapes to a base fabric","textPreview":"Appliqué adds fabric shapes to a base fabric","textChars":44,"textLines":1,"bbox":[772,300,368,54]}
+{"kind":"shape","id":"sh/9w3u183u","slide":3,"bbox":[690,386,478,70]}
+{"kind":"textbox","id":"sh/ahwvudkf","slide":3,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[706,399,44,44]}
+{"kind":"textbox","id":"sh/vi5c3il0","slide":3,"text":"Couching secures a yarn or cord on the surface","textPreview":"Couching secures a yarn or cord on the surface","textChars":46,"textLines":1,"bbox":[772,394,368,54]}
+{"kind":"shape","id":"sh/7m5cbi1s","slide":3,"bbox":[736,494,386,36]}
+{"kind":"textbox","id":"sh/6lwbid0n","slide":3,"text":"CONNECT THE IDEA — DO NOT JUST LIST IT","textPreview":"CONNECT THE IDEA — DO NOT JUST LIST IT","textChars":38,"textLines":1,"bbox":[754,501,350,24]}
+{"kind":"shape","id":"sh/to7udsjy","slide":3,"bbox":[72,548,1136,96]}
+{"kind":"textbox","id":"sh/snetknid","slide":3,"text":"EVIDENCE PROMPT","textPreview":"EVIDENCE PROMPT","textChars":15,"textLines":1,"bbox":[98,568,210,24]}
+{"kind":"textbox","id":"sh/jy5c7y1w","slide":3,"text":"Select four explored techniques and explain what each could contribute to a textile artwork for the teacher-confirmed theme.","textPreview":"Select four explored techniques and explain what each could contribute to a textile artwork for the teacher-confirmed theme.","textChars":124,"textLines":1,"bbox":[310,562,870,60]}
+{"kind":"notes","id":"nt/0ybt5j","slide":3,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 7, Section 1: Exploring textile-art techniques.\nCourse authority: work/source-contract.md and work/source-audit.md.\nVisual treatment: editable PowerPoint diagram generated only from the cited module facts.\nSource boundary: the assessed textile-art theme is Teacher to confirm because supplied sources conflict.\n[/Sources]\n\nTeaching note: Teach the three points, then pause for students to answer the evidence prompt in one or two precise sentences.\nSlide 3 of 8."}
+{"kind":"slide","id":"sl/9cwn0y","slide":4,"title":"THEORY 2 OF 3","textShapes":9}
+{"kind":"shape","id":"sh/0ry94769","slide":4,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/zqp8v2p4","slide":4,"text":"THEORY 2 OF 3","textPreview":"THEORY 2 OF 3","textChars":13,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/y5gr2xoj","slide":4,"text":"Developing an original textile-art design","textPreview":"Developing an original textile-art design","textChars":41,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/9wra1c76","slide":4,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/8vi98r6l","slide":4,"text":"YEAR 9 TEXTILES · MODULE 7","textPreview":"YEAR 9 TEXTILES · MODULE 7","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/nu98zmp0","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/mt0r6hof","slide":4,"bbox":[650,184,558,338]}
+{"kind":"textbox","id":"sh/p0nqps7m","slide":4,"text":"UNDERSTAND THE IDEA","textPreview":"UNDERSTAND THE IDEA","textChars":19,"textLines":1,"bbox":[678,208,502,26]}
+{"kind":"textbox","id":"sh/oze9wn61","slide":4,"text":"The current assessed theme must be confirmed by the teacher. The supplied task sources conflict, so the deck cannot choose the controlling fact.\nA mood board establishes colour, imagery, texture and atmosphere. It gives a coherent source base for original idea development.\nTwo ideas should be compared before final selection. Comparison helps improve originality and achievable technique use.","textPreview":"The current assessed theme must be confirmed by the teacher. The supplied task sources conflict, so the deck cannot choose the controllin...","textChars":393,"textLines":3,"bbox":[678,252,502,246]}
+{"kind":"shape","id":"sh/e1cb61wv","slide":4,"bbox":[72,184,558,338]}
+{"kind":"textbox","id":"sh/03et8be1","slide":4,"text":"SEE THE RELATIONSHIP","textPreview":"SEE THE RELATIONSHIP","textChars":20,"textLines":1,"bbox":[100,486,502,24]}
+{"kind":"shape","id":"sh/14nuhgvm","slide":4,"bbox":[72,548,1136,96]}
+{"kind":"textbox","id":"sh/m5wvalw7","slide":4,"text":"EVIDENCE PROMPT","textPreview":"EVIDENCE PROMPT","textChars":15,"textLines":1,"bbox":[98,568,210,24]}
+{"kind":"textbox","id":"sh/n65cj6dc","slide":4,"text":"Develop a concept statement for the teacher-confirmed theme and justify the selected imagery, colour and four techniques.","textPreview":"Develop a concept statement for the teacher-confirmed theme and justify the selected imagery, colour and four techniques.","textChars":121,"textLines":1,"bbox":[310,562,870,60]}
+{"kind":"image","id":"im/gr21c3ap","slide":4,"name":"","geometry":"roundRect","alt":"Developing an original textile-art design explanatory visual","bbox":[96,206,510,278]}
+{"kind":"notes","id":"nt/9cwn0y","slide":4,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 7, Section 2: Developing an original textile-art design.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/design-elements.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: the assessed textile-art theme is Teacher to confirm because supplied sources conflict.\n[/Sources]\n\nTeaching note: Teach the three points, then pause for students to answer the evidence prompt in one or two precise sentences.\nSlide 4 of 8."}
+{"kind":"slide","id":"sl/k2fkxt","slide":5,"title":"THEORY 3 OF 3","textShapes":9}
+{"kind":"shape","id":"sh/critojyl","slide":5,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/bq9sveh0","slide":5,"text":"THEORY 3 OF 3","textPreview":"THEORY 3 OF 3","textChars":13,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/qp0bmtgf","slide":5,"text":"Production drawing, making and evaluation","textPreview":"Production drawing, making and evaluation","textChars":41,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/lgba18z2","slide":5,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/0f2ts3yh","slide":5,"text":"YEAR 9 TEXTILES · MODULE 7","textPreview":"YEAR 9 TEXTILES · MODULE 7","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/zetszyhw","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/ydkbqtgb","slide":5,"bbox":[72,184,558,338]}
+{"kind":"textbox","id":"sh/9kva58zy","slide":5,"text":"UNDERSTAND THE IDEA","textPreview":"UNDERSTAND THE IDEA","textChars":19,"textLines":1,"bbox":[100,208,502,26]}
+{"kind":"textbox","id":"sh/8jmtw3yd","slide":5,"text":"A production drawing clearly communicates the intended textile item. It connects design details, size, materials and technique locations.\nUse real design dimensions rather than invented values. The drawing must match the student's actual planned item.\nA technique key explains symbols or labels on the drawing. It helps the reader locate and understand planned processes.","textPreview":"A production drawing clearly communicates the intended textile item. It connects design details, size, materials and technique locations....","textChars":371,"textLines":3,"bbox":[100,252,502,246]}
+{"kind":"shape","id":"sh/yl8zq143","slide":5,"bbox":[650,184,558,338]}
+{"kind":"textbox","id":"sh/0nqhsrm9","slide":5,"text":"SEE THE RELATIONSHIP","textPreview":"SEE THE RELATIONSHIP","textChars":20,"textLines":1,"bbox":[678,486,502,24]}
+{"kind":"shape","id":"sh/lojylw3u","slide":5,"bbox":[72,548,1136,96]}
+{"kind":"textbox","id":"sh/m9szu14f","slide":5,"text":"EVIDENCE PROMPT","textPreview":"EVIDENCE PROMPT","textChars":15,"textLines":1,"bbox":[98,568,210,24]}
+{"kind":"textbox","id":"sh/7a1gn6l0","slide":5,"text":"Explain how your production drawing, construction sequence and evaluation will work together as evidence.","textPreview":"Explain how your production drawing, construction sequence and evaluation will work together as evidence.","textChars":105,"textLines":1,"bbox":[310,562,870,60]}
+{"kind":"image","id":"im/4r25wzm9","slide":5,"name":"","geometry":"roundRect","alt":"Production drawing, making and evaluation explanatory visual","bbox":[674,206,510,278]}
+{"kind":"notes","id":"nt/k2fkxt","slide":5,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 7, Section 3: Production drawing, making and evaluation.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/evaluation-cycle.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: the assessed textile-art theme is Teacher to confirm because supplied sources conflict.\n[/Sources]\n\nTeaching note: Teach the three points, then pause for students to answer the evidence prompt in one or two precise sentences.\nSlide 5 of 8."}
+{"kind":"slide","id":"sl/n3n6p0","slide":6,"title":"NO NOTES FOR THE FIRST ATTEMPT","textShapes":14}
+{"kind":"shape","id":"sh/fehwvmds","slide":6,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/gfqd4rud","slide":6,"text":"NO NOTES FOR THE FIRST ATTEMPT","textPreview":"NO NOTES FOR THE FIRST ATTEMPT","textChars":30,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/1gzexwvy","slide":6,"text":"Retrieve before you check","textPreview":"Retrieve before you check","textChars":25,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/6povyhwb","slide":6,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/7ahwr2dg","slide":6,"text":"YEAR 9 TEXTILES · MODULE 7","textPreview":"YEAR 9 TEXTILES · MODULE 7","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/sbqd07e1","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/tczetcvm","slide":6,"bbox":[72,190,354,344]}
+{"kind":"textbox","id":"sh/qlsva1cf","slide":6,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[96,214,64,64]}
+{"kind":"textbox","id":"sh/b61w36d0","slide":6,"text":"Exploring textile-art techniques","textPreview":"Exploring textile-art techniques","textChars":32,"textLines":1,"bbox":[96,302,306,70]}
+{"kind":"textbox","id":"sh/f29wfyto","slide":6,"text":"Define exploring textile-art techniques in your own words and give one course example.","textPreview":"Define exploring textile-art techniques in your own words and give one course example.","textChars":86,"textLines":1,"bbox":[96,390,306,114]}
+{"kind":"shape","id":"sh/u10fmts3","slide":6,"bbox":[458,190,354,344]}
+{"kind":"textbox","id":"sh/horeh8bu","slide":6,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[482,214,64,64]}
+{"kind":"textbox","id":"sh/g3ixo3a9","slide":6,"text":"Developing an original textile-art design","textPreview":"Developing an original textile-art design","textChars":41,"textLines":1,"bbox":[482,302,306,70]}
+{"kind":"textbox","id":"sh/3qtwjitk","slide":6,"text":"Why does developing an original textile-art design matter to a successful textile outcome?","textPreview":"Why does developing an original textile-art design matter to a successful textile outcome?","textChars":90,"textLines":1,"bbox":[482,390,306,114]}
+{"kind":"shape","id":"sh/2p0fqdsf","slide":6,"bbox":[844,190,354,344]}
+{"kind":"textbox","id":"sh/psbel8bq","slide":6,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[868,214,64,64]}
+{"kind":"textbox","id":"sh/or2xsna5","slide":6,"text":"Production drawing, making and evaluation","textPreview":"Production drawing, making and evaluation","textChars":41,"textLines":1,"bbox":[868,302,306,70]}
+{"kind":"textbox","id":"sh/butwnitw","slide":6,"text":"What evidence would prove you understand production drawing, making and evaluation?","textPreview":"What evidence would prove you understand production drawing, making and evaluation?","textChars":83,"textLines":1,"bbox":[868,390,306,114]}
+{"kind":"textbox","id":"sh/qtkfudsb","slide":6,"text":"Attempt → check the module → correct in a different colour","textPreview":"Attempt → check the module → correct in a different colour","textChars":58,"textLines":1,"bbox":[72,574,1136,42]}
+{"kind":"notes","id":"nt/n3n6p0","slide":6,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 7, retrieval questions generated from the first fact in each section.\nCourse authority: work/source-contract.md and work/source-audit.md.\nVisual treatment: editable PowerPoint diagram generated only from the cited module facts.\nSource boundary: the assessed textile-art theme is Teacher to confirm because supplied sources conflict.\n[/Sources]\n\nTeaching note: Keep the first attempt closed-book. Accuracy improves when students check and visibly correct the response afterwards.\nSlide 6 of 8."}
+{"kind":"slide","id":"sl/rmtwa6","slide":7,"title":"READ → SELECT → EXPLAIN → CHECK","textShapes":19}
+{"kind":"shape","id":"sh/fu9ozip8","slide":7,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/gvip8nqt","slide":7,"text":"READ → SELECT → EXPLAIN → CHECK","textPreview":"READ → SELECT → EXPLAIN → CHECK","textChars":31,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/1wr61s7e","slide":7,"text":"Build one strong written response","textPreview":"Build one strong written response","textChars":33,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/2xk7ax8z","slide":7,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/3ito32p4","slide":7,"text":"YEAR 9 TEXTILES · MODULE 7","textPreview":"YEAR 9 TEXTILES · MODULE 7","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/oj2pc7qp","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/pkb65c7a","slide":7,"bbox":[72,174,1136,92]}
+{"kind":"textbox","id":"sh/i1gnyt8f","slide":7,"text":"QUESTION","textPreview":"QUESTION","textChars":8,"textLines":1,"bbox":[96,194,130,24]}
+{"kind":"textbox","id":"sh/j2poryp0","slide":7,"text":"Explain how your production drawing, construction sequence and evaluation will work together as evidence.","textPreview":"Explain how your production drawing, construction sequence and evaluation will work together as evidence.","textChars":105,"textLines":1,"bbox":[230,188,948,58]}
+{"kind":"shape","id":"sh/fup0ba10","slide":7,"bbox":[72,310,260,218]}
+{"kind":"textbox","id":"sh/etgz250f","slide":7,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[94,330,46,46]}
+{"kind":"textbox","id":"sh/1w7idkj6","slide":7,"text":"READ","textPreview":"READ","textChars":4,"textLines":1,"bbox":[154,336,154,32]}
+{"kind":"textbox","id":"sh/gvyh4fil","slide":7,"text":"Underline the action word and the exact topic.","textPreview":"Underline the action word and the exact topic.","textChars":46,"textLines":1,"bbox":[96,398,212,102]}
+{"kind":"shape","id":"sh/rq507q14","slide":7,"bbox":[356,310,260,218]}
+{"kind":"textbox","id":"sh/6pwzy50j","slide":7,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[378,330,46,46]}
+{"kind":"textbox","id":"sh/ts7i90ju","slide":7,"text":"SELECT","textPreview":"SELECT","textChars":6,"textLines":1,"bbox":[438,336,154,32]}
+{"kind":"textbox","id":"sh/sreh0vip","slide":7,"text":"Choose two or three course facts that answer it.","textPreview":"Choose two or three course facts that answer it.","textChars":48,"textLines":1,"bbox":[380,398,212,102]}
+{"kind":"shape","id":"sh/j2503q1s","slide":7,"bbox":[640,310,260,218]}
+{"kind":"textbox","id":"sh/i1wzul07","slide":7,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[662,330,46,46]}
+{"kind":"textbox","id":"sh/mxcj6l4f","slide":7,"text":"EXPLAIN","textPreview":"EXPLAIN","textChars":7,"textLines":1,"bbox":[722,336,154,32]}
+{"kind":"textbox","id":"sh/7yl0fqlk","slide":7,"text":"Link each fact to why it matters or what it proves.","textPreview":"Link each fact to why it matters or what it proves.","textChars":51,"textLines":1,"bbox":[664,398,212,102]}
+{"kind":"shape","id":"sh/8zu18vm5","slide":7,"bbox":[924,310,260,218]}
+{"kind":"textbox","id":"sh/90nihg3q","slide":7,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[946,330,46,46]}
+{"kind":"textbox","id":"sh/u1wjal4b","slide":7,"text":"CHECK","textPreview":"CHECK","textChars":5,"textLines":1,"bbox":[1006,336,154,32]}
+{"kind":"textbox","id":"sh/v250jqlw","slide":7,"text":"Return to the question; correct gaps and vague words.","textPreview":"Return to the question; correct gaps and vague words.","textChars":53,"textLines":1,"bbox":[948,398,212,102]}
+{"kind":"textbox","id":"sh/w3e1cvmh","slide":7,"text":"Strong responses use evidence and reasoning—not a copied paragraph.","textPreview":"Strong responses use evidence and reasoning—not a copied paragraph.","textChars":67,"textLines":1,"bbox":[72,570,1136,44]}
+{"kind":"notes","id":"nt/rmtwa6","slide":7,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 7, Section 3 evidence prompt plus the course response scaffold.\nCourse authority: work/source-contract.md and work/source-audit.md.\nVisual treatment: editable PowerPoint diagram generated only from the cited module facts.\nSource boundary: the assessed textile-art theme is Teacher to confirm because supplied sources conflict.\n[/Sources]\n\nTeaching note: Model the four-step process aloud. Students should be able to point to the fact and the explanation in their finished response.\nSlide 7 of 8."}
+{"kind":"slide","id":"sl/5ndq3o","slide":8,"title":"EXIT TICKET + NEXT STEP","textShapes":16}
+{"kind":"shape","id":"sh/4vuxszuh","slide":8,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/julgjudw","slide":8,"text":"EXIT TICKET + NEXT STEP","textPreview":"EXIT TICKET + NEXT STEP","textChars":23,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/itcfq9cb","slide":8,"text":"Finish with evidence","textPreview":"Finish with evidence","textChars":20,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/t0nypovy","slide":8,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/szexwjud","slide":8,"text":"YEAR 9 TEXTILES · MODULE 7","textPreview":"YEAR 9 TEXTILES · MODULE 7","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/ry5gneds","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/6xwfu9cn","slide":8,"bbox":[72,184,550,376]}
+{"kind":"textbox","id":"sh/94jedkvu","slide":8,"text":"EXIT TICKET","textPreview":"EXIT TICKET","textChars":11,"textLines":1,"bbox":[108,220,470,40]}
+{"kind":"textbox","id":"sh/83axkfu9","slide":8,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[108,292,46,46]}
+{"kind":"textbox","id":"sh/ixsfq9sf","slide":8,"text":"Name one idea you can now explain accurately.","textPreview":"Name one idea you can now explain accurately.","textChars":45,"textLines":1,"bbox":[176,286,400,58]}
+{"kind":"textbox","id":"sh/jylgje90","slide":8,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[108,374,46,46]}
+{"kind":"textbox","id":"sh/kzuhsjal","slide":8,"text":"Identify one correction you made after retrieval.","textPreview":"Identify one correction you made after retrieval.","textChars":49,"textLines":1,"bbox":[176,368,400,58]}
+{"kind":"textbox","id":"sh/503ylor6","slide":8,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[108,456,46,46]}
+{"kind":"textbox","id":"sh/61czutsr","slide":8,"text":"State the evidence you will save from this module.","textPreview":"State the evidence you will save from this module.","textChars":50,"textLines":1,"bbox":[176,450,400,58]}
+{"kind":"shape","id":"sh/7mlgny9c","slide":8,"bbox":[654,184,554,238]}
+{"kind":"textbox","id":"sh/snuhw3qh","slide":8,"text":"SAVE THIS EVIDENCE","textPreview":"SAVE THIS EVIDENCE","textChars":18,"textLines":1,"bbox":[686,216,490,34]}
+{"kind":"textbox","id":"sh/to3ypor2","slide":8,"text":"Technique samples, mood board, two designs, final design, production drawing, resources, label and evaluation.","textPreview":"Technique samples, mood board, two designs, final design, production drawing, resources, label and evaluation.","textChars":110,"textLines":1,"bbox":[686,270,490,118]}
+{"kind":"shape","id":"sh/upczyt8n","slide":8,"bbox":[654,446,554,114]}
+{"kind":"textbox","id":"sh/fq5gry98","slide":8,"text":"NEXT STEP","textPreview":"NEXT STEP","textChars":9,"textLines":1,"bbox":[682,468,140,28]}
+{"kind":"textbox","id":"sh/ru5gfypg","slide":8,"text":"Return to the module page, complete the evidence prompt and use teacher directions for practical work.","textPreview":"Return to the module page, complete the evidence prompt and use teacher directions for practical work.","textChars":102,"textLines":1,"bbox":[824,462,354,72]}
+{"kind":"textbox","id":"sh/qtwf6tov","slide":8,"text":"Explain it. Check it. Save it.","textPreview":"Explain it. Check it. Save it.","textChars":30,"textLines":1,"bbox":[72,594,1136,42]}
+{"kind":"notes","id":"nt/5ndq3o","slide":8,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 7, module evidence summary and student next step.\nCourse authority: work/source-contract.md and work/source-audit.md.\nVisual treatment: editable PowerPoint diagram generated only from the cited module facts.\nSource boundary: the assessed textile-art theme is Teacher to confirm because supplied sources conflict.\n[/Sources]\n\nTeaching note: Collect a brief spoken or written exit response. Remind students that the website and teacher directions control the practical next step.\nSlide 8 of 8."}

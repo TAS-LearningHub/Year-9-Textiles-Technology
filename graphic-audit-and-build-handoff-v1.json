@@ -1,0 +1,8 @@
+{
+  "schema_version": "website-builder-network/v1",
+  "artifact_id": "year-9-textiles-graphic-audit-and-build-v1",
+  "version": "1.0",
+  "status": "HISTORICAL_SUPERSEDED",
+  "superseded_by": "graphic-audit-and-build-handoff-v2.json",
+  "note": "This file identifies the first local graphics pass only. Its earlier REWORK decision, hashes and no-publication boundary do not describe the repaired release candidate."
+}

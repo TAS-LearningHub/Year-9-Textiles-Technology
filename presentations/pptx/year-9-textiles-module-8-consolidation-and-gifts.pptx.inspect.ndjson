@@ -1,0 +1,163 @@
+{"kind":"deck","id":"pr/ywrrjn","name":"Deck"}
+{"kind":"layout","layoutId":"134e731a-7ded-41f7-8ee9-1cb47085c3b1","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"e196e96a-5761-42e5-83f8-9383d91efcc3","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/bwjghn","slide":1,"title":"8","textShapes":6}
+{"kind":"shape","id":"sh/cbq1oju1","slide":1,"bbox":[0,0,24,720]}
+{"kind":"shape","id":"sh/bahkvytg","slide":1,"bbox":[78,64,58,58]}
+{"kind":"textbox","id":"sh/a98j2tcv","slide":1,"text":"8","textPreview":"8","textChars":1,"textLines":1,"bbox":[78,64,58,58]}
+{"kind":"textbox","id":"sh/l0j218by","slide":1,"text":"YEAR 9 TEXTILES TECHNOLOGY","textPreview":"YEAR 9 TEXTILES TECHNOLOGY","textChars":26,"textLines":1,"bbox":[154,77,420,36]}
+{"kind":"textbox","id":"sh/kzq1s3ad","slide":1,"text":"Consolidation & textiles gifts","textPreview":"Consolidation & textiles gifts","textChars":30,"textLines":1,"bbox":[78,172,515,212]}
+{"kind":"textbox","id":"sh/jyhkzyts","slide":1,"text":"Consolidate the three areas of study, improve portfolio evidence and apply the design process to a small teacher-approved gift project.","textPreview":"Consolidate the three areas of study, improve portfolio evidence and apply the design process to a small teacher-approved gift project.","textChars":135,"textLines":1,"bbox":[82,414,500,110]}
+{"kind":"shape","id":"sh/yd8jqtc7","slide":1,"bbox":[82,558,500,68]}
+{"kind":"textbox","id":"sh/14fip4be","slide":1,"text":"TODAY: understand → retrieve → explain → save evidence","textPreview":"TODAY: understand → retrieve → explain → save evidence","textChars":54,"textLines":1,"bbox":[106,572,452,42]}
+{"kind":"shape","id":"sh/0361wzut","slide":1,"bbox":[646,86,562,518]}
+{"kind":"textbox","id":"sh/r6poja5s","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1124,666,84,32]}
+{"kind":"image","id":"im/14bed872","slide":1,"name":"","geometry":"roundRect","alt":"Module 8 subject visual","bbox":[670,110,514,470]}
+{"kind":"notes","id":"nt/bwjghn","slide":1,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 8, module summary and evidence sequence.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/evaluation-cycle.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: examination status, scope and weighting are not claimed; this deck presents consolidation and extension only.\n[/Sources]\n\nTeaching note: State the module purpose. Ask students which part of the topic feels familiar and which part is new.\nSlide 1 of 8."}
+{"kind":"slide","id":"sl/nrsir6","slide":2,"title":"LEARNING MAP + RETRIEVAL STARTER","textShapes":15}
+{"kind":"shape","id":"sh/a9o7qp83","slide":2,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/xcf6147u","slide":2,"text":"LEARNING MAP + RETRIEVAL STARTER","textPreview":"LEARNING MAP + RETRIEVAL STARTER","textChars":32,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/cb6pszq9","slide":2,"text":"Three ideas to connect","textPreview":"Three ideas to connect","textChars":22,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/zyho3upk","slide":2,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/ydo7up8f","slide":2,"text":"YEAR 9 TEXTILES · MODULE 8","textPreview":"YEAR 9 TEXTILES · MODULE 8","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/l0z6547q","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/kzqpwzq5","slide":2,"bbox":[72,182,760,98]}
+{"kind":"textbox","id":"sh/72ho7epw","slide":2,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[94,202,52,52]}
+{"kind":"textbox","id":"sh/m187y98b","slide":2,"text":"Revision across the three areas of study","textPreview":"Revision across the three areas of study","textChars":40,"textLines":1,"bbox":[170,198,630,34]}
+{"kind":"textbox","id":"sh/4bm9cvql","slide":2,"text":"The three areas are Design, Properties and Performance, and Textiles and Society.","textPreview":"The three areas are Design, Properties and Performance, and Textiles and Society.","textChars":81,"textLines":1,"bbox":[170,234,630,30]}
+{"kind":"shape","id":"sh/pcvql076","slide":2,"bbox":[72,302,760,98]}
+{"kind":"textbox","id":"sh/294ral8v","slide":2,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[94,322,52,52]}
+{"kind":"textbox","id":"sh/3ad8jqpg","slide":2,"text":"Final evaluation and portfolio readiness","textPreview":"Final evaluation and portfolio readiness","textChars":40,"textLines":1,"bbox":[170,318,630,34]}
+{"kind":"textbox","id":"sh/cf69gfqx","slide":2,"text":"A portfolio records the design and production process.","textPreview":"A portfolio records the design and production process.","textChars":54,"textLines":1,"bbox":[170,354,630,30]}
+{"kind":"shape","id":"sh/dgfqpk7i","slide":2,"bbox":[72,422,760,98]}
+{"kind":"textbox","id":"sh/qd4re58r","slide":2,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[94,442,52,52]}
+{"kind":"textbox","id":"sh/rex8napc","slide":2,"text":"Textiles as Gifts: a teacher-approved extension","textPreview":"Textiles as Gifts: a teacher-approved extension","textChars":47,"textLines":1,"bbox":[170,438,630,34]}
+{"kind":"textbox","id":"sh/0369kfqt","slide":2,"text":"The source outline names Textiles as Gifts as a free-choice practical destination.","textPreview":"The source outline names Textiles as Gifts as a free-choice practical destination.","textChars":82,"textLines":1,"bbox":[170,474,630,30]}
+{"kind":"shape","id":"sh/14fatk7e","slide":2,"bbox":[866,182,342,344]}
+{"kind":"textbox","id":"sh/on2hove1","slide":2,"text":"RETRIEVE FIRST","textPreview":"RETRIEVE FIRST","textChars":14,"textLines":1,"bbox":[892,404,286,26]}
+{"kind":"textbox","id":"sh/nm90fqdg","slide":2,"text":"Without notes: say one fact you already know and one question you need answered.","textPreview":"Without notes: say one fact you already know and one question you need answered.","textChars":80,"textLines":1,"bbox":[900,438,270,68]}
+{"kind":"image","id":"im/ils7e5wv","slide":2,"name":"","geometry":"roundRect","alt":"Course learning map visual","bbox":[892,198,290,190]}
+{"kind":"notes","id":"nt/nrsir6","slide":2,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 8, all three section titles and first facts.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/textiles-course-hero.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: examination status, scope and weighting are not claimed; this deck presents consolidation and extension only.\n[/Sources]\n\nTeaching note: Give students 30 seconds of silent retrieval, then connect their responses to the three-part learning map.\nSlide 2 of 8."}
+{"kind":"slide","id":"sl/6morfh","slide":3,"title":"THEORY 1 OF 3","textShapes":9}
+{"kind":"shape","id":"sh/4r21gr2x","slide":3,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/jqtk7m1c","slide":3,"text":"THEORY 1 OF 3","textPreview":"THEORY 1 OF 3","textChars":13,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/ipkjehkr","slide":3,"text":"Revision across the three areas of study","textPreview":"Revision across the three areas of study","textChars":40,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/hob25cj6","slide":3,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/wn21c721","slide":3,"text":"YEAR 9 TEXTILES · MODULE 8","textPreview":"YEAR 9 TEXTILES · MODULE 8","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/v29k321g","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/u10jaxkv","slide":3,"bbox":[72,184,558,338]}
+{"kind":"textbox","id":"sh/90ri1sja","slide":3,"text":"UNDERSTAND THE IDEA","textPreview":"UNDERSTAND THE IDEA","textChars":19,"textLines":1,"bbox":[100,208,502,26]}
+{"kind":"textbox","id":"sh/8zi1872p","slide":3,"text":"The three areas are Design, Properties and Performance, and Textiles and Society. They organise the core theory in the posted course material.\nRetrieval means explaining from memory before checking. It reveals what is understood and what needs correction.\nProject examples make theory easier to apply. A real item connects concepts such as fibre, structure, user and design.","textPreview":"The three areas are Design, Properties and Performance, and Textiles and Society. They organise the core theory in the posted course mate...","textChars":374,"textLines":3,"bbox":[100,252,502,246]}
+{"kind":"shape","id":"sh/e5crm9cb","slide":3,"bbox":[650,184,558,338]}
+{"kind":"textbox","id":"sh/07u9ojuh","slide":3,"text":"SEE THE RELATIONSHIP","textPreview":"SEE THE RELATIONSHIP","textChars":20,"textLines":1,"bbox":[678,486,502,24]}
+{"kind":"shape","id":"sh/183ahob2","slide":3,"bbox":[72,548,1136,96]}
+{"kind":"textbox","id":"sh/q1sripcf","slide":3,"text":"EVIDENCE PROMPT","textPreview":"EVIDENCE PROMPT","textChars":15,"textLines":1,"bbox":[98,568,210,24]}
+{"kind":"textbox","id":"sh/r218budk","slide":3,"text":"Create a three-column revision map linking one key idea from each area of study to a course project example.","textPreview":"Create a three-column revision map linking one key idea from each area of study to a course project example.","textChars":108,"textLines":1,"bbox":[310,562,870,60]}
+{"kind":"image","id":"im/gjyx4n6x","slide":3,"name":"","geometry":"roundRect","alt":"Revision across the three areas of study explanatory visual","bbox":[674,206,510,278]}
+{"kind":"notes","id":"nt/6morfh","slide":3,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 8, Section 1: Revision across the three areas of study.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/fibre-yarn-fabric.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: examination status, scope and weighting are not claimed; this deck presents consolidation and extension only.\n[/Sources]\n\nTeaching note: Teach the three points, then pause for students to answer the evidence prompt in one or two precise sentences.\nSlide 3 of 8."}
+{"kind":"slide","id":"sl/8jhj3q","slide":4,"title":"THEORY 2 OF 3","textShapes":9}
+{"kind":"shape","id":"sh/adw3ilsj","slide":4,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/xgnmdgru","slide":4,"text":"THEORY 2 OF 3","textPreview":"THEORY 2 OF 3","textChars":13,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/wfelkbap","slide":4,"text":"Final evaluation and portfolio readiness","textPreview":"Final evaluation and portfolio readiness","textChars":40,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/jip4fq90","slide":4,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/yhg3mlsf","slide":4,"text":"YEAR 9 TEXTILES · MODULE 8","textPreview":"YEAR 9 TEXTILES · MODULE 8","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/lk7mh0r6","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/kjyloval","slide":4,"bbox":[650,184,558,338]}
+{"kind":"textbox","id":"sh/76p4ja9c","slide":4,"text":"UNDERSTAND THE IDEA","textPreview":"UNDERSTAND THE IDEA","textChars":19,"textLines":1,"bbox":[678,208,502,26]}
+{"kind":"textbox","id":"sh/65g3q5sr","slide":4,"text":"A portfolio records the design and production process. It explains decisions and evidence, not just the finished appearance.\nEach evidence section needs a clear heading and context. The reader should understand what the evidence shows.\nThe final evaluation returns to criteria and project evidence. It shows whether intended performance was achieved.","textPreview":"A portfolio records the design and production process. It explains decisions and evidence, not just the finished appearance. | Each evide...","textChars":350,"textLines":3,"bbox":[678,252,502,246]}
+{"kind":"shape","id":"sh/gv61onip","slide":4,"bbox":[72,184,558,338]}
+{"kind":"textbox","id":"sh/et4jmd0j","slide":4,"text":"SEE THE RELATIONSHIP","textPreview":"SEE THE RELATIONSHIP","textChars":20,"textLines":1,"bbox":[100,486,502,24]}
+{"kind":"shape","id":"sh/fux0vih4","slide":4,"bbox":[72,548,1136,96]}
+{"kind":"textbox","id":"sh/oz61s7il","slide":4,"text":"EVIDENCE PROMPT","textPreview":"EVIDENCE PROMPT","textChars":15,"textLines":1,"bbox":[98,568,210,24]}
+{"kind":"textbox","id":"sh/p0f21sz6","slide":4,"text":"Write a final portfolio readiness checklist and explain how you would prove one evaluation judgement.","textPreview":"Write a final portfolio readiness checklist and explain how you would prove one evaluation judgement.","textChars":101,"textLines":1,"bbox":[310,562,870,60]}
+{"kind":"image","id":"im/udk7qd43","slide":4,"name":"","geometry":"roundRect","alt":"Final evaluation and portfolio readiness explanatory visual","bbox":[96,206,510,278]}
+{"kind":"notes","id":"nt/8jhj3q","slide":4,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 8, Section 2: Final evaluation and portfolio readiness.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/respectful-magazine.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: examination status, scope and weighting are not claimed; this deck presents consolidation and extension only.\n[/Sources]\n\nTeaching note: Teach the three points, then pause for students to answer the evidence prompt in one or two precise sentences.\nSlide 4 of 8."}
+{"kind":"slide","id":"sl/jqrjlo","slide":5,"title":"THEORY 3 OF 3","textShapes":9}
+{"kind":"shape","id":"sh/qtcvat0z","slide":5,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/dwne5ozq","slide":5,"text":"THEORY 3 OF 3","textPreview":"THEORY 3 OF 3","textChars":13,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/cvuxcji5","slide":5,"text":"Textiles as Gifts: a teacher-approved extension","textPreview":"Textiles as Gifts: a teacher-approved extension","textChars":47,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/3qlwze18","slide":5,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/25cv6903","slide":5,"text":"YEAR 9 TEXTILES · MODULE 8","textPreview":"YEAR 9 TEXTILES · MODULE 8","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/ps3e1oje","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/4rud8jit","slide":5,"bbox":[72,184,558,338]}
+{"kind":"textbox","id":"sh/f21wvu1c","slide":5,"text":"UNDERSTAND THE IDEA","textPreview":"UNDERSTAND THE IDEA","textChars":19,"textLines":1,"bbox":[100,208,502,26]}
+{"kind":"textbox","id":"sh/u1sv2p0r","slide":5,"text":"The source outline names Textiles as Gifts as a free-choice practical destination. It provides the context but not one controlling project plan.\nA gift brief identifies recipient, need and criteria. These facts guide a purposeful design decision.\nThe teacher approves the idea and practical method. Local resources, safety and feasibility must be confirmed.","textPreview":"The source outline names Textiles as Gifts as a free-choice practical destination. It provides the context but not one controlling projec...","textChars":357,"textLines":3,"bbox":[100,252,502,246]}
+{"kind":"shape","id":"sh/83q9czi1","slide":5,"bbox":[650,184,558,338]}
+{"kind":"textbox","id":"sh/m18rap0b","slide":5,"text":"SEE THE RELATIONSHIP","textPreview":"SEE THE RELATIONSHIP","textChars":20,"textLines":1,"bbox":[678,486,502,24]}
+{"kind":"shape","id":"sh/n2hsjuhw","slide":5,"bbox":[72,548,1136,96]}
+{"kind":"textbox","id":"sh/0zq98fi5","slide":5,"text":"EVIDENCE PROMPT","textPreview":"EVIDENCE PROMPT","textChars":15,"textLines":1,"bbox":[98,568,210,24]}
+{"kind":"textbox","id":"sh/l0zahkzq","slide":5,"text":"Draft a brief for a textiles gift, including the recipient, need, three criteria and the questions the teacher must confirm.","textPreview":"Draft a brief for a textiles gift, including the recipient, need, three criteria and the questions the teacher must confirm.","textChars":124,"textLines":1,"bbox":[310,562,870,60]}
+{"kind":"image","id":"im/ex4vyx87","slide":5,"name":"","geometry":"roundRect","alt":"Textiles as Gifts: a teacher-approved extension explanatory visual","bbox":[674,206,510,278]}
+{"kind":"notes","id":"nt/jqrjlo","slide":5,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 8, Section 3: Textiles as Gifts: a teacher-approved extension.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/design-elements.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: examination status, scope and weighting are not claimed; this deck presents consolidation and extension only.\n[/Sources]\n\nTeaching note: Teach the three points, then pause for students to answer the evidence prompt in one or two precise sentences.\nSlide 5 of 8."}
+{"kind":"slide","id":"sl/xduc8h","slide":6,"title":"NO NOTES FOR THE FIRST ATTEMPT","textShapes":14}
+{"kind":"shape","id":"sh/m1cj6xkn","slide":6,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/9o32hsje","slide":6,"text":"NO NOTES FOR THE FIRST ATTEMPT","textPreview":"NO NOTES FOR THE FIRST ATTEMPT","textChars":30,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/o3u18n2t","slide":6,"text":"Retrieve before you check","textPreview":"Retrieve before you check","textChars":25,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/bqlkj21k","slide":6,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/apcjaxkz","slide":6,"text":"YEAR 9 TEXTILES · MODULE 8","textPreview":"YEAR 9 TEXTILES · MODULE 8","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/xsn2lcja","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/wru1c7ip","slide":6,"bbox":[72,190,354,344]}
+{"kind":"textbox","id":"sh/ru107y10","slide":6,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[96,214,64,64]}
+{"kind":"textbox","id":"sh/qtsjydkf","slide":6,"text":"Revision across the three areas of study","textPreview":"Revision across the three areas of study","textChars":40,"textLines":1,"bbox":[96,302,306,70]}
+{"kind":"textbox","id":"sh/kzylszyt","slide":6,"text":"Define revision across the three areas of study in your own words and give one course example.","textPreview":"Define revision across the three areas of study in your own words and give one course example.","textChars":94,"textLines":1,"bbox":[96,390,306,114]}
+{"kind":"shape","id":"sh/l072l4fe","slide":6,"bbox":[458,190,354,344]}
+{"kind":"textbox","id":"sh/yxg3qpg3","slide":6,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[482,214,64,64]}
+{"kind":"textbox","id":"sh/zypkjux8","slide":6,"text":"Final evaluation and portfolio readiness","textPreview":"Final evaluation and portfolio readiness","textChars":40,"textLines":1,"bbox":[482,302,306,70]}
+{"kind":"textbox","id":"sh/83ilwzy5","slide":6,"text":"Why does final evaluation and portfolio readiness matter to a successful textile outcome?","textPreview":"Why does final evaluation and portfolio readiness matter to a successful textile outcome?","textChars":89,"textLines":1,"bbox":[482,390,306,114]}
+{"kind":"shape","id":"sh/94rmp4fq","slide":6,"bbox":[844,190,354,344]}
+{"kind":"textbox","id":"sh/m1g3upgz","slide":6,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[868,214,64,64]}
+{"kind":"textbox","id":"sh/729knuxk","slide":6,"text":"Textiles as Gifts: a teacher-approved extension","textPreview":"Textiles as Gifts: a teacher-approved extension","textChars":47,"textLines":1,"bbox":[868,302,306,70]}
+{"kind":"textbox","id":"sh/o7elkfyl","slide":6,"text":"What evidence would prove you understand textiles as gifts: a teacher-approved extension?","textPreview":"What evidence would prove you understand textiles as gifts: a teacher-approved extension?","textChars":89,"textLines":1,"bbox":[868,390,306,114]}
+{"kind":"textbox","id":"sh/p8n2dkf6","slide":6,"text":"Attempt → check the module → correct in a different colour","textPreview":"Attempt → check the module → correct in a different colour","textChars":58,"textLines":1,"bbox":[72,574,1136,42]}
+{"kind":"notes","id":"nt/xduc8h","slide":6,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 8, retrieval questions generated from the first fact in each section.\nCourse authority: work/source-contract.md and work/source-audit.md.\nVisual treatment: editable PowerPoint diagram generated only from the cited module facts.\nSource boundary: examination status, scope and weighting are not claimed; this deck presents consolidation and extension only.\n[/Sources]\n\nTeaching note: Keep the first attempt closed-book. Accuracy improves when students check and visibly correct the response afterwards.\nSlide 6 of 8."}
+{"kind":"slide","id":"sl/5f3nw3","slide":7,"title":"READ → SELECT → EXPLAIN → CHECK","textShapes":19}
+{"kind":"shape","id":"sh/65o7qpwr","slide":7,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/t8z614v2","slide":7,"text":"READ → SELECT → EXPLAIN → CHECK","textPreview":"READ → SELECT → EXPLAIN → CHECK","textChars":31,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/s7qpszeh","slide":7,"text":"Build one strong written response","textPreview":"Build one strong written response","textChars":33,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/j2xovud0","slide":7,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/i1o72pwf","slide":7,"text":"YEAR 9 TEXTILES · MODULE 8","textPreview":"YEAR 9 TEXTILES · MODULE 8","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/54f6x4v6","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/k36p4zel","slide":7,"bbox":[72,174,1136,92]}
+{"kind":"textbox","id":"sh/3y1o7ed4","slide":7,"text":"QUESTION","textPreview":"QUESTION","textChars":8,"textLines":1,"bbox":[96,194,130,24]}
+{"kind":"textbox","id":"sh/2x87y9wz","slide":7,"text":"Draft a brief for a textiles gift, including the recipient, need, three criteria and the questions the teacher must confirm.","textPreview":"Draft a brief for a textiles gift, including the recipient, need, three criteria and the questions the teacher must confirm.","textChars":124,"textLines":1,"bbox":[230,188,948,58]}
+{"kind":"shape","id":"sh/wj214fi9","slide":7,"bbox":[72,310,260,218]}
+{"kind":"textbox","id":"sh/x4v2xkzu","slide":7,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[94,330,46,46]}
+{"kind":"textbox","id":"sh/ahkj2503","slide":7,"text":"READ","textPreview":"READ","textChars":4,"textLines":1,"bbox":[154,336,154,32]}
+{"kind":"textbox","id":"sh/vitkvaho","slide":7,"text":"Underline the action word and the exact topic.","textPreview":"Underline the action word and the exact topic.","textChars":46,"textLines":1,"bbox":[96,398,212,102]}
+{"kind":"shape","id":"sh/8f210vid","slide":7,"bbox":[356,310,260,218]}
+{"kind":"textbox","id":"sh/9gb2t0zi","slide":7,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[378,330,46,46]}
+{"kind":"textbox","id":"sh/mdkjyl07","slide":7,"text":"SELECT","textPreview":"SELECT","textChars":6,"textLines":1,"bbox":[438,336,154,32]}
+{"kind":"textbox","id":"sh/netkrqhs","slide":7,"text":"Choose two or three course facts that answer it.","textPreview":"Choose two or three course facts that answer it.","textChars":48,"textLines":1,"bbox":[380,398,212,102]}
+{"kind":"shape","id":"sh/0bi1wvi1","slide":7,"bbox":[640,310,260,218]}
+{"kind":"textbox","id":"sh/lcr2pgzm","slide":7,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[662,330,46,46]}
+{"kind":"textbox","id":"sh/1wjqdsne","slide":7,"text":"EXPLAIN","textPreview":"EXPLAIN","textChars":7,"textLines":1,"bbox":[722,336,154,32]}
+{"kind":"textbox","id":"sh/gvq94n6t","slide":7,"text":"Link each fact to why it matters or what it proves.","textPreview":"Link each fact to why it matters or what it proves.","textChars":51,"textLines":1,"bbox":[664,398,212,102]}
+{"kind":"shape","id":"sh/fuh8bi58","slide":7,"bbox":[924,310,260,218]}
+{"kind":"textbox","id":"sh/ut8r2don","slide":7,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[946,330,46,46]}
+{"kind":"textbox","id":"sh/tszq98n2","slide":7,"text":"CHECK","textPreview":"CHECK","textChars":5,"textLines":1,"bbox":[1006,336,154,32]}
+{"kind":"textbox","id":"sh/srqp036h","slide":7,"text":"Return to the question; correct gaps and vague words.","textPreview":"Return to the question; correct gaps and vague words.","textChars":53,"textLines":1,"bbox":[948,398,212,102]}
+{"kind":"textbox","id":"sh/7qh87y5w","slide":7,"text":"Strong responses use evidence and reasoning—not a copied paragraph.","textPreview":"Strong responses use evidence and reasoning—not a copied paragraph.","textChars":67,"textLines":1,"bbox":[72,570,1136,44]}
+{"kind":"notes","id":"nt/5f3nw3","slide":7,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 8, Section 3 evidence prompt plus the course response scaffold.\nCourse authority: work/source-contract.md and work/source-audit.md.\nVisual treatment: editable PowerPoint diagram generated only from the cited module facts.\nSource boundary: examination status, scope and weighting are not claimed; this deck presents consolidation and extension only.\n[/Sources]\n\nTeaching note: Model the four-step process aloud. Students should be able to point to the fact and the explanation in their finished response.\nSlide 7 of 8."}
+{"kind":"slide","id":"sl/vx87u1","slide":8,"title":"EXIT TICKET + NEXT STEP","textShapes":16}
+{"kind":"shape","id":"sh/lknm1ozq","slide":8,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/yhwn69gz","slide":8,"text":"EXIT TICKET + NEXT STEP","textPreview":"EXIT TICKET + NEXT STEP","textChars":23,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/zi54zehk","slide":8,"text":"Finish with evidence","textPreview":"Finish with evidence","textChars":20,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/8ne5cjyh","slide":8,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/98nm5oz2","slide":8,"text":"YEAR 9 TEXTILES · MODULE 8","textPreview":"YEAR 9 TEXTILES · MODULE 8","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/mlwna9gb","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/7m543ehw","slide":8,"bbox":[72,184,550,376]}
+{"kind":"textbox","id":"sh/wby5g3yd","slide":8,"text":"EXIT TICKET","textPreview":"EXIT TICKET","textChars":11,"textLines":1,"bbox":[108,220,470,40]}
+{"kind":"textbox","id":"sh/hc7698zy","slide":8,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[108,292,46,46]}
+{"kind":"textbox","id":"sh/dovep03i","slide":8,"text":"Name one idea you can now explain accurately.","textPreview":"Name one idea you can now explain accurately.","textChars":45,"textLines":1,"bbox":[176,286,400,58]}
+{"kind":"textbox","id":"sh/cnmxwvmx","slide":8,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[108,374,46,46]}
+{"kind":"textbox","id":"sh/rmdwnqlc","slide":8,"text":"Identify one correction you made after retrieval.","textPreview":"Identify one correction you made after retrieval.","textChars":49,"textLines":1,"bbox":[176,368,400,58]}
+{"kind":"textbox","id":"sh/qlkful4r","slide":8,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[108,456,46,46]}
+{"kind":"textbox","id":"sh/lsvet03e","slide":8,"text":"State the evidence you will save from this module.","textPreview":"State the evidence you will save from this module.","textChars":50,"textLines":1,"bbox":[176,450,400,58]}
+{"kind":"shape","id":"sh/0rmx0vmt","slide":8,"bbox":[654,184,554,238]}
+{"kind":"textbox","id":"sh/zqdwrql8","slide":8,"text":"SAVE THIS EVIDENCE","textPreview":"SAVE THIS EVIDENCE","textChars":18,"textLines":1,"bbox":[686,216,490,34]}
+{"kind":"textbox","id":"sh/yp4fyl4n","slide":8,"text":"Revision map, final project evaluation and a brief for a teacher-approved textiles gift.","textPreview":"Revision map, final project evaluation and a brief for a teacher-approved textiles gift.","textChars":88,"textLines":1,"bbox":[686,270,490,118]}
+{"kind":"shape","id":"sh/hwbehg3a","slide":8,"bbox":[654,446,554,114]}
+{"kind":"textbox","id":"sh/gv2xobmp","slide":8,"text":"NEXT STEP","textPreview":"NEXT STEP","textChars":9,"textLines":1,"bbox":[682,468,140,28]}
+{"kind":"textbox","id":"sh/8zmx4bul","slide":8,"text":"Return to the module page, complete the evidence prompt and use teacher directions for practical work.","textPreview":"Return to the module page, complete the evidence prompt and use teacher directions for practical work.","textChars":102,"textLines":1,"bbox":[824,462,354,72]}
+{"kind":"textbox","id":"sh/t0fexgv6","slide":8,"text":"Explain it. Check it. Save it.","textPreview":"Explain it. Check it. Save it.","textChars":30,"textLines":1,"bbox":[72,594,1136,42]}
+{"kind":"notes","id":"nt/vx87u1","slide":8,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 8, module evidence summary and student next step.\nCourse authority: work/source-contract.md and work/source-audit.md.\nVisual treatment: editable PowerPoint diagram generated only from the cited module facts.\nSource boundary: examination status, scope and weighting are not claimed; this deck presents consolidation and extension only.\n[/Sources]\n\nTeaching note: Collect a brief spoken or written exit response. Remind students that the website and teacher directions control the practical next step.\nSlide 8 of 8."}

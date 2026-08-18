@@ -1,0 +1,34 @@
+{
+  "schema_version": "website-builder-network/v1",
+  "artifact_id": "year-9-textiles-graphic-audit-and-build-v2",
+  "version": "2.0",
+  "course": "Year 9 Textiles Technology",
+  "source_contract": {
+    "path": "work/source-contract-v2.md",
+    "digest": "sha256:4b2206593446017b6bf64bf0fd865acb204c7ea2f5bc254af1ddeec605a3ad1c"
+  },
+  "producer_status": "COMPLETE",
+  "gate_status": "PENDING_INDEPENDENT_RELEASE_GATES",
+  "publication_authority": "Authorised by Steve on 19 August 2026 after all mandatory gates pass",
+  "outputs": {
+    "authored_svg_count": 31,
+    "original_illustrative_png_count": 3,
+    "theory_section_placements": 24,
+    "private_or_student_assets": 0,
+    "commercial_pattern_scans": 0
+  },
+  "current_manifests": [
+    "work/diagram-production-manifest-v2.0.json",
+    "work/image-production/image-production-manifest-v1.0.json",
+    "work/visual-provenance-manifest-v2.0.json",
+    "work/release-gates/image-asset-audit-preintegration-v1.0.json"
+  ],
+  "plan_decision": "NO PLAN APPLICABLE — pattern-symbols.svg is a generic symbol-reading guide and does not replace the teacher-issued project pattern.",
+  "remaining_gate_sequence": [
+    "rendered-local visual audit",
+    "local course experience QA",
+    "local student acceptance",
+    "rendered-public visual audit",
+    "public student acceptance"
+  ]
+}

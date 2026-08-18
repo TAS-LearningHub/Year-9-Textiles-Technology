@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "2.0",
+  "course": "Year 9 Textiles Technology",
+  "sourceCohort": "Year 9",
+  "sourceYear": 2024,
+  "buildDate": "2026-08-18",
+  "publicationState": "Local only",
+  "verdict": "PASS",
+  "verdictScope": "Complete formal assessment schedule and notifications for the supplied 2024 Teacher Edition source set",
+  "laterCohortBoundary": "Students in a later cohort must use any replacement notification formally issued by the teacher.",
+  "schedule": [
+    {"task":1,"name":"Designer Pyjamas","due":"Folio Term 2 Week 5; practical Term 2 Week 9","weighting":30,"marks":80,"route":"assessment-notifications/designer-pyjamas.html"},
+    {"task":2,"name":"Textile Designers & Fashion Era","due":"Term 3 Week 8; 12 September 2024","weighting":20,"marks":20,"route":"assessment-notifications/fashion-magazine.html"},
+    {"task":3,"name":"Textile Art: In the Garden","due":"Term 4 Week 5; 14 November 2024","weighting":30,"marks":65,"route":"assessment-notifications/textile-art.html"},
+    {"task":4,"name":"Final Examination","due":"Term 4 Week 4; 7 November 2024","weighting":20,"marks":85,"route":"assessment-notifications/theory-examination.html"}
+  ],
+  "weightingCheck": {"total":100,"status":"PASS"},
+  "taskOrderingCheck": {"uniqueAndSequential":true,"status":"PASS"},
+  "sourceRegister": [
+    {"type":"teacherIssuedNotice","driveFileId":"1F3LqdDrxbdzV67bD3xPW2fR2s7BbF5tW091giWzVrpQ","title":"2024_Yr9_TASK_ONE_DESIGNER_PJ_ASSESSMENT_Task","controls":["Task 1 identity","weighting","outcomes","outline","folio and practical criteria","marks","teacher"]},
+    {"type":"teacherIssuedNotice","driveFileId":"1dklJpKj2o1ihT19uFpJcMwrtl0IJHlruS4dCZdMH5WY","title":"2024_Year_9_TASK_TWO_ASSIGNMENT_Task_Notification (3)","controls":["Task 2 identity","dates","weighting","outcomes","outline","20-mark grade criteria","teacher"]},
+    {"type":"teacherIssuedNotice","driveFileId":"1R5y1JCbHa6Do0LjCGdP6nInb6VsfmM3O8UgXH5woG8Y","title":"2024_9TEXE1_TASK_THREE_Textile_Art_ IN THE GARDEN_TASK","controls":["Task 3 identity","dates","weighting","outcomes","outline","practical and folio criteria","marks","teacher"]},
+    {"type":"teacherIssuedNotice","driveFileId":"19J4YdNvZpKR_lk2K_Ucp3id4k1grGyoMV0DixFMNujY","title":"2024_Year 9 Assessment Task Notification","controls":["Final examination date","weighting","conditions","teacher"]},
+    {"type":"assessmentInstrument","driveFileId":"1mfQkRYlSoY5sbA3HMtszIlHq4upHRt2utCWRV8I-AaQ","title":"2024_Yr_9_Open_Book_Exam","controls":["85-mark total","examination content allocation"],"publicCopy":"Excluded"},
+    {"type":"currentSchoolPolicyHub","url":"https://sites.google.com/education.nsw.gov.au/wwhsstudentparentinformation/curriculum-information/assessment-handbooks","verified":"2026-08-18"},
+    {"type":"syllabus","title":"Textiles Technology 7–10 (2019)","url":"https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-technology-7-10-2019","verified":"2026-08-18"}
+  ],
+  "reconciliationLog": [
+    {"field":"Task 1 exact calendar dates","sourceConflict":"The source calls 26 May and 23 June 2024 Fridays, but both dates were Sundays.","resolution":"Preserved the authorised Term 2 Week 5 and Week 9 checkpoints; omitted the internally invalid calendar dates."},
+    {"field":"Task 2 due date","sourceConflict":"A copied term outline disagrees with the formal notification.","resolution":"Used the higher-authority formal notification value: Thursday 12 September 2024, Term 3 Week 8."},
+    {"field":"Task 3 theme","sourceConflict":"The file title, task-name field, term sequence and final examination use In the Garden; one copied body line says SELFIE.","resolution":"Used In the Garden consistently and retained the authorised size, technique and marking requirements."},
+    {"field":"Task 3 weekday","sourceConflict":"The notice labels 14 November 2024 as Tuesday; the date was Thursday.","resolution":"Displayed the authorised exact date and term/week without reproducing the incorrect weekday."},
+    {"field":"Final examination task number","sourceConflict":"The examination notice duplicates Task 3.","resolution":"Positioned the examination as Task 4 because it follows Tasks 1–3 and the four supplied weights reconcile exactly to 100%."},
+    {"field":"Final examination outcomes","sourceConflict":"The notice uses legacy outcome numbers.","resolution":"Mapped the identical outcome descriptions to current TEX5-1, TEX5-2, TEX5-3, TEX5-6 and TEX5-7 codes in the teacher-posted 2019 syllabus."}
+  ],
+  "notificationStructure": ["course/year/formal label","task identity","issue and due","weighting and outcomes","student summary","outline and evidence","criteria and marks","submission","policy and support","source and verification"],
+  "privacy": {"studentNames":"Excluded","answerKey":"Excluded","examPaper":"Not copied to the student site","privateAdjustments":"Excluded","historicalHighConsequencePolicyText":"Replaced with current handbook link"},
+  "ownedFiles": ["assessment.html","assessment-notifications/designer-pyjamas.html","assessment-notifications/fashion-magazine.html","assessment-notifications/textile-art.html","assessment-notifications/theory-examination.html","assets/assessment-data.js","assets/assessment-notification.js","assets/course-data.js","assets/module.js","assets/folio.js","assets/video-manifest.js","assets/site.css","assets/module-standard.css","teacher-resources.html","BUILD-REPORT.md","folio-build-manifest-v2.json","assessment-schedule-notification-manifest-v2.json"],
+  "verification": {
+    "desktop":"PASS — landing page and all four notices rendered at 1440 px without horizontal overflow",
+    "mobile390":"PASS — landing page and representative full Textile Art notice rendered at exactly 390 px without document overflow",
+    "directRoutes":"PASS — assessment landing page, four notification routes and supporting assets returned HTTP 200",
+    "printA4":"PASS — all notifications rendered and were visually inspected: Designer Pyjamas 3 pages, Fashion Era Magazine 3 pages, Textile Art 3 pages, Final Examination 2 pages; complete source blocks and no clipping",
+    "console":"PASS — no console or page errors on all five routes",
+    "contentAndWeighting":"PASS — task sequence 1–4 is unique, weightings total 100%, notification structure is complete, and no draft labels, placeholders, SELFIE residue or legacy exam outcome codes remain",
+    "crossSiteConsistency":"PASS — Module 7, the Textile Art folio and teacher resources now use the formal In the Garden brief; the folio exposes six source-aligned evidence cards",
+    "moduleMobile390":"PASS — Module 7 and the Textile Art folio render at exactly 390 px without document overflow"
+  },
+  "states": {"local":"Built","pushed":false,"deployed":false,"liveVerified":false}
+}

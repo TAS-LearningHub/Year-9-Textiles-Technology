@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en-AU" data-root=".">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="A private, device-local project folio for Year 9 Textiles Technology.">
+  <title>My folio | Year 9 Textiles</title>
+  <link rel="stylesheet" href="assets/site.css?v=20260819j">
+</head>
+<body data-page="folio">
+  <a class="skip-link" href="#main-content">Skip to folio</a>
+  <header class="hero folio-hero">
+    <div class="hero__inner">
+      <div>
+        <p class="eyebrow">Private project evidence</p>
+        <h1>My Textiles folio</h1>
+        <p class="hero-lede">Show the decisions, process and result behind your work—one useful piece of evidence at a time.</p>
+      </div>
+      <figure class="hero-visual folio-hero__visual">
+        <img src="assets/visuals/evaluation-cycle.svg" alt="A design evaluation cycle linking criteria, evidence, judgement and improvement">
+      </figure>
+    </div>
+  </header>
+  <main id="main-content" class="wrap folio-shell">
+    <section class="folio-orientation" aria-labelledby="folio-orientation-title">
+      <div class="section-heading">
+        <p class="kicker">How this folio works</p>
+        <h2 id="folio-orientation-title">Choose a project. Add real evidence. Keep your own backup.</h2>
+      </div>
+      <div class="folio-rhythm">
+        <article><span aria-hidden="true">1</span><h3>Choose</h3><p>Work in the project your teacher has confirmed.</p></article>
+        <article><span aria-hidden="true">2</span><h3>Explain</h3><p>Record what you decided, did and learned.</p></article>
+        <article><span aria-hidden="true">3</span><h3>Prove</h3><p>Add a purposeful image, caption or source reference.</p></article>
+      </div>
+    </section>
+    <section class="card folio-privacy" aria-labelledby="privacy-title">
+      <div>
+        <p class="kicker">Device-local workspace</p>
+        <h2 id="privacy-title">This is evidence preparation—not submission or teacher sign-off.</h2>
+        <p>Text and images stay in this browser on this device. Do not include faces, student names or identifiable school details in photos. Your teacher must observe practical competence and confirm the current Classroom submission instructions.</p>
+      </div>
+      <p class="folio-privacy__status"><strong>Safe habit:</strong> download a backup after each major work session and before changing devices.</p>
+    </section>
+    <section class="card folio-dashboard" aria-labelledby="workspace-title">
+      <div class="folio-dashboard__heading">
+        <div><p class="kicker">Your workspace</p><h2 id="workspace-title">Set the context for this folio</h2></div>
+        <div id="folio-save-state" class="folio-save-state" role="status" aria-live="polite">Ready to save on this device</div>
+      </div>
+      <div class="folio-details-grid">
+        <label>Student name or identifier <span>(optional)</span><input id="folio-student" type="text" autocomplete="off" placeholder="Use the identifier your teacher requests"></label>
+        <label>Class <span>(optional)</span><input id="folio-class" type="text" autocomplete="off" placeholder="For example, 9 Textiles"></label>
+        <label>Project<select id="folio-project"></select></label>
+      </div>
+      <div class="folio-progress" aria-labelledby="progress-title">
+        <div><p class="kicker" id="progress-title">Evidence snapshot</p><p id="folio-progress-text">Choose a project to see its evidence cards.</p></div>
+        <div class="folio-progress__counts" aria-live="polite"><span><strong id="count-blank">0</strong> blank</span><span><strong id="count-started">0</strong> started</span><span><strong id="count-evidence">0</strong> evidence added</span></div>
+      </div>
+      <div class="actions folio-actions" aria-label="Folio file actions">
+        <button id="backup" class="button" type="button">Download backup</button>
+        <label class="button ghost" for="restore">Restore backup</label>
+        <input id="restore" type="file" accept="application/json,.json" hidden>
+        <button class="button ghost" type="button" data-print>Print / save PDF</button>
+      </div>
+      <p class="folio-action-note">A backup includes this folio's writing and added images. It does not submit work to Classroom.</p>
+    </section>
+    <section id="folio-project-note" class="folio-project-note" aria-live="polite"></section>
+    <section id="folio-entries" class="folio-entries" aria-label="Project evidence cards"></section>
+    <section class="card folio-legacy" aria-labelledby="legacy-title">
+      <details>
+        <summary id="legacy-title">Previously saved course responses</summary>
+        <p>Older module and activity writing is preserved separately so a folio rebuild never erases it. Clearly matched magazine activity writing is copied into the magazine folio once; everything else remains available here for reference.</p>
+        <div id="legacy-entries" class="legacy-entries"></div>
+      </details>
+    </section>
+    <section class="card warning folio-reset" aria-labelledby="reset-title">
+      <div><p class="kicker">Device housekeeping</p><h2 id="reset-title">Reset only this folio</h2><p>This clears the version 2 project cards and their images on this device. It does not clear older module responses, activities or any other course data.</p></div>
+      <button id="reset-folio" class="button danger" type="button">Reset this folio</button>
+    </section>
+  </main>
+  <footer><p>Year 9 Textiles Technology · Private project folio</p></footer>
+  <script src="assets/folio.js"></script>
+  <script src="assets/app.js"></script>
+  <script src="vendor/html2canvas.min.js"></script>
+  <script src="assets/section-reference.js"></script>
+</body>
+</html>

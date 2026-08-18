@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "build": "Year 9 Textiles teaching program and scope and sequence",
+  "version": "1.0",
+  "date": "2026-08-19",
+  "state": "Issue-ready candidate",
+  "canonical_program": "resources/teacher/Year-9-Textiles-Teaching-Program-and-Scope-Sequence-v1.0.docx",
+  "canonical_pdf": "resources/teacher/Year-9-Textiles-Teaching-Program-and-Scope-Sequence-v1.0.pdf",
+  "manifest": "resources/teacher/year-9-textiles-program-alignment-v1.0.json",
+  "site_map": "resources/teacher/year-9-textiles-program-site-map-v1.0.json",
+  "delivery_ledger": "resources/teacher/Year-9-Textiles-Delivery-Ledger-v1.0.docx",
+  "status": {
+    "producer": "complete",
+    "manifest_validation": "PASS",
+    "docx_render_review": "PASS",
+    "pdf_review": "PASS",
+    "site_integration": "PASS",
+    "audit": "independent course release gate recorded separately",
+    "pushed": false,
+    "deployed": false
+  },
+  "teacher_to_confirm": [
+    "TBC-01",
+    "TBC-02",
+    "TBC-03",
+    "TBC-04"
+  ],
+  "files": {
+    "Year-9-Textiles-Delivery-Ledger-v1.0.docx": {
+      "sha256": "b3f10ccbce0b07228b00e37a35a710d4fb333a941af2989317a6f0c013542e5c",
+      "bytes": 48149
+    },
+    "year-9-textiles-program-alignment-v1.0.json": {
+      "sha256": "13fcf03452e40413a90d46d0f7a0308b96ae4141b8e7a9591bc2c61daf005fd4",
+      "bytes": 134997
+    },
+    "year-9-textiles-program-site-map-v1.0.json": {
+      "sha256": "3c3d74a725d715678face528a5dfba5134133cb0a55374ffae79e6fcc18ef696",
+      "bytes": 12998
+    },
+    "Year-9-Textiles-Teaching-Program-and-Scope-Sequence-v1.0.docx": {
+      "sha256": "37419e9151153dc94659f5a234aee5bea712d073899f384e1ed3fab7688cdd5d",
+      "bytes": 53716
+    },
+    "Year-9-Textiles-Teaching-Program-and-Scope-Sequence-v1.0.pdf": {
+      "sha256": "69d1b59a102b2aad0ca1ec2635d39711858dae60cad2fab36c8695e328abaeb3",
+      "bytes": 315528
+    }
+  },
+  "teacher_resources": {
+    "path": "teacher-resources.html",
+    "sha256": "7b390458f3accd93b5a7fddfbef7655daf6852cd55eef2dbe9f8e6aa1db0fa0c"
+  }
+}

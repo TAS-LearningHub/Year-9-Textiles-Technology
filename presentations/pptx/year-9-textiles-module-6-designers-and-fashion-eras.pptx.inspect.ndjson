@@ -1,0 +1,163 @@
+{"kind":"deck","id":"pr/ekpvz8","name":"Deck"}
+{"kind":"layout","layoutId":"36c684cb-17ad-4ce4-877a-46be7ed0d3b6","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"2aeba57f-a4c1-4722-bfe1-4aa1b80825d8","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/zwlwud","slide":1,"title":"6","textShapes":6}
+{"kind":"shape","id":"sh/3utkryhs","slide":1,"bbox":[0,0,24,720]}
+{"kind":"shape","id":"sh/4v2l03id","slide":1,"bbox":[78,64,58,58]}
+{"kind":"textbox","id":"sh/5wb2t8zy","slide":1,"text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[78,64,58,58]}
+{"kind":"textbox","id":"sh/qxk32d0j","slide":1,"text":"YEAR 9 TEXTILES TECHNOLOGY","textPreview":"YEAR 9 TEXTILES TECHNOLOGY","textChars":26,"textLines":1,"bbox":[154,77,420,36]}
+{"kind":"textbox","id":"sh/rytkvih4","slide":1,"text":"Designers & fashion eras","textPreview":"Designers & fashion eras","textChars":24,"textLines":1,"bbox":[78,172,515,212]}
+{"kind":"textbox","id":"sh/szml43i9","slide":1,"text":"Investigate fashion history, designer practice, inspiration, target markets and the way earlier design features reappear in contemporary work.","textPreview":"Investigate fashion history, designer practice, inspiration, target markets and the way earlier design features reappear in contemporary ...","textChars":142,"textLines":1,"bbox":[82,414,500,110]}
+{"kind":"shape","id":"sh/dkv2x8zu","slide":1,"bbox":[82,558,500,68]}
+{"kind":"textbox","id":"sh/el436d0f","slide":1,"text":"TODAY: understand → retrieve → explain → save evidence","textPreview":"TODAY: understand → retrieve → explain → save evidence","textChars":54,"textLines":1,"bbox":[106,572,452,42]}
+{"kind":"shape","id":"sh/fmdkzih0","slide":1,"bbox":[646,86,562,518]}
+{"kind":"textbox","id":"sh/690f6lob","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1124,666,84,32]}
+{"kind":"image","id":"im/0ju90bu1","slide":1,"name":"","geometry":"roundRect","alt":"Module 6 subject visual","bbox":[670,110,514,470]}
+{"kind":"notes","id":"nt/zwlwud","slide":1,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 6, module summary and evidence sequence.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/fashion-timeline.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: State the module purpose. Ask students which part of the topic feels familiar and which part is new.\nSlide 1 of 8."}
+{"kind":"slide","id":"sl/5pcofs","slide":2,"title":"LEARNING MAP + RETRIEVAL STARTER","textShapes":15}
+{"kind":"shape","id":"sh/qdgrmlsb","slide":2,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/d07qx0b2","slide":2,"text":"LEARNING MAP + RETRIEVAL STARTER","textPreview":"LEARNING MAP + RETRIEVAL STARTER","textChars":32,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/cfy9ovah","slide":2,"text":"Three ideas to connect","textPreview":"Three ideas to connect","textChars":22,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/z298zat8","slide":2,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/e10rq5sn","slide":2,"text":"YEAR 9 TEXTILES · MODULE 6","textPreview":"YEAR 9 TEXTILES · MODULE 6","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/14rq10ry","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/03i9sfad","slide":2,"bbox":[72,182,760,98]}
+{"kind":"textbox","id":"sh/f658n6to","slide":2,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[94,202,52,52]}
+{"kind":"textbox","id":"sh/u5w7e1s3","slide":2,"text":"Fashion eras and historical influence","textPreview":"Fashion eras and historical influence","textChars":37,"textLines":1,"bbox":[170,198,630,34]}
+{"kind":"textbox","id":"sh/cni5kzal","slide":2,"text":"Fashion changes with social, technological and material conditions.","textPreview":"Fashion changes with social, technological and material conditions.","textChars":67,"textLines":1,"bbox":[170,234,630,30]}
+{"kind":"shape","id":"sh/dor6d4b6","slide":2,"bbox":[72,302,760,98]}
+{"kind":"textbox","id":"sh/qlgnipsv","slide":2,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[94,322,52,52]}
+{"kind":"textbox","id":"sh/rm9obutg","slide":2,"text":"Designer practice and target markets","textPreview":"Designer practice and target markets","textChars":36,"textLines":1,"bbox":[170,318,630,34]}
+{"kind":"textbox","id":"sh/0bi5ojax","slide":2,"text":"Styling, material quality, price and marketing shape a designer's image.","textPreview":"Styling, material quality, price and marketing shape a designer's image.","textChars":72,"textLines":1,"bbox":[170,354,630,30]}
+{"kind":"shape","id":"sh/1cr6h4bi","slide":2,"bbox":[72,422,760,98]}
+{"kind":"textbox","id":"sh/ep0nm9sr","slide":2,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[94,442,52,52]}
+{"kind":"textbox","id":"sh/za9ofetc","slide":2,"text":"Magazine research and respectful evidence","textPreview":"Magazine research and respectful evidence","textChars":41,"textLines":1,"bbox":[170,438,630,34]}
+{"kind":"textbox","id":"sh/gfy5cfat","slide":2,"text":"The task requires two magazine articles.","textPreview":"The task requires two magazine articles.","textChars":40,"textLines":1,"bbox":[170,474,630,30]}
+{"kind":"shape","id":"sh/hg765kby","slide":2,"bbox":[866,182,342,344]}
+{"kind":"textbox","id":"sh/wbqlgbmh","slide":2,"text":"RETRIEVE FIRST","textPreview":"RETRIEVE FIRST","textChars":14,"textLines":1,"bbox":[892,404,286,26]}
+{"kind":"textbox","id":"sh/vah476lw","slide":2,"text":"Without notes: say one fact you already know and one question you need answered.","textPreview":"Without notes: say one fact you already know and one question you need answered.","textChars":80,"textLines":1,"bbox":[900,438,270,68]}
+{"kind":"image","id":"im/qxgf21cj","slide":2,"name":"","geometry":"roundRect","alt":"Course learning map visual","bbox":[892,198,290,190]}
+{"kind":"notes","id":"nt/5pcofs","slide":2,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 6, all three section titles and first facts.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/magazine-evidence-map.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Give students 30 seconds of silent retrieval, then connect their responses to the three-part learning map.\nSlide 2 of 8."}
+{"kind":"slide","id":"sl/shswz5","slide":3,"title":"THEORY 1 OF 3","textShapes":9}
+{"kind":"shape","id":"sh/qhsji10r","slide":3,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/dk32tgji","slide":3,"text":"THEORY 1 OF 3","textPreview":"THEORY 1 OF 3","textChars":13,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/cjulkbix","slide":3,"text":"Fashion eras and historical influence","textPreview":"Fashion eras and historical influence","textChars":37,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/zmlkvq1o","slide":3,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/elc3ml03","slide":3,"text":"YEAR 9 TEXTILES · MODULE 6","textPreview":"YEAR 9 TEXTILES · MODULE 6","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/1o32xgje","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/0nulovit","slide":3,"bbox":[72,184,558,338]}
+{"kind":"textbox","id":"sh/nq5kzq1k","slide":3,"text":"UNDERSTAND THE IDEA","textPreview":"UNDERSTAND THE IDEA","textChars":19,"textLines":1,"bbox":[100,208,502,26]}
+{"kind":"textbox","id":"sh/mpc3ql0z","slide":3,"text":"Fashion changes with social, technological and material conditions. Clothing reflects the circumstances and values of its time.\nIndustrialisation supported sewing-machine use and ready-to-wear production. Technology changed how garments could be manufactured and sold.\nHistorical features can reappear in contemporary fashion. Designers reinterpret silhouettes, details or materials for a new context.","textPreview":"Fashion changes with social, technological and material conditions. Clothing reflects the circumstances and values of its time. | Industr...","textChars":401,"textLines":3,"bbox":[100,252,502,246]}
+{"kind":"shape","id":"sh/0re5cfy9","slide":3,"bbox":[650,184,558,338]}
+{"kind":"textbox","id":"sh/epwna5g3","slide":3,"text":"SEE THE RELATIONSHIP","textPreview":"SEE THE RELATIONSHIP","textChars":20,"textLines":1,"bbox":[678,486,502,24]}
+{"kind":"shape","id":"sh/zq5ojaxo","slide":3,"bbox":[72,548,1136,96]}
+{"kind":"textbox","id":"sh/ovy5gzy5","slide":3,"text":"EVIDENCE PROMPT","textPreview":"EVIDENCE PROMPT","textChars":15,"textLines":1,"bbox":[98,568,210,24]}
+{"kind":"textbox","id":"sh/9w76pkfq","slide":3,"text":"Choose a fashion era and explain two design features and one way the era influences contemporary fashion.","textPreview":"Choose a fashion era and explain two design features and one way the era influences contemporary fashion.","textChars":105,"textLines":1,"bbox":[310,562,870,60]}
+{"kind":"image","id":"im/69sfad07","slide":3,"name":"","geometry":"roundRect","alt":"Fashion eras and historical influence explanatory visual","bbox":[674,206,510,278]}
+{"kind":"notes","id":"nt/shswz5","slide":3,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 6, Section 1: Fashion eras and historical influence.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/fashion-era-influence.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Teach the three points, then pause for students to answer the evidence prompt in one or two precise sentences.\nSlide 3 of 8."}
+{"kind":"slide","id":"sl/6esyd3","slide":4,"title":"THEORY 2 OF 3","textShapes":9}
+{"kind":"shape","id":"sh/ipo321kn","slide":4,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/5sfmxgjy","slide":4,"text":"THEORY 2 OF 3","textPreview":"THEORY 2 OF 3","textChars":13,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/4r6l4b2t","slide":4,"text":"Designer practice and target markets","textPreview":"Designer practice and target markets","textChars":36,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/vmx4rm1w","slide":4,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/ul43yhkb","slide":4,"text":"YEAR 9 TEXTILES · MODULE 6","textPreview":"YEAR 9 TEXTILES · MODULE 6","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/hofmtwj2","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/wn6l0r2h","slide":4,"bbox":[650,184,558,338]}
+{"kind":"textbox","id":"sh/7yd4nm10","slide":4,"text":"UNDERSTAND THE IDEA","textPreview":"UNDERSTAND THE IDEA","textChars":19,"textLines":1,"bbox":[678,208,502,26]}
+{"kind":"textbox","id":"sh/mx43uhkf","slide":4,"text":"Styling, material quality, price and marketing shape a designer's image. These decisions communicate position and target market.\nHaute couture is custom made for private clients. It uses made-to-order design, fittings and specialist production.\nReady-to-wear is produced in sizes for retail sale. Customers can select from prepared styles and take the garment home.","textPreview":"Styling, material quality, price and marketing shape a designer's image. These decisions communicate position and target market. | Haute ...","textChars":365,"textLines":3,"bbox":[678,252,502,246]}
+{"kind":"shape","id":"sh/kv2h83qx","slide":4,"bbox":[72,184,558,338]}
+{"kind":"textbox","id":"sh/i9kz6t8r","slide":4,"text":"SEE THE RELATIONSHIP","textPreview":"SEE THE RELATIONSHIP","textChars":20,"textLines":1,"bbox":[100,486,502,24]}
+{"kind":"shape","id":"sh/jutgzypc","slide":4,"bbox":[72,548,1136,96]}
+{"kind":"textbox","id":"sh/w72x4jql","slide":4,"text":"EVIDENCE PROMPT","textPreview":"EVIDENCE PROMPT","textChars":15,"textLines":1,"bbox":[98,568,210,24]}
+{"kind":"textbox","id":"sh/x8byxo76","slide":4,"text":"Compare haute couture and ready-to-wear, then explain how a designer's target market changes their decisions.","textPreview":"Compare haute couture and ready-to-wear, then explain how a designer's target market changes their decisions.","textChars":109,"textLines":1,"bbox":[310,562,870,60]}
+{"kind":"image","id":"im/qtwfmhc3","slide":4,"name":"","geometry":"roundRect","alt":"Designer practice and target markets explanatory visual","bbox":[96,206,510,278]}
+{"kind":"notes","id":"nt/6esyd3","slide":4,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 6, Section 2: Designer practice and target markets.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/designer-market.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Teach the three points, then pause for students to answer the evidence prompt in one or two precise sentences.\nSlide 4 of 8."}
+{"kind":"slide","id":"sl/x5vzoo","slide":5,"title":"THEORY 3 OF 3","textShapes":9}
+{"kind":"shape","id":"sh/h0retgfe","slide":5,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/ux0vilgn","slide":5,"text":"THEORY 3 OF 3","textPreview":"THEORY 3 OF 3","textChars":13,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/fy9wrqx8","slide":5,"text":"Magazine research and respectful evidence","textPreview":"Magazine research and respectful evidence","textChars":41,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/sbidgbyh","slide":5,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/twrepgf2","slide":5,"text":"YEAR 9 TEXTILES · MODULE 6","textPreview":"YEAR 9 TEXTILES · MODULE 6","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/69gve1gr","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/7apwn6xc","slide":5,"bbox":[72,184,558,338]}
+{"kind":"textbox","id":"sh/k7ydcbyl","slide":5,"text":"UNDERSTAND THE IDEA","textPreview":"UNDERSTAND THE IDEA","textChars":19,"textLines":1,"bbox":[100,208,502,26]}
+{"kind":"textbox","id":"sh/587elwf6","slide":5,"text":"The task requires two magazine articles. One covers a fashion era and one presents a textile-designer interview.\nMagazine styling should support readable information. Layout and images communicate best when hierarchy remains clear.\nImages require captions and APA references. The reader must be able to identify and trace the source.","textPreview":"The task requires two magazine articles. One covers a fashion era and one presents a textile-designer interview. | Magazine styling shoul...","textChars":333,"textLines":3,"bbox":[100,252,502,246]}
+{"kind":"shape","id":"sh/lgvyhk3u","slide":5,"bbox":[650,184,558,338]}
+{"kind":"textbox","id":"sh/zedgful4","slide":5,"text":"SEE THE RELATIONSHIP","textPreview":"SEE THE RELATIONSHIP","textChars":20,"textLines":1,"bbox":[678,486,502,24]}
+{"kind":"shape","id":"sh/ed4fmpkj","slide":5,"bbox":[72,548,1136,96]}
+{"kind":"textbox","id":"sh/dcvydk3y","slide":5,"text":"EVIDENCE PROMPT","textPreview":"EVIDENCE PROMPT","textChars":15,"textLines":1,"bbox":[98,568,210,24]}
+{"kind":"textbox","id":"sh/cbmxkf2d","slide":5,"text":"Plan the two magazine articles, including headings, image evidence and how you will reference sources respectfully.","textPreview":"Plan the two magazine articles, including headings, image evidence and how you will reference sources respectfully.","textChars":115,"textLines":1,"bbox":[310,562,870,60]}
+{"kind":"image","id":"im/3ad4ril0","slide":5,"name":"","geometry":"roundRect","alt":"Magazine research and respectful evidence explanatory visual","bbox":[674,206,510,278]}
+{"kind":"notes","id":"nt/x5vzoo","slide":5,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 6, Section 3: Magazine research and respectful evidence.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/respectful-magazine.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Teach the three points, then pause for students to answer the evidence prompt in one or two precise sentences.\nSlide 5 of 8."}
+{"kind":"slide","id":"sl/1pmml0","slide":6,"title":"NO NOTES FOR THE FIRST ATTEMPT","textShapes":14}
+{"kind":"shape","id":"sh/fet0bid0","slide":6,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/gf214nel","slide":6,"text":"NO NOTES FOR THE FIRST ATTEMPT","textPreview":"NO NOTES FOR THE FIRST ATTEMPT","textChars":30,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/hgbidsv6","slide":6,"text":"Retrieve before you check","textPreview":"Retrieve before you check","textChars":25,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/2hkj6xwr","slide":6,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/3it0f2dc","slide":6,"text":"YEAR 9 TEXTILES · MODULE 6","textPreview":"YEAR 9 TEXTILES · MODULE 6","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/43m187eh","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/p4vihcv2","slide":6,"bbox":[72,190,354,344]}
+{"kind":"textbox","id":"sh/q54jahwn","slide":6,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[96,214,64,64]}
+{"kind":"textbox","id":"sh/r6dkjmd8","slide":6,"text":"Fashion eras and historical influence","textPreview":"Fashion eras and historical influence","textChars":37,"textLines":1,"bbox":[96,302,306,70]}
+{"kind":"textbox","id":"sh/fydk7e1w","slide":6,"text":"Define fashion eras and historical influence in your own words and give one course example.","textPreview":"Define fashion eras and historical influence in your own words and give one course example.","textChars":91,"textLines":1,"bbox":[96,390,306,114]}
+{"kind":"shape","id":"sh/ex4je90b","slide":6,"bbox":[458,190,354,344]}
+{"kind":"textbox","id":"sh/10v29oj2","slide":6,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[482,214,64,64]}
+{"kind":"textbox","id":"sh/gzm1gjih","slide":6,"text":"Designer practice and target markets","textPreview":"Designer practice and target markets","textChars":36,"textLines":1,"bbox":[482,302,306,70]}
+{"kind":"textbox","id":"sh/rudk3e10","slide":6,"text":"Why does designer practice and target markets matter to a successful textile outcome?","textPreview":"Why does designer practice and target markets matter to a successful textile outcome?","textChars":85,"textLines":1,"bbox":[482,390,306,114]}
+{"kind":"shape","id":"sh/6tkja90f","slide":6,"bbox":[844,190,354,344]}
+{"kind":"textbox","id":"sh/twv25oj6","slide":6,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[868,214,64,64]}
+{"kind":"textbox","id":"sh/svm1cjil","slide":6,"text":"Magazine research and respectful evidence","textPreview":"Magazine research and respectful evidence","textChars":41,"textLines":1,"bbox":[868,302,306,70]}
+{"kind":"textbox","id":"sh/bqxkfy14","slide":6,"text":"What evidence would prove you understand magazine research and respectful evidence?","textPreview":"What evidence would prove you understand magazine research and respectful evidence?","textChars":83,"textLines":1,"bbox":[868,390,306,114]}
+{"kind":"textbox","id":"sh/qpoj6t0j","slide":6,"text":"Attempt → check the module → correct in a different colour","textPreview":"Attempt → check the module → correct in a different colour","textChars":58,"textLines":1,"bbox":[72,574,1136,42]}
+{"kind":"notes","id":"nt/1pmml0","slide":6,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 6, retrieval questions generated from the first fact in each section.\nCourse authority: work/source-contract.md and work/source-audit.md.\nVisual treatment: editable PowerPoint diagram generated only from the cited module facts.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Keep the first attempt closed-book. Accuracy improves when students check and visibly correct the response afterwards.\nSlide 6 of 8."}
+{"kind":"slide","id":"sl/32ol3c","slide":7,"title":"READ → SELECT → EXPLAIN → CHECK","textShapes":19}
+{"kind":"shape","id":"sh/ylw7ylo3","slide":7,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/lonqtg7u","slide":7,"text":"READ → SELECT → EXPLAIN → CHECK","textPreview":"READ → SELECT → EXPLAIN → CHECK","textChars":31,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/knep0b69","slide":7,"text":"Build one strong written response","textPreview":"Build one strong written response","textChars":33,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/7a58vqp0","slide":7,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/mpw72lof","slide":7,"text":"YEAR 9 TEXTILES · MODULE 6","textPreview":"YEAR 9 TEXTILES · MODULE 6","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/9c7qx076","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/8byp4v6l","slide":7,"bbox":[72,174,1136,92]}
+{"kind":"textbox","id":"sh/nelojmpg","slide":7,"text":"QUESTION","textPreview":"QUESTION","textChars":8,"textLines":1,"bbox":[96,194,130,24]}
+{"kind":"textbox","id":"sh/2tc7q18b","slide":7,"text":"Plan the two magazine articles, including headings, image evidence and how you will reference sources respectfully.","textPreview":"Plan the two magazine articles, including headings, image evidence and how you will reference sources respectfully.","textChars":115,"textLines":1,"bbox":[230,188,948,58]}
+{"kind":"shape","id":"sh/gryh8zmd","slide":7,"bbox":[72,310,260,218]}
+{"kind":"textbox","id":"sh/hs7y143y","slide":7,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[94,330,46,46]}
+{"kind":"textbox","id":"sh/upwz694n","slide":7,"text":"READ","textPreview":"READ","textChars":4,"textLines":1,"bbox":[154,336,154,32]}
+{"kind":"textbox","id":"sh/vqpgzuls","slide":7,"text":"Underline the action word and the exact topic.","textPreview":"Underline the action word and the exact topic.","textChars":46,"textLines":1,"bbox":[96,398,212,102]}
+{"kind":"shape","id":"sh/4vyhcjmp","slide":7,"bbox":[356,310,260,218]}
+{"kind":"textbox","id":"sh/5w7y5o3a","slide":7,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[378,330,46,46]}
+{"kind":"textbox","id":"sh/itgza94j","slide":7,"text":"SELECT","textPreview":"SELECT","textChars":6,"textLines":1,"bbox":[438,336,154,32]}
+{"kind":"textbox","id":"sh/3upg3el4","slide":7,"text":"Choose two or three course facts that answer it.","textPreview":"Choose two or three course facts that answer it.","textChars":48,"textLines":1,"bbox":[380,398,212,102]}
+{"kind":"shape","id":"sh/kzeh0fm5","slide":7,"bbox":[640,310,260,218]}
+{"kind":"textbox","id":"sh/l0nytknq","slide":7,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[662,330,46,46]}
+{"kind":"textbox","id":"sh/1kv6hcbi","slide":7,"text":"EXPLAIN","textPreview":"EXPLAIN","textChars":7,"textLines":1,"bbox":[722,336,154,32]}
+{"kind":"textbox","id":"sh/0jm58rax","slide":7,"text":"Link each fact to why it matters or what it proves.","textPreview":"Link each fact to why it matters or what it proves.","textChars":51,"textLines":1,"bbox":[664,398,212,102]}
+{"kind":"shape","id":"sh/fidofmtc","slide":7,"bbox":[924,310,260,218]}
+{"kind":"textbox","id":"sh/eh4n6hsr","slide":7,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[946,330,46,46]}
+{"kind":"textbox","id":"sh/p8v6lwbe","slide":7,"text":"CHECK","textPreview":"CHECK","textChars":5,"textLines":1,"bbox":[1006,336,154,32]}
+{"kind":"textbox","id":"sh/o7m5crat","slide":7,"text":"Return to the question; correct gaps and vague words.","textPreview":"Return to the question; correct gaps and vague words.","textChars":53,"textLines":1,"bbox":[948,398,212,102]}
+{"kind":"textbox","id":"sh/n6dojmto","slide":7,"text":"Strong responses use evidence and reasoning—not a copied paragraph.","textPreview":"Strong responses use evidence and reasoning—not a copied paragraph.","textChars":67,"textLines":1,"bbox":[72,570,1136,44]}
+{"kind":"notes","id":"nt/32ol3c","slide":7,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 6, Section 3 evidence prompt plus the course response scaffold.\nCourse authority: work/source-contract.md and work/source-audit.md.\nVisual treatment: editable PowerPoint diagram generated only from the cited module facts.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Model the four-step process aloud. Students should be able to point to the fact and the explanation in their finished response.\nSlide 7 of 8."}
+{"kind":"slide","id":"sl/gxs41x","slide":8,"title":"EXIT TICKET + NEXT STEP","textShapes":16}
+{"kind":"shape","id":"sh/xgjutc3e","slide":8,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/atsvyx43","slide":8,"text":"EXIT TICKET + NEXT STEP","textPreview":"EXIT TICKET + NEXT STEP","textChars":23,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/bu1cr2lo","slide":8,"text":"Finish with evidence","textPreview":"Finish with evidence","textChars":20,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/orqdwnmx","slide":8,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/9sjups3i","slide":8,"text":"YEAR 9 TEXTILES · MODULE 6","textPreview":"YEAR 9 TEXTILES · MODULE 6","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/mp8bud4r","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/nqhcnilc","slide":8,"bbox":[72,184,550,376]}
+{"kind":"textbox","id":"sh/0nqtsnm1","slide":8,"text":"EXIT TICKET","textPreview":"EXIT TICKET","textChars":11,"textLines":1,"bbox":[108,220,470,40]}
+{"kind":"textbox","id":"sh/1ozul83m","slide":8,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[108,292,46,46]}
+{"kind":"textbox","id":"sh/dk72h0bi","slide":8,"text":"Name one idea you can now explain accurately.","textPreview":"Name one idea you can now explain accurately.","textChars":45,"textLines":1,"bbox":[176,286,400,58]}
+{"kind":"textbox","id":"sh/cjy1ovux","slide":8,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[108,374,46,46]}
+{"kind":"textbox","id":"sh/bipkfqtc","slide":8,"text":"Identify one correction you made after retrieval.","textPreview":"Identify one correction you made after retrieval.","textChars":49,"textLines":1,"bbox":[176,368,400,58]}
+{"kind":"textbox","id":"sh/qhgjm5c7","slide":8,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[108,456,46,46]}
+{"kind":"textbox","id":"sh/pg72d0bm","slide":8,"text":"State the evidence you will save from this module.","textPreview":"State the evidence you will save from this module.","textChars":50,"textLines":1,"bbox":[176,450,400,58]}
+{"kind":"shape","id":"sh/ofy1kvu1","slide":8,"bbox":[654,184,554,238]}
+{"kind":"textbox","id":"sh/3epkbqtg","slide":8,"text":"SAVE THIS EVIDENCE","textPreview":"SAVE THIS EVIDENCE","textChars":18,"textLines":1,"bbox":[686,216,490,34]}
+{"kind":"textbox","id":"sh/2tgjilcv","slide":8,"text":"Two-part magazine: a fashion-era report and a designer interview with images and APA references.","textPreview":"Two-part magazine: a fashion-era report and a designer interview with images and APA references.","textChars":96,"textLines":1,"bbox":[686,270,490,118]}
+{"kind":"shape","id":"sh/1sn29gba","slide":8,"bbox":[654,446,554,114]}
+{"kind":"textbox","id":"sh/gre1gbup","slide":8,"text":"NEXT STEP","textPreview":"NEXT STEP","textChars":9,"textLines":1,"bbox":[682,468,140,28]}
+{"kind":"textbox","id":"sh/svi1wv2l","slide":8,"text":"Return to the module page, complete the evidence prompt and use teacher directions for practical work.","textPreview":"Return to the module page, complete the evidence prompt and use teacher directions for practical work.","textChars":102,"textLines":1,"bbox":[824,462,354,72]}
+{"kind":"textbox","id":"sh/twr2pgj6","slide":8,"text":"Explain it. Check it. Save it.","textPreview":"Explain it. Check it. Save it.","textChars":30,"textLines":1,"bbox":[72,594,1136,42]}
+{"kind":"notes","id":"nt/gxs41x","slide":8,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 6, module evidence summary and student next step.\nCourse authority: work/source-contract.md and work/source-audit.md.\nVisual treatment: editable PowerPoint diagram generated only from the cited module facts.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Collect a brief spoken or written exit response. Remind students that the website and teacher directions control the practical next step.\nSlide 8 of 8."}

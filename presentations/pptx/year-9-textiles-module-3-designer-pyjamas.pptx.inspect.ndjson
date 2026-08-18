@@ -1,0 +1,163 @@
+{"kind":"deck","id":"pr/b2livo","name":"Deck"}
+{"kind":"layout","layoutId":"1c6ce575-c8d8-4aba-af87-1ac8c4e22de2","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"e31b85f1-0cf5-4c39-b263-b880fb3e3c4c","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/7qejbc","slide":1,"title":"3","textShapes":6}
+{"kind":"shape","id":"sh/mxwjaxw3","slide":1,"bbox":[0,0,24,720]}
+{"kind":"shape","id":"sh/90ni5cvu","slide":1,"bbox":[78,64,58,58]}
+{"kind":"textbox","id":"sh/8ze1c7e9","slide":1,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[78,64,58,58]}
+{"kind":"textbox","id":"sh/vmp07md0","slide":1,"text":"YEAR 9 TEXTILES TECHNOLOGY","textPreview":"YEAR 9 TEXTILES TECHNOLOGY","textChars":26,"textLines":1,"bbox":[154,77,420,36]}
+{"kind":"textbox","id":"sh/alwjehwf","slide":1,"text":"Designer pyjamas","textPreview":"Designer pyjamas","textChars":16,"textLines":1,"bbox":[78,172,515,212]}
+{"kind":"textbox","id":"sh/xo729cvq","slide":1,"text":"Translate user needs into pyjama and hoodie ideas, read commercial-pattern information and develop two labelled concepts.","textPreview":"Translate user needs into pyjama and hoodie ideas, read commercial-pattern information and develop two labelled concepts.","textChars":121,"textLines":1,"bbox":[82,414,500,110]}
+{"kind":"shape","id":"sh/wny1g7el","slide":1,"bbox":[82,558,500,68]}
+{"kind":"textbox","id":"sh/bql0vidg","slide":1,"text":"TODAY: understand → retrieve → explain → save evidence","textPreview":"TODAY: understand → retrieve → explain → save evidence","textChars":54,"textLines":1,"bbox":[106,572,452,42]}
+{"kind":"shape","id":"sh/q5cz2dwv","slide":1,"bbox":[646,86,562,518]}
+{"kind":"textbox","id":"sh/d8fuhcfe","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1124,666,84,32]}
+{"kind":"image","id":"im/bi1c32hc","slide":1,"name":"","geometry":"roundRect","alt":"Module 3 subject visual","bbox":[670,110,514,470]}
+{"kind":"notes","id":"nt/7qejbc","slide":1,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 3, module summary and evidence sequence.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/textiles-course-hero.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: State the module purpose. Ask students which part of the topic feels familiar and which part is new.\nSlide 1 of 8."}
+{"kind":"slide","id":"sl/dzh5he","slide":2,"title":"LEARNING MAP + RETRIEVAL STARTER","textShapes":15}
+{"kind":"shape","id":"sh/kr2h4fm5","slide":2,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/jq90ba5k","slide":2,"text":"LEARNING MAP + RETRIEVAL STARTER","textPreview":"LEARNING MAP + RETRIEVAL STARTER","textChars":32,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/ip0z254z","slide":2,"text":"Three ideas to connect","textPreview":"Three ideas to connect","textChars":22,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/xori90ne","slide":2,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/wnih0vmt","slide":2,"text":"YEAR 9 TEXTILES · MODULE 3","textPreview":"YEAR 9 TEXTILES · MODULE 3","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/vm907q58","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/al0zyl4n","slide":2,"bbox":[72,182,760,98]}
+{"kind":"textbox","id":"sh/9kri5gni","slide":2,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[94,202,52,52]}
+{"kind":"textbox","id":"sh/8jyhwvmx","slide":2,"text":"Target markets and nightwear needs","textPreview":"Target markets and nightwear needs","textChars":34,"textLines":1,"bbox":[170,198,630,34]}
+{"kind":"textbox","id":"sh/ydcbix83","slide":2,"text":"A target market is the intended group of users.","textPreview":"A target market is the intended group of users.","textChars":47,"textLines":1,"bbox":[170,234,630,30]}
+{"kind":"shape","id":"sh/jelsb2po","slide":2,"bbox":[72,302,760,98]}
+{"kind":"textbox","id":"sh/kfetk7q9","slide":2,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[94,322,52,52]}
+{"kind":"textbox","id":"sh/lgnads7u","slide":2,"text":"Reading a commercial pattern","textPreview":"Reading a commercial pattern","textChars":28,"textLines":1,"bbox":[170,318,630,34]}
+{"kind":"textbox","id":"sh/a9cred87","slide":2,"text":"The pattern envelope identifies views, sizes, fabrics and notions.","textPreview":"The pattern envelope identifies views, sizes, fabrics and notions.","textChars":66,"textLines":1,"bbox":[170,354,630,30]}
+{"kind":"shape","id":"sh/bals7ipc","slide":2,"bbox":[72,422,760,98]}
+{"kind":"textbox","id":"sh/wbutgnqx","slide":2,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[94,442,52,52]}
+{"kind":"textbox","id":"sh/xc3a9s7i","slide":2,"text":"Developing and selecting design ideas","textPreview":"Developing and selecting design ideas","textChars":37,"textLines":1,"bbox":[170,438,630,34]}
+{"kind":"textbox","id":"sh/mlsrad8v","slide":2,"text":"Two developed ideas allow comparison before selection.","textPreview":"Two developed ideas allow comparison before selection.","textChars":54,"textLines":1,"bbox":[170,474,630,30]}
+{"kind":"shape","id":"sh/nm1s3ipg","slide":2,"bbox":[866,182,342,344]}
+{"kind":"textbox","id":"sh/qp8729on","slide":2,"text":"RETRIEVE FIRST","textPreview":"RETRIEVE FIRST","textChars":14,"textLines":1,"bbox":[892,404,286,26]}
+{"kind":"textbox","id":"sh/dszqdone","slide":2,"text":"Without notes: say one fact you already know and one question you need answered.","textPreview":"Without notes: say one fact you already know and one question you need answered.","textChars":80,"textLines":1,"bbox":[900,438,270,68]}
+{"kind":"image","id":"im/kneton2l","slide":2,"name":"","geometry":"roundRect","alt":"Course learning map visual","bbox":[892,198,290,190]}
+{"kind":"notes","id":"nt/dzh5he","slide":2,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 3, all three section titles and first facts.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/design-elements.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Give students 30 seconds of silent retrieval, then connect their responses to the three-part learning map.\nSlide 2 of 8."}
+{"kind":"slide","id":"sl/r13owm","slide":3,"title":"THEORY 1 OF 3","textShapes":9}
+{"kind":"shape","id":"sh/n6xgbi58","slide":3,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/o76xkn6t","slide":3,"text":"THEORY 1 OF 3","textPreview":"THEORY 1 OF 3","textChars":13,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/p8fydsne","slide":3,"text":"Target markets and nightwear needs","textPreview":"Target markets and nightwear needs","textChars":34,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/a9ofmxoz","slide":3,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/baxgf25k","slide":3,"text":"YEAR 9 TEXTILES · MODULE 3","textPreview":"YEAR 9 TEXTILES · MODULE 3","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/cb6xo7m5","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/xwfyhsnq","slide":3,"bbox":[72,184,558,338]}
+{"kind":"textbox","id":"sh/yxofqx4b","slide":3,"text":"UNDERSTAND THE IDEA","textPreview":"UNDERSTAND THE IDEA","textChars":19,"textLines":1,"bbox":[100,208,502,26]}
+{"kind":"textbox","id":"sh/zyhgj25g","slide":3,"text":"A target market is the intended group of users. Knowing the user helps the designer make relevant choices.\nNightwear needs include comfort, movement, fit, climate and care. The item must perform during rest and routine use.\nPersonal style is considered alongside function. A useful design can also express the user's preferred colours and details.","textPreview":"A target market is the intended group of users. Knowing the user helps the designer make relevant choices. | Nightwear needs include comf...","textChars":347,"textLines":3,"bbox":[100,252,502,246]}
+{"kind":"shape","id":"sh/ve54bah0","slide":3,"bbox":[650,184,558,338]}
+{"kind":"textbox","id":"sh/hgnmdkf6","slide":3,"text":"SEE THE RELATIONSHIP","textPreview":"SEE THE RELATIONSHIP","textChars":20,"textLines":1,"bbox":[678,486,502,24]}
+{"kind":"shape","id":"sh/gfe54fyl","slide":3,"bbox":[72,548,1136,96]}
+{"kind":"textbox","id":"sh/7al47qho","slide":3,"text":"EVIDENCE PROMPT","textPreview":"EVIDENCE PROMPT","textChars":15,"textLines":1,"bbox":[98,568,210,24]}
+{"kind":"textbox","id":"sh/69cnylgj","slide":3,"text":"Create a target-market profile for a nightwear user and justify three design requirements.","textPreview":"Create a target-market profile for a nightwear user and justify three design requirements.","textChars":90,"textLines":1,"bbox":[310,562,870,60]}
+{"kind":"image","id":"im/hkz2t0z6","slide":3,"name":"","geometry":"roundRect","alt":"Target markets and nightwear needs explanatory visual","bbox":[674,206,510,278]}
+{"kind":"notes","id":"nt/r13owm","slide":3,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 3, Section 1: Target markets and nightwear needs.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/designer-market.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Teach the three points, then pause for students to answer the evidence prompt in one or two precise sentences.\nSlide 3 of 8."}
+{"kind":"slide","id":"sl/kbq5jn","slide":4,"title":"THEORY 2 OF 3","textShapes":9}
+{"kind":"shape","id":"sh/zqxgbehk","slide":4,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/0r6xkjy5","slide":4,"text":"THEORY 2 OF 3","textPreview":"THEORY 2 OF 3","textChars":13,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/lszydozq","slide":4,"text":"Reading a commercial pattern","textPreview":"Reading a commercial pattern","textChars":28,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/q1ofe9g3","slide":4,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/b2xw7uho","slide":4,"text":"YEAR 9 TEXTILES · MODULE 3","textPreview":"YEAR 9 TEXTILES · MODULE 3","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/cn6xgzy9","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/dofy94zu","slide":4,"bbox":[650,184,558,338]}
+{"kind":"textbox","id":"sh/ax8fqtgn","slide":4,"text":"UNDERSTAND THE IDEA","textPreview":"UNDERSTAND THE IDEA","textChars":19,"textLines":1,"bbox":[678,208,502,26]}
+{"kind":"textbox","id":"sh/vyhgjyhs","slide":4,"text":"The pattern envelope identifies views, sizes, fabrics and notions. It gives the information needed before selecting and cutting materials.\nA grainline guides how a pattern piece aligns with the fabric grain. Correct alignment supports expected hang and performance.\nNotches help match corresponding construction points. They support accurate alignment during assembly.","textPreview":"The pattern envelope identifies views, sizes, fabrics and notions. It gives the information needed before selecting and cutting materials...","textChars":368,"textLines":3,"bbox":[678,252,502,246]}
+{"kind":"shape","id":"sh/jqh87a5o","slide":4,"bbox":[72,184,558,338]}
+{"kind":"textbox","id":"sh/5sjq9knu","slide":4,"text":"SEE THE RELATIONSHIP","textPreview":"SEE THE RELATIONSHIP","textChars":20,"textLines":1,"bbox":[100,486,502,24]}
+{"kind":"shape","id":"sh/4rqpgfm9","slide":4,"bbox":[72,548,1136,96]}
+{"kind":"textbox","id":"sh/ru18ba50","slide":4,"text":"EVIDENCE PROMPT","textPreview":"EVIDENCE PROMPT","textChars":15,"textLines":1,"bbox":[98,568,210,24]}
+{"kind":"textbox","id":"sh/6tsri54f","slide":4,"text":"Explain the information you would check before cutting fabric from a commercial pattern and why it matters.","textPreview":"Explain the information you would check before cutting fabric from a commercial pattern and why it matters.","textChars":107,"textLines":1,"bbox":[310,562,870,60]}
+{"kind":"image","id":"im/54b6hgby","slide":4,"name":"","geometry":"roundRect","alt":"Reading a commercial pattern explanatory visual","bbox":[96,206,510,278]}
+{"kind":"notes","id":"nt/kbq5jn","slide":4,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 3, Section 2: Reading a commercial pattern.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/pattern-symbols.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Teach the three points, then pause for students to answer the evidence prompt in one or two precise sentences.\nSlide 4 of 8."}
+{"kind":"slide","id":"sl/tnhql4","slide":5,"title":"THEORY 3 OF 3","textShapes":9}
+{"kind":"shape","id":"sh/l0fel0fy","slide":5,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/yxova5w7","slide":5,"text":"THEORY 3 OF 3","textPreview":"THEORY 3 OF 3","textChars":13,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/zyxwjqxs","slide":5,"text":"Developing and selecting design ideas","textPreview":"Developing and selecting design ideas","textChars":37,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/cv6d8vyh","slide":5,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/xwfeh0f2","slide":5,"text":"YEAR 9 TEXTILES · MODULE 3","textPreview":"YEAR 9 TEXTILES · MODULE 3","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/at4v6lgb","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/buxwfqxw","slide":5,"bbox":[72,184,558,338]}
+{"kind":"textbox","id":"sh/ormd4by5","slide":5,"text":"UNDERSTAND THE IDEA","textPreview":"UNDERSTAND THE IDEA","textChars":19,"textLines":1,"bbox":[100,208,502,26]}
+{"kind":"textbox","id":"sh/psvedgfq","slide":5,"text":"Two developed ideas allow comparison before selection. Alternatives reveal different strengths, weaknesses and opportunities.\nFront and back views communicate the whole garment. Construction and design details can differ between views.\nAnnotations explain features, materials and construction intentions. Labels make design thinking visible and assessable.","textPreview":"Two developed ideas allow comparison before selection. Alternatives reveal different strengths, weaknesses and opportunities. | Front and...","textChars":356,"textLines":3,"bbox":[100,252,502,246]}
+{"kind":"shape","id":"sh/dkr2d4fe","slide":5,"bbox":[650,184,558,338]}
+{"kind":"textbox","id":"sh/ry9kbux8","slide":5,"text":"SEE THE RELATIONSHIP","textPreview":"SEE THE RELATIONSHIP","textChars":20,"textLines":1,"bbox":[678,486,502,24]}
+{"kind":"shape","id":"sh/qxgji9gn","slide":5,"bbox":[72,548,1136,96]}
+{"kind":"textbox","id":"sh/pw7294fi","slide":5,"text":"EVIDENCE PROMPT","textPreview":"EVIDENCE PROMPT","textChars":15,"textLines":1,"bbox":[98,568,210,24]}
+{"kind":"textbox","id":"sh/4vy1gzyx","slide":5,"text":"Compare two pyjama or hoodie concepts and justify which one should be developed.","textPreview":"Compare two pyjama or hoodie concepts and justify which one should be developed.","textChars":80,"textLines":1,"bbox":[310,562,870,60]}
+{"kind":"image","id":"im/3e9sretc","slide":5,"name":"","geometry":"roundRect","alt":"Developing and selecting design ideas explanatory visual","bbox":[674,206,510,278]}
+{"kind":"notes","id":"nt/tnhql4","slide":5,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 3, Section 3: Developing and selecting design ideas.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/evaluation-cycle.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Teach the three points, then pause for students to answer the evidence prompt in one or two precise sentences.\nSlide 5 of 8."}
+{"kind":"slide","id":"sl/e10yw0","slide":6,"title":"NO NOTES FOR THE FIRST ATTEMPT","textShapes":14}
+{"kind":"shape","id":"sh/cjuxgrip","slide":6,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/bilg7m14","slide":6,"text":"NO NOTES FOR THE FIRST ATTEMPT","textPreview":"NO NOTES FOR THE FIRST ATTEMPT","textChars":30,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/ahcfeh0j","slide":6,"text":"Retrieve before you check","textPreview":"Retrieve before you check","textChars":25,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/pg3y5cjy","slide":6,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/ofuxc7id","slide":6,"text":"YEAR 9 TEXTILES · MODULE 3","textPreview":"YEAR 9 TEXTILES · MODULE 3","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/ne1g3m18","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/2dsfah0n","slide":6,"bbox":[72,190,354,344]}
+{"kind":"textbox","id":"sh/1sjy1cj2","slide":6,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[96,214,64,64]}
+{"kind":"textbox","id":"sh/0rax87ih","slide":6,"text":"Target markets and nightwear needs","textPreview":"Target markets and nightwear needs","textChars":34,"textLines":1,"bbox":[96,302,306,70]}
+{"kind":"textbox","id":"sh/2ts72p4v","slide":6,"text":"Define target markets and nightwear needs in your own words and give one course example.","textPreview":"Define target markets and nightwear needs in your own words and give one course example.","textChars":88,"textLines":1,"bbox":[96,390,306,114]}
+{"kind":"shape","id":"sh/3u18bulg","slide":6,"bbox":[458,190,354,344]}
+{"kind":"textbox","id":"sh/4vap4zml","slide":6,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[482,214,64,64]}
+{"kind":"textbox","id":"sh/pw3qd436","slide":6,"text":"Reading a commercial pattern","textPreview":"Reading a commercial pattern","textChars":28,"textLines":1,"bbox":[482,302,306,70]}
+{"kind":"textbox","id":"sh/u5s7y54j","slide":6,"text":"Why does reading a commercial pattern matter to a successful textile outcome?","textPreview":"Why does reading a commercial pattern matter to a successful textile outcome?","textChars":77,"textLines":1,"bbox":[482,390,306,114]}
+{"kind":"shape","id":"sh/fq187al4","slide":6,"bbox":[844,190,354,344]}
+{"kind":"textbox","id":"sh/grap0fmp","slide":6,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[868,214,64,64]}
+{"kind":"textbox","id":"sh/hsjq9k3a","slide":6,"text":"Developing and selecting design ideas","textPreview":"Developing and selecting design ideas","textChars":37,"textLines":1,"bbox":[868,302,306,70]}
+{"kind":"textbox","id":"sh/6187u54n","slide":6,"text":"What evidence would prove you understand developing and selecting design ideas?","textPreview":"What evidence would prove you understand developing and selecting design ideas?","textChars":79,"textLines":1,"bbox":[868,390,306,114]}
+{"kind":"textbox","id":"sh/72ho3al8","slide":6,"text":"Attempt → check the module → correct in a different colour","textPreview":"Attempt → check the module → correct in a different colour","textChars":58,"textLines":1,"bbox":[72,574,1136,42]}
+{"kind":"notes","id":"nt/e10yw0","slide":6,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 3, retrieval questions generated from the first fact in each section.\nCourse authority: work/source-contract.md and work/source-audit.md.\nVisual treatment: editable PowerPoint diagram generated only from the cited module facts.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Keep the first attempt closed-book. Accuracy improves when students check and visibly correct the response afterwards.\nSlide 6 of 8."}
+{"kind":"slide","id":"sl/bxnpsd","slide":7,"title":"READ → SELECT → EXPLAIN → CHECK","textShapes":19}
+{"kind":"shape","id":"sh/rmlsvq94","slide":7,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/snutovqp","slide":7,"text":"READ → SELECT → EXPLAIN → CHECK","textPreview":"READ → SELECT → EXPLAIN → CHECK","textChars":31,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/do3ax0ra","slide":7,"text":"Build one strong written response","textPreview":"Build one strong written response","textChars":33,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/ihcbil8n","slide":7,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/3ilsrq98","slide":7,"text":"YEAR 9 TEXTILES · MODULE 3","textPreview":"YEAR 9 TEXTILES · MODULE 3","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/4jutkvqt","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/5k3atgre","slide":7,"bbox":[72,174,1136,92]}
+{"kind":"textbox","id":"sh/utsre18r","slide":7,"text":"QUESTION","textPreview":"QUESTION","textChars":8,"textLines":1,"bbox":[96,194,130,24]}
+{"kind":"textbox","id":"sh/vu1sn69c","slide":7,"text":"Compare two pyjama or hoodie concepts and justify which one should be developed.","textPreview":"Compare two pyjama or hoodie concepts and justify which one should be developed.","textChars":80,"textLines":1,"bbox":[230,188,948,58]}
+{"kind":"shape","id":"sh/3eh4zqxs","slide":7,"bbox":[72,310,260,218]}
+{"kind":"textbox","id":"sh/id8nqlg7","slide":7,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[94,330,46,46]}
+{"kind":"textbox","id":"sh/5gjm10fy","slide":7,"text":"READ","textPreview":"READ","textChars":4,"textLines":1,"bbox":[154,336,154,32]}
+{"kind":"textbox","id":"sh/4fq5svyd","slide":7,"text":"Underline the action word and the exact topic.","textPreview":"Underline the action word and the exact topic.","textChars":46,"textLines":1,"bbox":[96,398,212,102]}
+{"kind":"shape","id":"sh/r21o3axo","slide":7,"bbox":[356,310,260,218]}
+{"kind":"textbox","id":"sh/q1snu5g3","slide":7,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[378,330,46,46]}
+{"kind":"textbox","id":"sh/d4j650fu","slide":7,"text":"SELECT","textPreview":"SELECT","textChars":6,"textLines":1,"bbox":[438,336,154,32]}
+{"kind":"textbox","id":"sh/s3a5wvy9","slide":7,"text":"Choose two or three course facts that answer it.","textPreview":"Choose two or three course facts that answer it.","textChars":48,"textLines":1,"bbox":[380,398,212,102]}
+{"kind":"shape","id":"sh/76x4r6xk","slide":7,"bbox":[640,310,260,218]}
+{"kind":"textbox","id":"sh/65oni1gz","slide":7,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[662,330,46,46]}
+{"kind":"textbox","id":"sh/adgzmd4z","slide":7,"text":"EXPLAIN","textPreview":"EXPLAIN","textChars":7,"textLines":1,"bbox":[722,336,154,32]}
+{"kind":"textbox","id":"sh/vepgfil4","slide":7,"text":"Link each fact to why it matters or what it proves.","textPreview":"Link each fact to why it matters or what it proves.","textChars":51,"textLines":1,"bbox":[664,398,212,102]}
+{"kind":"shape","id":"sh/wfyho3mp","slide":7,"bbox":[924,310,260,218]}
+{"kind":"textbox","id":"sh/xg7yh83a","slide":7,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[946,330,46,46]}
+{"kind":"textbox","id":"sh/m9wzit4n","slide":7,"text":"CHECK","textPreview":"CHECK","textChars":5,"textLines":1,"bbox":[1006,336,154,32]}
+{"kind":"textbox","id":"sh/na5gbyl8","slide":7,"text":"Return to the question; correct gaps and vague words.","textPreview":"Return to the question; correct gaps and vague words.","textChars":53,"textLines":1,"bbox":[948,398,212,102]}
+{"kind":"textbox","id":"sh/8behk3mt","slide":7,"text":"Strong responses use evidence and reasoning—not a copied paragraph.","textPreview":"Strong responses use evidence and reasoning—not a copied paragraph.","textChars":67,"textLines":1,"bbox":[72,570,1136,44]}
+{"kind":"notes","id":"nt/bxnpsd","slide":7,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 3, Section 3 evidence prompt plus the course response scaffold.\nCourse authority: work/source-contract.md and work/source-audit.md.\nVisual treatment: editable PowerPoint diagram generated only from the cited module facts.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Model the four-step process aloud. Students should be able to point to the fact and the explanation in their finished response.\nSlide 7 of 8."}
+{"kind":"slide","id":"sl/ngdb9v","slide":8,"title":"EXIT TICKET + NEXT STEP","textShapes":16}
+{"kind":"shape","id":"sh/gj2x47u1","slide":8,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/fitwv2tg","slide":8,"text":"EXIT TICKET + NEXT STEP","textPreview":"EXIT TICKET + NEXT STEP","textChars":23,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/ehkf2xcv","slide":8,"text":"Finish with evidence","textPreview":"Finish with evidence","textChars":20,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/tgbetsba","slide":8,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/sf2x0nu5","slide":8,"text":"YEAR 9 TEXTILES · MODULE 3","textPreview":"YEAR 9 TEXTILES · MODULE 3","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/retwritk","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/6d0fydcz","slide":8,"bbox":[72,184,550,376]}
+{"kind":"textbox","id":"sh/xcvy5wbu","slide":8,"text":"EXIT TICKET","textPreview":"EXIT TICKET","textChars":11,"textLines":1,"bbox":[108,220,470,40]}
+{"kind":"textbox","id":"sh/cbmxcru9","slide":8,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[108,292,46,46]}
+{"kind":"textbox","id":"sh/ydw7epgn","slide":8,"text":"Name one idea you can now explain accurately.","textPreview":"Name one idea you can now explain accurately.","textChars":45,"textLines":1,"bbox":[176,286,400,58]}
+{"kind":"textbox","id":"sh/ze5onuxs","slide":8,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[108,374,46,46]}
+{"kind":"textbox","id":"sh/0zepgfyd","slide":8,"text":"Identify one correction you made after retrieval.","textPreview":"Identify one correction you made after retrieval.","textChars":49,"textLines":1,"bbox":[176,368,400,58]}
+{"kind":"textbox","id":"sh/l07qpkfy","slide":8,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[108,456,46,46]}
+{"kind":"textbox","id":"sh/q9w7a5gb","slide":8,"text":"State the evidence you will save from this module.","textPreview":"State the evidence you will save from this module.","textChars":50,"textLines":1,"bbox":[176,450,400,58]}
+{"kind":"shape","id":"sh/ra5ojaxw","slide":8,"bbox":[654,184,554,238]}
+{"kind":"textbox","id":"sh/cbepcfyh","slide":8,"text":"SAVE THIS EVIDENCE","textPreview":"SAVE THIS EVIDENCE","textChars":18,"textLines":1,"bbox":[686,216,490,34]}
+{"kind":"textbox","id":"sh/dcn6lkf2","slide":8,"text":"Target-market profile, pattern reading notes, two concepts and a selected final design.","textPreview":"Target-market profile, pattern reading notes, two concepts and a selected final design.","textChars":87,"textLines":1,"bbox":[686,270,490,118]}
+{"kind":"shape","id":"sh/a5g7m9gf","slide":8,"bbox":[654,446,554,114]}
+{"kind":"textbox","id":"sh/v6p8vex0","slide":8,"text":"NEXT STEP","textPreview":"NEXT STEP","textChars":9,"textLines":1,"bbox":[682,468,140,28]}
+{"kind":"textbox","id":"sh/7a14n6ds","slide":8,"text":"Return to the module page, complete the evidence prompt and use teacher directions for practical work.","textPreview":"Return to the module page, complete the evidence prompt and use teacher directions for practical work.","textChars":102,"textLines":1,"bbox":[824,462,354,72]}
+{"kind":"textbox","id":"sh/69s3e1w7","slide":8,"text":"Explain it. Check it. Save it.","textPreview":"Explain it. Check it. Save it.","textChars":30,"textLines":1,"bbox":[72,594,1136,42]}
+{"kind":"notes","id":"nt/ngdb9v","slide":8,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 3, module evidence summary and student next step.\nCourse authority: work/source-contract.md and work/source-audit.md.\nVisual treatment: editable PowerPoint diagram generated only from the cited module facts.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Collect a brief spoken or written exit response. Remind students that the website and teacher directions control the practical next step.\nSlide 8 of 8."}

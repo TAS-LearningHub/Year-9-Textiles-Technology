@@ -1,0 +1,172 @@
+{"kind":"deck","id":"pr/qqatiz","name":"Deck"}
+{"kind":"layout","layoutId":"24a8f86f-74d3-47d0-9c9f-6bc47d7f9564","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"2f4857f3-9cda-43a3-b98c-a8bf2239cc41","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/d9amoa","slide":1,"title":"4","textShapes":6}
+{"kind":"shape","id":"sh/1s7yhcva","slide":1,"bbox":[0,0,24,720]}
+{"kind":"shape","id":"sh/epwf6xwj","slide":1,"bbox":[78,64,58,58]}
+{"kind":"textbox","id":"sh/fq5gf2d4","slide":1,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[78,64,58,58]}
+{"kind":"textbox","id":"sh/ofyxcre1","slide":1,"text":"YEAR 9 TEXTILES TECHNOLOGY","textPreview":"YEAR 9 TEXTILES TECHNOLOGY","textChars":26,"textLines":1,"bbox":[154,77,420,36]}
+{"kind":"textbox","id":"sh/pg7ylcv6","slide":1,"text":"Fibres, yarns & fabrics","textPreview":"Fibres, yarns & fabrics","textChars":23,"textLines":1,"bbox":[78,172,515,212]}
+{"kind":"textbox","id":"sh/2dgfahwv","slide":1,"text":"Trace the relationship from fibre to yarn to fabric and connect structure and properties to a suitable end use.","textPreview":"Trace the relationship from fibre to yarn to fabric and connect structure and properties to a suitable end use.","textChars":111,"textLines":1,"bbox":[82,414,500,110]}
+{"kind":"shape","id":"sh/nepgjmdg","slide":1,"bbox":[82,558,500,68]}
+{"kind":"textbox","id":"sh/cjixgrex","slide":1,"text":"TODAY: understand → retrieve → explain → save evidence","textPreview":"TODAY: understand → retrieve → explain → save evidence","textChars":54,"textLines":1,"bbox":[106,572,452,42]}
+{"kind":"shape","id":"sh/xkrypwvi","slide":1,"bbox":[646,86,562,518]}
+{"kind":"textbox","id":"sh/g32hgrap","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1124,666,84,32]}
+{"kind":"image","id":"im/mtgz6h8f","slide":1,"name":"","geometry":"roundRect","alt":"Module 4 subject visual","bbox":[670,110,514,470]}
+{"kind":"notes","id":"nt/d9amoa","slide":1,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 4, module summary and evidence sequence.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/textiles-course-hero.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: State the module purpose. Ask students which part of the topic feels familiar and which part is new.\nSlide 1 of 8."}
+{"kind":"slide","id":"sl/5is65y","slide":2,"title":"LEARNING MAP + RETRIEVAL STARTER","textShapes":15}
+{"kind":"shape","id":"sh/lwzmhobq","slide":2,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/yt8369cz","slide":2,"text":"LEARNING MAP + RETRIEVAL STARTER","textPreview":"LEARNING MAP + RETRIEVAL STARTER","textChars":32,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/zuh4fetk","slide":2,"text":"Three ideas to connect","textPreview":"Three ideas to connect","textChars":22,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/8zqlcju1","slide":2,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/90jmlobm","slide":2,"text":"YEAR 9 TEXTILES · MODULE 4","textPreview":"YEAR 9 TEXTILES · MODULE 4","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/mx83atcb","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/nyh4jytw","slide":2,"bbox":[72,182,760,98]}
+{"kind":"textbox","id":"sh/o36l0zux","slide":2,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[94,202,52,52]}
+{"kind":"textbox","id":"sh/p4f294bi","slide":2,"text":"Fibre classification and properties","textPreview":"Fibre classification and properties","textChars":35,"textLines":1,"bbox":[170,198,630,34]}
+{"kind":"textbox","id":"sh/psbi1ofa","slide":2,"text":"Fibres are raw materials used to make yarns and fabrics.","textPreview":"Fibres are raw materials used to make yarns and fabrics.","textChars":56,"textLines":1,"bbox":[170,234,630,30]}
+{"kind":"shape","id":"sh/or2h8jep","slide":2,"bbox":[72,302,760,98]}
+{"kind":"textbox","id":"sh/3qt0zex4","slide":2,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[94,322,52,52]}
+{"kind":"textbox","id":"sh/2pkz69wj","slide":2,"text":"From fibres to yarns","textPreview":"From fibres to yarns","textChars":20,"textLines":1,"bbox":[170,318,630,34]}
+{"kind":"textbox","id":"sh/dgvi5ov6","slide":2,"text":"Staple fibres are short lengths and filament fibres are continuous lengths.","textPreview":"Staple fibres are short lengths and filament fibres are continuous lengths.","textChars":75,"textLines":1,"bbox":[170,354,630,30]}
+{"kind":"shape","id":"sh/cfm1c3e1","slide":2,"bbox":[72,422,760,98]}
+{"kind":"textbox","id":"sh/but03yxg","slide":2,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[94,442,52,52]}
+{"kind":"textbox","id":"sh/qtkjatwv","slide":2,"text":"Woven, knitted and non-woven fabrics","textPreview":"Woven, knitted and non-woven fabrics","textChars":36,"textLines":1,"bbox":[170,438,630,34]}
+{"kind":"textbox","id":"sh/lkvi98vi","slide":2,"text":"Woven fabric interlaces warp and weft yarns.","textPreview":"Woven fabric interlaces warp and weft yarns.","textChars":44,"textLines":1,"bbox":[170,474,630,30]}
+{"kind":"shape","id":"sh/kjm103ex","slide":2,"bbox":[866,182,342,344]}
+{"kind":"textbox","id":"sh/50nulg7q","slide":2,"text":"RETRIEVE FIRST","textPreview":"RETRIEVE FIRST","textChars":14,"textLines":1,"bbox":[892,404,286,26]}
+{"kind":"textbox","id":"sh/idwbq18f","slide":2,"text":"Without notes: say one fact you already know and one question you need answered.","textPreview":"Without notes: say one fact you already know and one question you need answered.","textChars":80,"textLines":1,"bbox":[900,438,270,68]}
+{"kind":"image","id":"im/bmt87atc","slide":2,"name":"","geometry":"roundRect","alt":"Course learning map visual","bbox":[892,198,290,190]}
+{"kind":"notes","id":"nt/5is65y","slide":2,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 4, all three section titles and first facts.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/design-elements.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Give students 30 seconds of silent retrieval, then connect their responses to the three-part learning map.\nSlide 2 of 8."}
+{"kind":"slide","id":"sl/zae2ae","slide":3,"title":"THEORY 1 OF 3","textShapes":9}
+{"kind":"shape","id":"sh/mhg7ulsb","slide":3,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/9k7qp0bm","slide":3,"text":"THEORY 1 OF 3","textPreview":"THEORY 1 OF 3","textChars":13,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/8jypwvah","slide":3,"text":"Fibre classification and properties","textPreview":"Fibre classification and properties","textChars":35,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/vm98rqts","slide":3,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/ulg7yls7","slide":3,"text":"YEAR 9 TEXTILES · MODULE 4","textPreview":"YEAR 9 TEXTILES · MODULE 4","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/h8rqt0by","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/w7ip0vad","slide":3,"bbox":[72,184,558,338]}
+{"kind":"textbox","id":"sh/ja98vat4","slide":3,"text":"UNDERSTAND THE IDEA","textPreview":"UNDERSTAND THE IDEA","textChars":19,"textLines":1,"bbox":[100,208,502,26]}
+{"kind":"textbox","id":"sh/i90725sj","slide":3,"text":"Fibres are raw materials used to make yarns and fabrics. Their characteristics influence the finished textile.\nNatural and manufactured are the two main fibre classifications. The classification describes how fibres originate.\nPlant fibres are commonly described as cellulose fibres. Their material source is plant-based.","textPreview":"Fibres are raw materials used to make yarns and fabrics. Their characteristics influence the finished textile. | Natural and manufactured...","textChars":321,"textLines":3,"bbox":[100,252,502,246]}
+{"kind":"shape","id":"sh/of254vu5","slide":3,"bbox":[650,184,558,338]}
+{"kind":"textbox","id":"sh/2dkn25cz","slide":3,"text":"SEE THE RELATIONSHIP","textPreview":"SEE THE RELATIONSHIP","textChars":20,"textLines":1,"bbox":[678,486,502,24]}
+{"kind":"shape","id":"sh/net4bqtk","slide":3,"bbox":[72,548,1136,96]}
+{"kind":"textbox","id":"sh/cjm58fuh","slide":3,"text":"EVIDENCE PROMPT","textPreview":"EVIDENCE PROMPT","textChars":15,"textLines":1,"bbox":[98,568,210,24]}
+{"kind":"textbox","id":"sh/xkv61kb2","slide":3,"text":"Classify four fibres and explain how one fibre property makes a fabric suitable for a chosen item.","textPreview":"Classify four fibres and explain how one fibre property makes a fabric suitable for a chosen item.","textChars":98,"textLines":1,"bbox":[310,562,870,60]}
+{"kind":"image","id":"im/ipcbudg7","slide":3,"name":"","geometry":"roundRect","alt":"Fibre classification and properties explanatory visual","bbox":[674,206,510,278]}
+{"kind":"notes","id":"nt/zae2ae","slide":3,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 4, Section 1: Fibre classification and properties.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/garment-label.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Teach the three points, then pause for students to answer the evidence prompt in one or two precise sentences.\nSlide 3 of 8."}
+{"kind":"slide","id":"sl/u3xqpn","slide":4,"title":"THEORY 2 OF 3","textShapes":15}
+{"kind":"shape","id":"sh/pcjep83e","slide":4,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/298fud4n","slide":4,"text":"THEORY 2 OF 3","textPreview":"THEORY 2 OF 3","textChars":13,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/na1wnyl8","slide":4,"text":"From fibres to yarns","textPreview":"From fibres to yarns","textChars":20,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/0nqxs3mh","slide":4,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/1ozel832","slide":4,"text":"YEAR 9 TEXTILES · MODULE 4","textPreview":"YEAR 9 TEXTILES · MODULE 4","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/el8fqt4r","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/fmhwjylw","slide":4,"bbox":[650,184,558,338]}
+{"kind":"textbox","id":"sh/sjqxojml","slide":4,"text":"UNDERSTAND THE IDEA","textPreview":"UNDERSTAND THE IDEA","textChars":19,"textLines":1,"bbox":[678,208,502,26]}
+{"kind":"textbox","id":"sh/dkzeho36","slide":4,"text":"Staple fibres are short lengths and filament fibres are continuous lengths. Fibre length changes how yarn is produced and behaves.\nSpinning draws out fibres and adds twist. Twist binds fibres into a usable yarn structure.\nHigher twist generally produces a stronger yarn. Tighter fibre binding improves cohesion.","textPreview":"Staple fibres are short lengths and filament fibres are continuous lengths. Fibre length changes how yarn is produced and behaves. | Spin...","textChars":311,"textLines":3,"bbox":[678,252,502,246]}
+{"kind":"shape","id":"sh/1gfepkfq","slide":4,"bbox":[72,184,558,338]}
+{"kind":"shape","id":"sh/gf6dwzy5","slide":4,"bbox":[112,198,478,70]}
+{"kind":"textbox","id":"sh/fexwnuxk","slide":4,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[128,211,44,44]}
+{"kind":"textbox","id":"sh/edovupgz","slide":4,"text":"Staple fibres are short lengths and filament fibres are continuous lengths","textPreview":"Staple fibres are short lengths and filament fibres are continuous lengths","textChars":74,"textLines":1,"bbox":[194,206,368,54]}
+{"kind":"shape","id":"sh/tcvulkfu","slide":4,"bbox":[112,292,478,70]}
+{"kind":"textbox","id":"sh/srmdsfy9","slide":4,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[128,305,44,44]}
+{"kind":"textbox","id":"sh/rqdcjaxo","slide":4,"text":"Spinning draws out fibres and adds twist","textPreview":"Spinning draws out fibres and adds twist","textChars":40,"textLines":1,"bbox":[194,300,368,54]}
+{"kind":"shape","id":"sh/6p4vq5g3","slide":4,"bbox":[112,386,478,70]}
+{"kind":"textbox","id":"sh/5ovuh0fi","slide":4,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[128,399,44,44]}
+{"kind":"textbox","id":"sh/knmdofyx","slide":4,"text":"Higher twist generally produces a stronger yarn","textPreview":"Higher twist generally produces a stronger yarn","textChars":47,"textLines":1,"bbox":[194,394,368,54]}
+{"kind":"shape","id":"sh/wrqd4f6t","slide":4,"bbox":[158,494,386,36]}
+{"kind":"textbox","id":"sh/xszexkne","slide":4,"text":"CONNECT THE IDEA — DO NOT JUST LIST IT","textPreview":"CONNECT THE IDEA — DO NOT JUST LIST IT","textChars":38,"textLines":1,"bbox":[176,501,350,24]}
+{"kind":"shape","id":"sh/a5ov25on","slide":4,"bbox":[72,548,1136,96]}
+{"kind":"textbox","id":"sh/b6hwva58","slide":4,"text":"EVIDENCE PROMPT","textPreview":"EVIDENCE PROMPT","textChars":15,"textLines":1,"bbox":[98,568,210,24]}
+{"kind":"textbox","id":"sh/o36d0v6x","slide":4,"text":"Explain the path from fibre to yarn and how changing twist or yarn structure can change performance.","textPreview":"Explain the path from fibre to yarn and how changing twist or yarn structure can change performance.","textChars":100,"textLines":1,"bbox":[310,562,870,60]}
+{"kind":"notes","id":"nt/u3xqpn","slide":4,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 4, Section 2: From fibres to yarns.\nCourse authority: work/source-contract.md and work/source-audit.md.\nVisual treatment: editable PowerPoint diagram generated only from the cited module facts.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Teach the three points, then pause for students to answer the evidence prompt in one or two precise sentences.\nSlide 4 of 8."}
+{"kind":"slide","id":"sl/q4v9qh","slide":5,"title":"THEORY 3 OF 3","textShapes":9}
+{"kind":"shape","id":"sh/5sb6tcf2","slide":5,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/ip07yxgr","slide":5,"text":"THEORY 3 OF 3","textPreview":"THEORY 3 OF 3","textChars":13,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/jq9or2xc","slide":5,"text":"Woven, knitted and non-woven fabrics","textPreview":"Woven, knitted and non-woven fabrics","textChars":36,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/wnipwnyl","slide":5,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/hor65sf6","slide":5,"text":"YEAR 9 TEXTILES · MODULE 4","textPreview":"YEAR 9 TEXTILES · MODULE 4","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/ul07udgf","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/vm9o3ix0","slide":5,"bbox":[72,184,558,338]}
+{"kind":"textbox","id":"sh/gjmp8rep","slide":5,"text":"UNDERSTAND THE IDEA","textPreview":"UNDERSTAND THE IDEA","textChars":19,"textLines":1,"bbox":[100,208,502,26]}
+{"kind":"textbox","id":"sh/1kvq1wfa","slide":5,"text":"Woven fabric interlaces warp and weft yarns. Two yarn systems cross to form the structure.\nWarp runs along the fabric length and weft across its width. The directional yarn systems define woven structure.\nPlain, twill and satin or sateen are basic weave structures. Changing the interlacing pattern changes fabric characteristics.","textPreview":"Woven fabric interlaces warp and weft yarns. Two yarn systems cross to form the structure. | Warp runs along the fabric length and weft a...","textChars":330,"textLines":3,"bbox":[100,252,502,246]}
+{"kind":"shape","id":"sh/1onmpgj6","slide":5,"bbox":[650,184,558,338]}
+{"kind":"textbox","id":"sh/fm54n61g","slide":5,"text":"SEE THE RELATIONSHIP","textPreview":"SEE THE RELATIONSHIP","textChars":20,"textLines":1,"bbox":[678,486,502,24]}
+{"kind":"shape","id":"sh/elwne10v","slide":5,"bbox":[72,548,1136,96]}
+{"kind":"textbox","id":"sh/tknmlwja","slide":5,"text":"EVIDENCE PROMPT","textPreview":"EVIDENCE PROMPT","textChars":15,"textLines":1,"bbox":[98,568,210,24]}
+{"kind":"textbox","id":"sh/sje5crip","slide":5,"text":"Compare woven, knitted and non-woven structures and recommend one for a specific textile end use.","textPreview":"Compare woven, knitted and non-woven structures and recommend one for a specific textile end use.","textChars":97,"textLines":1,"bbox":[310,562,870,60]}
+{"kind":"image","id":"im/jul47qps","slide":5,"name":"","geometry":"roundRect","alt":"Woven, knitted and non-woven fabrics explanatory visual","bbox":[674,206,510,278]}
+{"kind":"notes","id":"nt/q4v9qh","slide":5,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 4, Section 3: Woven, knitted and non-woven fabrics.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/fibre-yarn-fabric.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Teach the three points, then pause for students to answer the evidence prompt in one or two precise sentences.\nSlide 5 of 8."}
+{"kind":"slide","id":"sl/pbgi3t","slide":6,"title":"NO NOTES FOR THE FIRST ATTEMPT","textShapes":14}
+{"kind":"shape","id":"sh/h0ned4n6","slide":6,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/uxcfipov","slide":6,"text":"NO NOTES FOR THE FIRST ATTEMPT","textPreview":"NO NOTES FOR THE FIRST ATTEMPT","textChars":30,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/vy5wbu50","slide":6,"text":"Retrieve before you check","textPreview":"Retrieve before you check","textChars":25,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/8vuxgz6p","slide":6,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/9w3e9kna","slide":6,"text":"YEAR 9 TEXTILES · MODULE 4","textPreview":"YEAR 9 TEXTILES · MODULE 4","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/m9cfepoj","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/nulw7u54","slide":6,"bbox":[72,190,354,344]}
+{"kind":"textbox","id":"sh/07udcf6d","slide":6,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[96,214,64,64]}
+{"kind":"textbox","id":"sh/l83e5kny","slide":6,"text":"Fibre classification and properties","textPreview":"Fibre classification and properties","textChars":35,"textLines":1,"bbox":[96,302,306,70]}
+{"kind":"textbox","id":"sh/p4n6xsre","slide":6,"text":"Define fibre classification and properties in your own words and give one course example.","textPreview":"Define fibre classification and properties in your own words and give one course example.","textChars":89,"textLines":1,"bbox":[96,390,306,114]}
+{"kind":"shape","id":"sh/43epona9","slide":6,"bbox":[458,190,354,344]}
+{"kind":"textbox","id":"sh/3i5ovi9o","slide":6,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[482,214,64,64]}
+{"kind":"textbox","id":"sh/2hw7mds3","slide":6,"text":"From fibres to yarns","textPreview":"From fibres to yarns","textChars":20,"textLines":1,"bbox":[482,302,306,70]}
+{"kind":"textbox","id":"sh/hgn6t8ri","slide":6,"text":"Why does from fibres to yarns matter to a successful textile outcome?","textPreview":"Why does from fibres to yarns matter to a successful textile outcome?","textChars":69,"textLines":1,"bbox":[482,390,306,114]}
+{"kind":"shape","id":"sh/gfepk3ax","slide":6,"bbox":[844,190,354,344]}
+{"kind":"textbox","id":"sh/fe5ory9c","slide":6,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[868,214,64,64]}
+{"kind":"textbox","id":"sh/udc7idsr","slide":6,"text":"Woven, knitted and non-woven fabrics","textPreview":"Woven, knitted and non-woven fabrics","textChars":36,"textLines":1,"bbox":[868,302,306,70]}
+{"kind":"textbox","id":"sh/tc36p8rm","slide":6,"text":"What evidence would prove you understand woven, knitted and non-woven fabrics?","textPreview":"What evidence would prove you understand woven, knitted and non-woven fabrics?","textChars":78,"textLines":1,"bbox":[868,390,306,114]}
+{"kind":"textbox","id":"sh/sbu5g3a1","slide":6,"text":"Attempt → check the module → correct in a different colour","textPreview":"Attempt → check the module → correct in a different colour","textChars":58,"textLines":1,"bbox":[72,574,1136,42]}
+{"kind":"notes","id":"nt/pbgi3t","slide":6,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 4, retrieval questions generated from the first fact in each section.\nCourse authority: work/source-contract.md and work/source-audit.md.\nVisual treatment: editable PowerPoint diagram generated only from the cited module facts.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Keep the first attempt closed-book. Accuracy improves when students check and visibly correct the response afterwards.\nSlide 6 of 8."}
+{"kind":"slide","id":"sl/iyjilc","slide":7,"title":"READ → SELECT → EXPLAIN → CHECK","textShapes":19}
+{"kind":"shape","id":"sh/gbut8jah","slide":7,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/fa1cze9w","slide":7,"text":"READ → SELECT → EXPLAIN → CHECK","textPreview":"READ → SELECT → EXPLAIN → CHECK","textChars":31,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/u9sb69sr","slide":7,"text":"Build one strong written response","textPreview":"Build one strong written response","textChars":33,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/pg3u5ore","slide":7,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/4fudcjat","slide":7,"text":"YEAR 9 TEXTILES · MODULE 4","textPreview":"YEAR 9 TEXTILES · MODULE 4","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/3elc3y98","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/2dcbatsn","slide":7,"bbox":[72,174,1136,92]}
+{"kind":"textbox","id":"sh/d4nu98ra","slide":7,"text":"QUESTION","textPreview":"QUESTION","textChars":8,"textLines":1,"bbox":[96,194,130,24]}
+{"kind":"textbox","id":"sh/cjedg3ap","slide":7,"text":"Compare woven, knitted and non-woven structures and recommend one for a specific textile end use.","textPreview":"Compare woven, knitted and non-woven structures and recommend one for a specific textile end use.","textChars":97,"textLines":1,"bbox":[230,188,948,58]}
+{"kind":"shape","id":"sh/2lgnulor","slide":7,"bbox":[72,310,260,218]}
+{"kind":"textbox","id":"sh/36ponq5c","slide":7,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[94,330,46,46]}
+{"kind":"textbox","id":"sh/o7y5wvmx","slide":7,"text":"READ","textPreview":"READ","textChars":4,"textLines":1,"bbox":[154,336,154,32]}
+{"kind":"textbox","id":"sh/p876p0ni","slide":7,"text":"Underline the action word and the exact topic.","textPreview":"Underline the action word and the exact topic.","textChars":46,"textLines":1,"bbox":[96,398,212,102]}
+{"kind":"shape","id":"sh/q9gny543","slide":7,"bbox":[356,310,260,218]}
+{"kind":"textbox","id":"sh/ba9ora5o","slide":7,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[378,330,46,46]}
+{"kind":"textbox","id":"sh/cbi50fm9","slide":7,"text":"SELECT","textPreview":"SELECT","textChars":6,"textLines":1,"bbox":[438,336,154,32]}
+{"kind":"textbox","id":"sh/dcr6t0nu","slide":7,"text":"Choose two or three course facts that answer it.","textPreview":"Choose two or three course facts that answer it.","textChars":48,"textLines":1,"bbox":[380,398,212,102]}
+{"kind":"shape","id":"sh/6dwnm1oz","slide":7,"bbox":[640,310,260,218]}
+{"kind":"textbox","id":"sh/re54f654","slide":7,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[662,330,46,46]}
+{"kind":"textbox","id":"sh/v61c7ih0","slide":7,"text":"EXPLAIN","textPreview":"EXPLAIN","textChars":7,"textLines":1,"bbox":[722,336,154,32]}
+{"kind":"textbox","id":"sh/al8byd0f","slide":7,"text":"Link each fact to why it matters or what it proves.","textPreview":"Link each fact to why it matters or what it proves.","textChars":51,"textLines":1,"bbox":[664,398,212,102]}
+{"kind":"shape","id":"sh/x8ju98zq","slide":7,"bbox":[924,310,260,218]}
+{"kind":"textbox","id":"sh/w7at0nil","slide":7,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[946,330,46,46]}
+{"kind":"textbox","id":"sh/nihs3yho","slide":7,"text":"CHECK","textPreview":"CHECK","textChars":5,"textLines":1,"bbox":[1006,336,154,32]}
+{"kind":"textbox","id":"sh/mh8but03","slide":7,"text":"Return to the question; correct gaps and vague words.","textPreview":"Return to the question; correct gaps and vague words.","textChars":53,"textLines":1,"bbox":[948,398,212,102]}
+{"kind":"textbox","id":"sh/9kza58zu","slide":7,"text":"Strong responses use evidence and reasoning—not a copied paragraph.","textPreview":"Strong responses use evidence and reasoning—not a copied paragraph.","textChars":67,"textLines":1,"bbox":[72,570,1136,44]}
+{"kind":"notes","id":"nt/iyjilc","slide":7,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 4, Section 3 evidence prompt plus the course response scaffold.\nCourse authority: work/source-contract.md and work/source-audit.md.\nVisual treatment: editable PowerPoint diagram generated only from the cited module facts.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Model the four-step process aloud. Students should be able to point to the fact and the explanation in their finished response.\nSlide 7 of 8."}
+{"kind":"slide","id":"sl/mcppp5","slide":8,"title":"EXIT TICKET + NEXT STEP","textShapes":16}
+{"kind":"shape","id":"sh/7at8rupk","slide":8,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/8b2p0z65","slide":8,"text":"EXIT TICKET + NEXT STEP","textPreview":"EXIT TICKET + NEXT STEP","textChars":23,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/tcbqt47q","slide":8,"text":"Finish with evidence","textPreview":"Finish with evidence","textChars":20,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/yl07upo3","slide":8,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/zm98nupo","slide":8,"text":"YEAR 9 TEXTILES · MODULE 4","textPreview":"YEAR 9 TEXTILES · MODULE 4","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/knipwz69","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/lorqp47u","slide":8,"bbox":[72,184,550,376]}
+{"kind":"textbox","id":"sh/ah07qpo7","slide":8,"text":"EXIT TICKET","textPreview":"EXIT TICKET","textChars":11,"textLines":1,"bbox":[108,220,470,40]}
+{"kind":"textbox","id":"sh/bi9ojapc","slide":8,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[108,292,46,46]}
+{"kind":"textbox","id":"sh/rqx4bit4","slide":8,"text":"Name one idea you can now explain accurately.","textPreview":"Name one idea you can now explain accurately.","textChars":45,"textLines":1,"bbox":[176,286,400,58]}
+{"kind":"textbox","id":"sh/qpon2dcj","slide":8,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[108,374,46,46]}
+{"kind":"textbox","id":"sh/dcfmdsba","slide":8,"text":"Identify one correction you made after retrieval.","textPreview":"Identify one correction you made after retrieval.","textChars":49,"textLines":1,"bbox":[176,368,400,58]}
+{"kind":"textbox","id":"sh/sb654nup","slide":8,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[108,456,46,46]}
+{"kind":"textbox","id":"sh/feh4fitg","slide":8,"text":"State the evidence you will save from this module.","textPreview":"State the evidence you will save from this module.","textChars":50,"textLines":1,"bbox":[176,450,400,58]}
+{"kind":"shape","id":"sh/ed8n6xcv","slide":8,"bbox":[654,184,554,238]}
+{"kind":"textbox","id":"sh/1gzmhsb6","slide":8,"text":"SAVE THIS EVIDENCE","textPreview":"SAVE THIS EVIDENCE","textChars":18,"textLines":1,"bbox":[686,216,490,34]}
+{"kind":"textbox","id":"sh/0fq58nu1","slide":8,"text":"Classification chart, fibre-to-fabric explanation and justified material choice.","textPreview":"Classification chart, fibre-to-fabric explanation and justified material choice.","textChars":80,"textLines":1,"bbox":[686,270,490,118]}
+{"kind":"shape","id":"sh/vid43ytw","slide":8,"bbox":[654,446,554,114]}
+{"kind":"textbox","id":"sh/uh43utcr","slide":8,"text":"NEXT STEP","textPreview":"NEXT STEP","textChars":9,"textLines":1,"bbox":[682,468,140,28]}
+{"kind":"textbox","id":"sh/ydc721wz","slide":8,"text":"Return to the module page, complete the evidence prompt and use teacher directions for practical work.","textPreview":"Return to the module page, complete the evidence prompt and use teacher directions for practical work.","textChars":102,"textLines":1,"bbox":[824,462,354,72]}
+{"kind":"textbox","id":"sh/jel8b6dk","slide":8,"text":"Explain it. Check it. Save it.","textPreview":"Explain it. Check it. Save it.","textChars":30,"textLines":1,"bbox":[72,594,1136,42]}
+{"kind":"notes","id":"nt/mcppp5","slide":8,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 4, module evidence summary and student next step.\nCourse authority: work/source-contract.md and work/source-audit.md.\nVisual treatment: editable PowerPoint diagram generated only from the cited module facts.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Collect a brief spoken or written exit response. Remind students that the website and teacher directions control the practical next step.\nSlide 8 of 8."}

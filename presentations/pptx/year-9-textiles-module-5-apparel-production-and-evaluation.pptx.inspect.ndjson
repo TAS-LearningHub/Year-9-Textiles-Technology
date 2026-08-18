@@ -1,0 +1,163 @@
+{"kind":"deck","id":"pr/61vj4b","name":"Deck"}
+{"kind":"layout","layoutId":"15c28d58-2fcc-4e8b-8268-fd03d1020764","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"1873a312-4bda-4fc7-a109-9dcce212940d","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/1lthlf","slide":1,"title":"5","textShapes":6}
+{"kind":"shape","id":"sh/vq90rm90","slide":1,"bbox":[0,0,24,720]}
+{"kind":"shape","id":"sh/wrihkrql","slide":1,"bbox":[78,64,58,58]}
+{"kind":"textbox","id":"sh/xcritwr6","slide":1,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[78,64,58,58]}
+{"kind":"textbox","id":"sh/mlgzeh8j","slide":1,"text":"YEAR 9 TEXTILES TECHNOLOGY","textPreview":"YEAR 9 TEXTILES TECHNOLOGY","textChars":26,"textLines":1,"bbox":[154,77,420,36]}
+{"kind":"textbox","id":"sh/nm90n294","slide":1,"text":"Apparel production & evaluation","textPreview":"Apparel production & evaluation","textChars":31,"textLines":1,"bbox":[78,172,515,212]}
+{"kind":"textbox","id":"sh/8nihg7qp","slide":1,"text":"Use teacher demonstrations and issued patterns to make the project, document construction and create accurate product-care information.","textPreview":"Use teacher demonstrations and issued patterns to make the project, document construction and create accurate product-care information.","textChars":135,"textLines":1,"bbox":[82,414,500,110]}
+{"kind":"shape","id":"sh/9oripcra","slide":1,"bbox":[82,558,500,68]}
+{"kind":"textbox","id":"sh/6hkjq18n","slide":1,"text":"TODAY: understand → retrieve → explain → save evidence","textPreview":"TODAY: understand → retrieve → explain → save evidence","textChars":54,"textLines":1,"bbox":[106,572,452,42]}
+{"kind":"shape","id":"sh/rit0z698","slide":1,"bbox":[646,86,562,518]}
+{"kind":"textbox","id":"sh/yp0ruh4j","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1124,666,84,32]}
+{"kind":"image","id":"im/snqd8vqx","slide":1,"name":"","geometry":"roundRect","alt":"Module 5 subject visual","bbox":[670,110,514,470]}
+{"kind":"notes","id":"nt/1lthlf","slide":1,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 5, module summary and evidence sequence.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/garment-label.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: State the module purpose. Ask students which part of the topic feels familiar and which part is new.\nSlide 1 of 8."}
+{"kind":"slide","id":"sl/bt30nh","slide":2,"title":"LEARNING MAP + RETRIEVAL STARTER","textShapes":15}
+{"kind":"shape","id":"sh/fqhszy5w","slide":2,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/grq9s3mh","slide":2,"text":"LEARNING MAP + RETRIEVAL STARTER","textPreview":"LEARNING MAP + RETRIEVAL STARTER","textChars":32,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/1sza1o32","slide":2,"text":"Three ideas to connect","textPreview":"Three ideas to connect","textChars":22,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/6lorm94f","slide":2,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/rmxsve50","slide":2,"text":"YEAR 9 TEXTILES · MODULE 5","textPreview":"YEAR 9 TEXTILES · MODULE 5","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/sn69ojm5","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/tozaxonq","slide":2,"bbox":[72,182,760,98]}
+{"kind":"textbox","id":"sh/ixori943","slide":2,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[94,202,52,52]}
+{"kind":"textbox","id":"sh/jyxsre5o","slide":2,"text":"Construction sequence and technique samples","textPreview":"Construction sequence and technique samples","textChars":43,"textLines":1,"bbox":[170,198,630,34]}
+{"kind":"textbox","id":"sh/jal0fepo","slide":2,"text":"The current pattern instructions and teacher demonstration control construction order.","textPreview":"The current pattern instructions and teacher demonstration control construction order.","textChars":86,"textLines":1,"bbox":[170,234,630,30]}
+{"kind":"shape","id":"sh/i9cj69o3","slide":2,"bbox":[72,302,760,98]}
+{"kind":"textbox","id":"sh/5c3iho7u","slide":2,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[94,322,52,52]}
+{"kind":"textbox","id":"sh/4bu18j69","slide":2,"text":"Resources, equipment and costing","textPreview":"Resources, equipment and costing","textChars":32,"textLines":1,"bbox":[170,318,630,34]}
+{"kind":"textbox","id":"sh/rel0jypk","slide":2,"text":"Equipment is used to make the item; resources are consumed in making it.","textPreview":"Equipment is used to make the item; resources are consumed in making it.","textChars":72,"textLines":1,"bbox":[170,354,630,30]}
+{"kind":"shape","id":"sh/6dcjatoz","slide":2,"bbox":[72,422,760,98]}
+{"kind":"textbox","id":"sh/d03ilo7q","slide":2,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[94,442,52,52]}
+{"kind":"textbox","id":"sh/szu1cj65","slide":2,"text":"Product labels and evaluation","textPreview":"Product labels and evaluation","textChars":29,"textLines":1,"bbox":[170,438,630,34]}
+{"kind":"textbox","id":"sh/7i107upg","slide":2,"text":"The source activity checks brand, size, fibre content, country and care information.","textPreview":"The source activity checks brand, size, fibre content, country and care information.","textChars":84,"textLines":1,"bbox":[170,474,630,30]}
+{"kind":"shape","id":"sh/mh8zypov","slide":2,"bbox":[866,182,342,344]}
+{"kind":"textbox","id":"sh/byp4f294","slide":2,"text":"RETRIEVE FIRST","textPreview":"RETRIEVE FIRST","textChars":14,"textLines":1,"bbox":[892,404,286,26]}
+{"kind":"textbox","id":"sh/czylo7qp","slide":2,"text":"Without notes: say one fact you already know and one question you need answered.","textPreview":"Without notes: say one fact you already know and one question you need answered.","textChars":80,"textLines":1,"bbox":[900,438,270,68]}
+{"kind":"image","id":"im/tkzyx4v6","slide":2,"name":"","geometry":"roundRect","alt":"Course learning map visual","bbox":[892,198,290,190]}
+{"kind":"notes","id":"nt/bt30nh","slide":2,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 5, all three section titles and first facts.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/textiles-course-hero.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Give students 30 seconds of silent retrieval, then connect their responses to the three-part learning map.\nSlide 2 of 8."}
+{"kind":"slide","id":"sl/smbjf3","slide":3,"title":"THEORY 1 OF 3","textShapes":9}
+{"kind":"shape","id":"sh/nqxob6hc","slide":3,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/or6p4byx","slide":3,"text":"THEORY 1 OF 3","textPreview":"THEORY 1 OF 3","textChars":13,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/9sf6dgzi","slide":3,"text":"Construction sequence and technique samples","textPreview":"Construction sequence and technique samples","textChars":43,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/e14ny1gv","slide":3,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/z2do76hg","slide":3,"text":"YEAR 9 TEXTILES · MODULE 5","textPreview":"YEAR 9 TEXTILES · MODULE 5","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/03650by1","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/1of69gzm","slide":3,"bbox":[72,184,558,338]}
+{"kind":"textbox","id":"sh/qx4nuhgz","slide":3,"text":"UNDERSTAND THE IDEA","textPreview":"UNDERSTAND THE IDEA","textChars":19,"textLines":1,"bbox":[100,208,502,26]}
+{"kind":"textbox","id":"sh/rydo3mhk","slide":3,"text":"The current pattern instructions and teacher demonstration control construction order. They are the local authority for the exact project method.\nTechnique samples provide evidence before or alongside the final garment. They show how seams, finishes or hems were practised and refined.\nEach construction step should include a quality check. Checking alignment and finish early prevents faults carrying forward.","textPreview":"The current pattern instructions and teacher demonstration control construction order. They are the local authority for the exact project...","textChars":410,"textLines":3,"bbox":[100,252,502,246]}
+{"kind":"shape","id":"sh/r2twvat0","slide":3,"bbox":[650,184,558,338]}
+{"kind":"textbox","id":"sh/d4vex0b6","slide":3,"text":"SEE THE RELATIONSHIP","textPreview":"SEE THE RELATIONSHIP","textChars":20,"textLines":1,"bbox":[678,486,502,24]}
+{"kind":"shape","id":"sh/s32dofal","slide":3,"bbox":[72,548,1136,96]}
+{"kind":"textbox","id":"sh/f6dwzatw","slide":3,"text":"EVIDENCE PROMPT","textPreview":"EVIDENCE PROMPT","textChars":15,"textLines":1,"bbox":[98,568,210,24]}
+{"kind":"textbox","id":"sh/e54vq5sb","slide":3,"text":"Outline a safe construction-record format that follows the issued pattern and includes useful quality checks.","textPreview":"Outline a safe construction-record format that follows the issued pattern and includes useful quality checks.","textChars":109,"textLines":1,"bbox":[310,562,870,60]}
+{"kind":"image","id":"im/p836t8j2","slide":3,"name":"","geometry":"roundRect","alt":"Construction sequence and technique samples explanatory visual","bbox":[674,206,510,278]}
+{"kind":"notes","id":"nt/smbjf3","slide":3,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 5, Section 1: Construction sequence and technique samples.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/pattern-symbols.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Teach the three points, then pause for students to answer the evidence prompt in one or two precise sentences.\nSlide 3 of 8."}
+{"kind":"slide","id":"sl/v240ye","slide":4,"title":"THEORY 2 OF 3","textShapes":9}
+{"kind":"shape","id":"sh/4rud8jm9","slide":4,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/jqlcfylo","slide":4,"text":"THEORY 2 OF 3","textPreview":"THEORY 2 OF 3","textChars":13,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/ipcv6t43","slide":4,"text":"Resources, equipment and costing","textPreview":"Resources, equipment and costing","textChars":32,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/tgnul83q","slide":4,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/sfedc3m5","slide":4,"text":"YEAR 9 TEXTILES · MODULE 5","textPreview":"YEAR 9 TEXTILES · MODULE 5","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/rulcjylk","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/6tcvat4z","slide":4,"bbox":[650,184,558,338]}
+{"kind":"textbox","id":"sh/1knep83m","slide":4,"text":"UNDERSTAND THE IDEA","textPreview":"UNDERSTAND THE IDEA","textChars":19,"textLines":1,"bbox":[678,208,502,26]}
+{"kind":"textbox","id":"sh/gjedg3m1","slide":4,"text":"Equipment is used to make the item; resources are consumed in making it. The distinction supports planning and accurate documentation.\nA costing table records item, quantity, unit cost and total. The columns make the calculation traceable.\nUse real receipts, labels or teacher-issued figures. Evidence-based costs can be checked and updated.","textPreview":"Equipment is used to make the item; resources are consumed in making it. The distinction supports planning and accurate documentation. | ...","textChars":341,"textLines":3,"bbox":[678,252,502,246]}
+{"kind":"shape","id":"sh/2h0fu50f","slide":4,"bbox":[72,184,558,338]}
+{"kind":"textbox","id":"sh/ojixwfil","slide":4,"text":"SEE THE RELATIONSHIP","textPreview":"SEE THE RELATIONSHIP","textChars":20,"textLines":1,"bbox":[100,486,502,24]}
+{"kind":"shape","id":"sh/pkbypkj6","slide":4,"bbox":[72,548,1136,96]}
+{"kind":"textbox","id":"sh/qlkfyp0r","slide":4,"text":"EVIDENCE PROMPT","textPreview":"EVIDENCE PROMPT","textChars":15,"textLines":1,"bbox":[98,568,210,24]}
+{"kind":"textbox","id":"sh/b6tgru1c","slide":4,"text":"Design the headings for a resource and costing table and explain what evidence you would use to complete it.","textPreview":"Design the headings for a resource and costing table and explain what evidence you would use to complete it.","textChars":108,"textLines":1,"bbox":[310,562,870,60]}
+{"kind":"image","id":"im/0b2hgn2l","slide":4,"name":"","geometry":"roundRect","alt":"Resources, equipment and costing explanatory visual","bbox":[96,206,510,278]}
+{"kind":"notes","id":"nt/v240ye","slide":4,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 5, Section 2: Resources, equipment and costing.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/fibre-yarn-fabric.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Teach the three points, then pause for students to answer the evidence prompt in one or two precise sentences.\nSlide 4 of 8."}
+{"kind":"slide","id":"sl/rwehy6","slide":5,"title":"THEORY 3 OF 3","textShapes":9}
+{"kind":"shape","id":"sh/5s72pgry","slide":5,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/ipw3el87","slide":5,"text":"THEORY 3 OF 3","textPreview":"THEORY 3 OF 3","textChars":13,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/jq5knq9s","slide":5,"text":"Product labels and evaluation","textPreview":"Product labels and evaluation","textChars":29,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/wnelcbq1","slide":5,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/xon2lgrm","slide":5,"text":"YEAR 9 TEXTILES · MODULE 5","textPreview":"YEAR 9 TEXTILES · MODULE 5","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/alw3a18b","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/vm5kj69g","slide":5,"bbox":[72,184,558,338]}
+{"kind":"textbox","id":"sh/gjilovql","slide":5,"text":"UNDERSTAND THE IDEA","textPreview":"UNDERSTAND THE IDEA","textChars":19,"textLines":1,"bbox":[100,208,502,26]}
+{"kind":"textbox","id":"sh/1krmx0rq","slide":5,"text":"The source activity checks brand, size, fibre content, country and care information. These details help a consumer identify and care for the product.\nCare symbols communicate laundering or cleaning instructions. They support correct maintenance of the textile item.\nFibre content helps explain care and performance. Different fibres can respond differently to heat, moisture and wear.","textPreview":"The source activity checks brand, size, fibre content, country and care information. These details help a consumer identify and care for ...","textChars":384,"textLines":3,"bbox":[100,252,502,246]}
+{"kind":"shape","id":"sh/dg3ep0n2","slide":5,"bbox":[650,184,558,338]}
+{"kind":"textbox","id":"sh/re1wnqpc","slide":5,"text":"SEE THE RELATIONSHIP","textPreview":"SEE THE RELATIONSHIP","textChars":20,"textLines":1,"bbox":[678,486,502,24]}
+{"kind":"shape","id":"sh/qdsvulor","slide":5,"bbox":[72,548,1136,96]}
+{"kind":"textbox","id":"sh/pcjelg76","slide":5,"text":"EVIDENCE PROMPT","textPreview":"EVIDENCE PROMPT","textChars":15,"textLines":1,"bbox":[98,568,210,24]}
+{"kind":"textbox","id":"sh/4badsb6l","slide":5,"text":"Draft the information plan for a product label, then explain how you would evaluate the finished apparel item.","textPreview":"Draft the information plan for a product label, then explain how you would evaluate the finished apparel item.","textChars":110,"textLines":1,"bbox":[310,562,870,60]}
+{"kind":"image","id":"im/3apsvq58","slide":5,"name":"","geometry":"roundRect","alt":"Product labels and evaluation explanatory visual","bbox":[674,206,510,278]}
+{"kind":"notes","id":"nt/rwehy6","slide":5,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 5, Section 3: Product labels and evaluation.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/evaluation-cycle.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Teach the three points, then pause for students to answer the evidence prompt in one or two precise sentences.\nSlide 5 of 8."}
+{"kind":"slide","id":"sl/3z1fbr","slide":6,"title":"NO NOTES FOR THE FIRST ATTEMPT","textShapes":14}
+{"kind":"shape","id":"sh/8fa5grqp","slide":6,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/neh4nmpk","slide":6,"text":"NO NOTES FOR THE FIRST ATTEMPT","textPreview":"NO NOTES FOR THE FIRST ATTEMPT","textChars":30,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/mt8neh8z","slide":6,"text":"Retrieve before you check","textPreview":"Retrieve before you check","textChars":25,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/xkjmtw7m","slide":6,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/wja5krq1","slide":6,"text":"YEAR 9 TEXTILES · MODULE 5","textPreview":"YEAR 9 TEXTILES · MODULE 5","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/vi14rmpg","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/ahsnih8v","slide":6,"bbox":[72,190,354,344]}
+{"kind":"textbox","id":"sh/dozmhsr2","slide":6,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[96,214,64,64]}
+{"kind":"textbox","id":"sh/cnq587qx","slide":6,"text":"Construction sequence and technique samples","textPreview":"Construction sequence and technique samples","textChars":43,"textLines":1,"bbox":[96,302,306,70]}
+{"kind":"textbox","id":"sh/29s7e98j","slide":6,"text":"Define construction sequence and technique samples in your own words and give one course example.","textPreview":"Define construction sequence and technique samples in your own words and give one course example.","textChars":97,"textLines":1,"bbox":[96,390,306,114]}
+{"kind":"shape","id":"sh/nal8ne94","slide":6,"bbox":[458,190,354,344]}
+{"kind":"textbox","id":"sh/obupgzqp","slide":6,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[482,214,64,64]}
+{"kind":"textbox","id":"sh/pc3qp4ru","slide":6,"text":"Resources, equipment and costing","textPreview":"Resources, equipment and costing","textChars":32,"textLines":1,"bbox":[482,302,306,70]}
+{"kind":"textbox","id":"sh/adc7i98f","slide":6,"text":"Why does resources, equipment and costing matter to a successful textile outcome?","textPreview":"Why does resources, equipment and costing matter to a successful textile outcome?","textChars":81,"textLines":1,"bbox":[482,390,306,114]}
+{"kind":"shape","id":"sh/bel8re90","slide":6,"bbox":[844,190,354,344]}
+{"kind":"textbox","id":"sh/cfupkjql","slide":6,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[868,214,64,64]}
+{"kind":"textbox","id":"sh/xg3qtor6","slide":6,"text":"Product labels and evaluation","textPreview":"Product labels and evaluation","textChars":29,"textLines":1,"bbox":[868,302,306,70]}
+{"kind":"textbox","id":"sh/yhc7mt8r","slide":6,"text":"What evidence would prove you understand product labels and evaluation?","textPreview":"What evidence would prove you understand product labels and evaluation?","textChars":71,"textLines":1,"bbox":[868,390,306,114]}
+{"kind":"textbox","id":"sh/z258vy9c","slide":6,"text":"Attempt → check the module → correct in a different colour","textPreview":"Attempt → check the module → correct in a different colour","textChars":58,"textLines":1,"bbox":[72,574,1136,42]}
+{"kind":"notes","id":"nt/3z1fbr","slide":6,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 5, retrieval questions generated from the first fact in each section.\nCourse authority: work/source-contract.md and work/source-audit.md.\nVisual treatment: editable PowerPoint diagram generated only from the cited module facts.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Keep the first attempt closed-book. Accuracy improves when students check and visibly correct the response afterwards.\nSlide 6 of 8."}
+{"kind":"slide","id":"sl/jg9daq","slide":7,"title":"READ → SELECT → EXPLAIN → CHECK","textShapes":19}
+{"kind":"shape","id":"sh/u1wn2t43","slide":7,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/ho7mx8nu","slide":7,"text":"READ → SELECT → EXPLAIN → CHECK","textPreview":"READ → SELECT → EXPLAIN → CHECK","textChars":31,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/gne543m9","slide":7,"text":"Build one strong written response","textPreview":"Build one strong written response","textChars":33,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/7y54re5s","slide":7,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/6xw3yt47","slide":7,"text":"YEAR 9 TEXTILES · MODULE 5","textPreview":"YEAR 9 TEXTILES · MODULE 5","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/t0nmtoni","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/sze50jmd","slide":7,"bbox":[72,174,1136,92]}
+{"kind":"textbox","id":"sh/jul4ne5g","slide":7,"text":"QUESTION","textPreview":"QUESTION","textChars":8,"textLines":1,"bbox":[96,194,130,24]}
+{"kind":"textbox","id":"sh/itc3u94v","slide":7,"text":"Draft the information plan for a product label, then explain how you would evaluate the finished apparel item.","textPreview":"Draft the information plan for a product label, then explain how you would evaluate the finished apparel item.","textChars":110,"textLines":1,"bbox":[230,188,948,58]}
+{"kind":"shape","id":"sh/0rmxwz2p","slide":7,"bbox":[72,310,260,218]}
+{"kind":"textbox","id":"sh/1svy543a","slide":7,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[94,330,46,46]}
+{"kind":"textbox","id":"sh/ep4fupkz","slide":7,"text":"READ","textPreview":"READ","textChars":4,"textLines":1,"bbox":[154,336,154,32]}
+{"kind":"textbox","id":"sh/zqdw3ul4","slide":7,"text":"Underline the action word and the exact topic.","textPreview":"Underline the action word and the exact topic.","textChars":46,"textLines":1,"bbox":[96,398,212,102]}
+{"kind":"shape","id":"sh/c32xsfmt","slide":7,"bbox":[356,310,260,218]}
+{"kind":"textbox","id":"sh/d4be1k3e","slide":7,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[378,330,46,46]}
+{"kind":"textbox","id":"sh/q1kfqp4n","slide":7,"text":"SELECT","textPreview":"SELECT","textChars":6,"textLines":1,"bbox":[438,336,154,32]}
+{"kind":"textbox","id":"sh/r2twzul8","slide":7,"text":"Choose two or three course facts that answer it.","textPreview":"Choose two or three course facts that answer it.","textChars":48,"textLines":1,"bbox":[380,398,212,102]}
+{"kind":"shape","id":"sh/wz6x4j2x","slide":7,"bbox":[640,310,260,218]}
+{"kind":"textbox","id":"sh/x0fydo3i","slide":7,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[662,330,46,46]}
+{"kind":"textbox","id":"sh/5gbehovm","slide":7,"text":"EXPLAIN","textPreview":"EXPLAIN","textChars":7,"textLines":1,"bbox":[722,336,154,32]}
+{"kind":"textbox","id":"sh/kf2xoju1","slide":7,"text":"Link each fact to why it matters or what it proves.","textPreview":"Link each fact to why it matters or what it proves.","textChars":51,"textLines":1,"bbox":[664,398,212,102]}
+{"kind":"shape","id":"sh/jetwfedg","slide":7,"bbox":[924,310,260,218]}
+{"kind":"textbox","id":"sh/idkfm9cb","slide":7,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[946,330,46,46]}
+{"kind":"textbox","id":"sh/xcbed4vq","slide":7,"text":"CHECK","textPreview":"CHECK","textChars":5,"textLines":1,"bbox":[1006,336,154,32]}
+{"kind":"textbox","id":"sh/wbixkzu5","slide":7,"text":"Return to the question; correct gaps and vague words.","textPreview":"Return to the question; correct gaps and vague words.","textChars":53,"textLines":1,"bbox":[948,398,212,102]}
+{"kind":"textbox","id":"sh/va9wbudk","slide":7,"text":"Strong responses use evidence and reasoning—not a copied paragraph.","textPreview":"Strong responses use evidence and reasoning—not a copied paragraph.","textChars":67,"textLines":1,"bbox":[72,570,1136,44]}
+{"kind":"notes","id":"nt/jg9daq","slide":7,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 5, Section 3 evidence prompt plus the course response scaffold.\nCourse authority: work/source-contract.md and work/source-audit.md.\nVisual treatment: editable PowerPoint diagram generated only from the cited module facts.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Model the four-step process aloud. Students should be able to point to the fact and the explanation in their finished response.\nSlide 7 of 8."}
+{"kind":"slide","id":"sl/mn1o70","slide":8,"title":"EXIT TICKET + NEXT STEP","textShapes":16}
+{"kind":"shape","id":"sh/e5k32p83","slide":8,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/18bmdkre","slide":8,"text":"EXIT TICKET + NEXT STEP","textPreview":"EXIT TICKET + NEXT STEP","textChars":23,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/072l4zq9","slide":8,"text":"Finish with evidence","textPreview":"Finish with evidence","textChars":20,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/r2947a9c","slide":8,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/q103y58r","slide":8,"text":"YEAR 9 TEXTILES · MODULE 5","textPreview":"YEAR 9 TEXTILES · MODULE 5","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/d4bm9kri","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/c32l0fqx","slide":8,"bbox":[72,184,550,376]}
+{"kind":"textbox","id":"sh/byd4je9w","slide":8,"text":"EXIT TICKET","textPreview":"EXIT TICKET","textChars":11,"textLines":1,"bbox":[108,220,470,40]}
+{"kind":"textbox","id":"sh/ax43a98b","slide":8,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[108,292,46,46]}
+{"kind":"textbox","id":"sh/wjq58z65","slide":8,"text":"Name one idea you can now explain accurately.","textPreview":"Name one idea you can now explain accurately.","textChars":45,"textLines":1,"bbox":[176,286,400,58]}
+{"kind":"textbox","id":"sh/hkz6hknq","slide":8,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[108,374,46,46]}
+{"kind":"textbox","id":"sh/uhon6pof","slide":8,"text":"Identify one correction you made after retrieval.","textPreview":"Identify one correction you made after retrieval.","textChars":49,"textLines":1,"bbox":[176,368,400,58]}
+{"kind":"textbox","id":"sh/vixofu50","slide":8,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[108,456,46,46]}
+{"kind":"textbox","id":"sh/8v654f69","slide":8,"text":"State the evidence you will save from this module.","textPreview":"State the evidence you will save from this module.","textChars":50,"textLines":1,"bbox":[176,450,400,58]}
+{"kind":"shape","id":"sh/9gf6dknu","slide":8,"bbox":[654,184,554,238]}
+{"kind":"textbox","id":"sh/mton25o3","slide":8,"text":"SAVE THIS EVIDENCE","textPreview":"SAVE THIS EVIDENCE","textChars":18,"textLines":1,"bbox":[686,216,490,34]}
+{"kind":"textbox","id":"sh/7uxoba5o","slide":8,"text":"Construction sequence, technique samples, resource list, costing, product label and evaluation.","textPreview":"Construction sequence, technique samples, resource list, costing, product label and evaluation.","textChars":95,"textLines":1,"bbox":[686,270,490,118]}
+{"kind":"shape","id":"sh/krm50f6d","slide":8,"bbox":[654,446,554,114]}
+{"kind":"textbox","id":"sh/lsf690ni","slide":8,"text":"NEXT STEP","textPreview":"NEXT STEP","textChars":9,"textLines":1,"bbox":[682,468,140,28]}
+{"kind":"textbox","id":"sh/1o7mdwfm","slide":8,"text":"Return to the module page, complete the evidence prompt and use teacher directions for practical work.","textPreview":"Return to the module page, complete the evidence prompt and use teacher directions for practical work.","textChars":102,"textLines":1,"bbox":[824,462,354,72]}
+{"kind":"textbox","id":"sh/0nel4ry1","slide":8,"text":"Explain it. Check it. Save it.","textPreview":"Explain it. Check it. Save it.","textChars":30,"textLines":1,"bbox":[72,594,1136,42]}
+{"kind":"notes","id":"nt/mn1o70","slide":8,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 5, module evidence summary and student next step.\nCourse authority: work/source-contract.md and work/source-audit.md.\nVisual treatment: editable PowerPoint diagram generated only from the cited module facts.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Collect a brief spoken or written exit response. Remind students that the website and teacher directions control the practical next step.\nSlide 8 of 8."}

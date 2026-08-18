@@ -1,0 +1,517 @@
+{
+  "schema_version": "1.0",
+  "program_id": "year-9-textiles-program",
+  "version": "1.0",
+  "generated": "2026-08-19",
+  "site_root": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-18\\activate-and-use-these-skills-1\\outputs\\year-9-textiles-foundation-v2",
+  "routes": [
+    {
+      "destination": "activities.html#txt9-bw17",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        61
+      ]
+    },
+    {
+      "destination": "assessment-notifications/designer-pyjamas.html",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        46
+      ]
+    },
+    {
+      "destination": "assessment-notifications/fashion-magazine.html",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        69
+      ]
+    },
+    {
+      "destination": "assessment-notifications/textile-art.html",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        88
+      ]
+    },
+    {
+      "destination": "assessment-notifications/theory-examination.html",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        83,
+        84
+      ]
+    },
+    {
+      "destination": "folio.html",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        100
+      ]
+    },
+    {
+      "destination": "folio.html#designer-pyjamas",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        12,
+        16,
+        21,
+        35
+      ]
+    },
+    {
+      "destination": "folio.html#fashion-magazine",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        52,
+        53,
+        54,
+        56,
+        57,
+        58,
+        60
+      ]
+    },
+    {
+      "destination": "folio.html#textile-art",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        71,
+        72,
+        73
+      ]
+    },
+    {
+      "destination": "folio.html#textiles-gifts",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        90
+      ]
+    },
+    {
+      "destination": "modules/1.html#machine-control",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "destination": "modules/1.html#pincushion",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "destination": "modules/1.html#room-safety",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "destination": "modules/2.html#design-elements",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "destination": "modules/2.html#design-medium",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        11
+      ]
+    },
+    {
+      "destination": "modules/2.html#inspiration",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        15
+      ]
+    },
+    {
+      "destination": "modules/3.html#commercial-pattern",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "destination": "modules/3.html#design-development",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        20
+      ]
+    },
+    {
+      "destination": "modules/3.html#target-market",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        17
+      ]
+    },
+    {
+      "destination": "modules/4.html#fabric-structures",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        24,
+        25
+      ]
+    },
+    {
+      "destination": "modules/4.html#fibres",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        22
+      ]
+    },
+    {
+      "destination": "modules/4.html#yarns",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        23
+      ]
+    },
+    {
+      "destination": "modules/5.html#construction",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        47,
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "destination": "modules/5.html#labels-evaluation",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        45
+      ]
+    },
+    {
+      "destination": "modules/5.html#resources-costing",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        34
+      ]
+    },
+    {
+      "destination": "modules/6.html#designer-practice",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        55
+      ]
+    },
+    {
+      "destination": "modules/6.html#fashion-eras",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        51
+      ]
+    },
+    {
+      "destination": "modules/6.html#magazine-evidence",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        59
+      ]
+    },
+    {
+      "destination": "modules/7.html#art-production",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        85,
+        86
+      ]
+    },
+    {
+      "destination": "modules/7.html#garden-design",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        70
+      ]
+    },
+    {
+      "destination": "modules/7.html#techniques",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        74,
+        75
+      ]
+    },
+    {
+      "destination": "modules/8.html#final-evaluation",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        87
+      ]
+    },
+    {
+      "destination": "modules/8.html#gifts",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        89,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99
+      ]
+    },
+    {
+      "destination": "modules/8.html#revision",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        82
+      ]
+    }
+  ],
+  "learning_inventory": [
+    {
+      "id": "M1-room-safety",
+      "route": "modules/1.html#room-safety",
+      "period": 1,
+      "question_count": 10,
+      "guided_response_count": 1
+    },
+    {
+      "id": "M1-machine-control",
+      "route": "modules/1.html#machine-control",
+      "period": 3,
+      "question_count": 10,
+      "guided_response_count": 1
+    },
+    {
+      "id": "M1-pincushion",
+      "route": "modules/1.html#pincushion",
+      "period": 6,
+      "question_count": 10,
+      "guided_response_count": 1
+    },
+    {
+      "id": "M2-design-medium",
+      "route": "modules/2.html#design-medium",
+      "period": 11,
+      "question_count": 10,
+      "guided_response_count": 1
+    },
+    {
+      "id": "M2-design-elements",
+      "route": "modules/2.html#design-elements",
+      "period": 13,
+      "question_count": 10,
+      "guided_response_count": 1
+    },
+    {
+      "id": "M2-inspiration",
+      "route": "modules/2.html#inspiration",
+      "period": 15,
+      "question_count": 10,
+      "guided_response_count": 1
+    },
+    {
+      "id": "M3-target-market",
+      "route": "modules/3.html#target-market",
+      "period": 17,
+      "question_count": 10,
+      "guided_response_count": 1
+    },
+    {
+      "id": "M3-commercial-pattern",
+      "route": "modules/3.html#commercial-pattern",
+      "period": 18,
+      "question_count": 10,
+      "guided_response_count": 1
+    },
+    {
+      "id": "M3-design-development",
+      "route": "modules/3.html#design-development",
+      "period": 20,
+      "question_count": 10,
+      "guided_response_count": 1
+    },
+    {
+      "id": "M4-fibres",
+      "route": "modules/4.html#fibres",
+      "period": 22,
+      "question_count": 10,
+      "guided_response_count": 1
+    },
+    {
+      "id": "M4-yarns",
+      "route": "modules/4.html#yarns",
+      "period": 23,
+      "question_count": 10,
+      "guided_response_count": 1
+    },
+    {
+      "id": "M4-fabric-structures",
+      "route": "modules/4.html#fabric-structures",
+      "period": 24,
+      "question_count": 10,
+      "guided_response_count": 1
+    },
+    {
+      "id": "M5-construction",
+      "route": "modules/5.html#construction",
+      "period": 26,
+      "question_count": 10,
+      "guided_response_count": 1
+    },
+    {
+      "id": "M5-resources-costing",
+      "route": "modules/5.html#resources-costing",
+      "period": 34,
+      "question_count": 10,
+      "guided_response_count": 1
+    },
+    {
+      "id": "M5-labels-evaluation",
+      "route": "modules/5.html#labels-evaluation",
+      "period": 45,
+      "question_count": 10,
+      "guided_response_count": 1
+    },
+    {
+      "id": "M6-fashion-eras",
+      "route": "modules/6.html#fashion-eras",
+      "period": 51,
+      "question_count": 10,
+      "guided_response_count": 1
+    },
+    {
+      "id": "M6-designer-practice",
+      "route": "modules/6.html#designer-practice",
+      "period": 55,
+      "question_count": 10,
+      "guided_response_count": 1
+    },
+    {
+      "id": "M6-magazine-evidence",
+      "route": "modules/6.html#magazine-evidence",
+      "period": 59,
+      "question_count": 10,
+      "guided_response_count": 1
+    },
+    {
+      "id": "M7-techniques",
+      "route": "modules/7.html#techniques",
+      "period": 62,
+      "question_count": 10,
+      "guided_response_count": 1
+    },
+    {
+      "id": "M7-garden-design",
+      "route": "modules/7.html#garden-design",
+      "period": 70,
+      "question_count": 10,
+      "guided_response_count": 1
+    },
+    {
+      "id": "M7-art-production",
+      "route": "modules/7.html#art-production",
+      "period": 76,
+      "question_count": 10,
+      "guided_response_count": 1
+    },
+    {
+      "id": "M8-revision",
+      "route": "modules/8.html#revision",
+      "period": 82,
+      "question_count": 10,
+      "guided_response_count": 1
+    },
+    {
+      "id": "M8-final-evaluation",
+      "route": "modules/8.html#final-evaluation",
+      "period": 87,
+      "question_count": 10,
+      "guided_response_count": 1
+    },
+    {
+      "id": "M8-gifts",
+      "route": "modules/8.html#gifts",
+      "period": 89,
+      "question_count": 10,
+      "guided_response_count": 1
+    }
+  ]
+}

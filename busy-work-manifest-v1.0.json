@@ -1,0 +1,102 @@
+{
+  "schema_version": "website-builder-network/v1",
+  "build_id": "year-9-textiles-foundation-v2-busy-work-v1",
+  "task_family": "Busy Work",
+  "course": {
+    "title": "Year 9 Textiles Technology",
+    "cohort": "Year 9",
+    "modules": 8
+  },
+  "publication_boundary": "Approved for release with the complete course after independent local acceptance.",
+  "publication_authority": "Authorised",
+  "source_contract": {
+    "artifact_id": "year-9-textiles-source-contract",
+    "version": "v1",
+    "digest": "sha256:3b471560463fb22c4589930f804d36367b304c28084d3f60df18262693ed183e"
+  },
+  "artifact": {
+    "id": "year-9-textiles-busy-work-v1",
+    "type": "busy-work-manifest",
+    "version": "1.0",
+    "digest": "sha256:3624b8ca4eac542e075bb54e19070b5044b41986758e9784383ae6fe9e174322",
+    "owner_skill": "busy-work-builder",
+    "owner_task": "/root",
+    "owned_paths": [
+      "activities.html",
+      "assets/activities.js",
+      "assets/app.js",
+      "assets/site.css",
+      "index.html"
+    ],
+    "operational_status": "Complete",
+    "gate_verdict": "PASS",
+    "release_state": "Local-only"
+  },
+  "destination": {
+    "owner": "Year 9 Textiles course repository",
+    "hub": "activities.html",
+    "route_pattern": "activities.html#txt9-bw01 through activities.html#txt9-bw20",
+    "navigation_label": "Busy Work"
+  },
+  "activities": [
+    {"id":"txt9-bw01","module":1,"title":"Textiles-room risk decisions","topic":"Room safety","mechanic":"Scenario classification","minutes":20,"theory":"modules/1.html#room-safety","visual":"assets/visuals/sections/m1-room-safety.svg"},
+    {"id":"txt9-bw02","module":1,"title":"Machine-control sequence","topic":"Sewing-machine control","mechanic":"Process sequencing","minutes":20,"theory":"modules/1.html#machine-control","visual":"assets/visuals/sections/m1-machine-control.svg"},
+    {"id":"txt9-bw03","module":1,"title":"Pincushion quality audit","topic":"Pincushion design and evaluation","mechanic":"Criteria audit","minutes":20,"theory":"modules/1.html#pincushion","visual":"assets/visuals/sections/m1-pincushion-evaluation.svg"},
+    {"id":"txt9-bw04","module":2,"title":"Design language match","topic":"Textiles as a design medium and design elements","mechanic":"Term-to-evidence matching","minutes":20,"theory":"modules/2.html#design-elements","visual":"assets/visuals/design-elements.svg"},
+    {"id":"txt9-bw05","module":2,"title":"Mood-board curator","topic":"Sources of inspiration","mechanic":"Evidence curation","minutes":20,"theory":"modules/2.html#inspiration","visual":"assets/visuals/sections/m2-inspiration-moodboard.svg"},
+    {"id":"txt9-bw06","module":3,"title":"Target-market trade-offs","topic":"Target market","mechanic":"Branching design decisions","minutes":20,"theory":"modules/3.html#target-market","visual":"assets/visuals/sections/m3-target-market.svg"},
+    {"id":"txt9-bw07","module":3,"title":"Pattern-envelope evidence hunt","topic":"Commercial patterns","mechanic":"Document evidence table","minutes":20,"theory":"modules/3.html#commercial-pattern","visual":"assets/visuals/pattern-symbols.svg"},
+    {"id":"txt9-bw08","module":3,"title":"Concept decision record","topic":"Design development","mechanic":"Weighted comparison","minutes":20,"theory":"modules/3.html#design-development","visual":"assets/visuals/sections/m3-concept-selection.svg"},
+    {"id":"txt9-bw09","module":4,"title":"Fibre family sorter","topic":"Fibres","mechanic":"Classification with exceptions","minutes":20,"theory":"modules/4.html#fibres","visual":"assets/visuals/sections/m4-fibre-classification.svg"},
+    {"id":"txt9-bw10","module":4,"title":"From fibre to yarn","topic":"Yarn structure","mechanic":"Transformation sequencing","minutes":20,"theory":"modules/4.html#yarns","visual":"assets/visuals/sections/m4-yarn-structure.svg"},
+    {"id":"txt9-bw11","module":4,"title":"Fabric-structure evidence table","topic":"Fabric structures","mechanic":"Comparative structure analysis","minutes":20,"theory":"modules/4.html#fabric-structures","visual":"assets/visuals/sections/m4-fabric-structures.svg"},
+    {"id":"txt9-bw12","module":5,"title":"Construction-control pathway","topic":"Construction","mechanic":"Quality-control sequencing","minutes":20,"theory":"modules/5.html#construction","visual":"assets/visuals/sections/m5-construction-evidence.svg"},
+    {"id":"txt9-bw13","module":5,"title":"Project costing studio","topic":"Resources and costing","mechanic":"Quantity-and-cost calculation","minutes":20,"theory":"modules/5.html#resources-costing","visual":"assets/visuals/sections/m5-resources-costing.svg"},
+    {"id":"txt9-bw14","module":5,"title":"Care-label decoder","topic":"Labelling and evaluation","mechanic":"Consumer-care decisions","minutes":20,"theory":"modules/5.html#labels-evaluation","visual":"assets/visuals/garment-label.svg"},
+    {"id":"txt9-bw15","module":6,"title":"Fashion-influence timeline","topic":"Fashion eras","mechanic":"Historical evidence sequencing","minutes":20,"theory":"modules/6.html#fashion-eras","visual":"assets/visuals/fashion-era-influence.svg"},
+    {"id":"txt9-bw16","module":6,"title":"Designer-practice interview lab","topic":"Textile designers","mechanic":"Question-and-source builder","minutes":20,"theory":"modules/6.html#designer-practice","visual":"assets/visuals/fashion-timeline.svg"},
+    {"id":"txt9-bw17","module":6,"title":"Magazine evidence desk","topic":"Magazine research and communication","mechanic":"Two-article evidence planner","minutes":20,"theory":"modules/6.html#magazine-evidence","visual":"assets/visuals/magazine-evidence-map.svg"},
+    {"id":"txt9-bw18","module":7,"title":"Technique-selection matrix","topic":"Textile art techniques","mechanic":"Technique suitability matrix","minutes":20,"theory":"modules/7.html#techniques","visual":"assets/visuals/sections/m7-technique-sample.svg"},
+    {"id":"txt9-bw19","module":7,"title":"Garden artwork production planner","topic":"Original design and production","mechanic":"Evidence-and-production plan","minutes":20,"theory":"modules/7.html#art-production","visual":"assets/visuals/sections/m7-production-evidence.svg"},
+    {"id":"txt9-bw20","module":8,"title":"Retrieval, evaluation and next step","topic":"Revision and portfolio readiness","mechanic":"Retrieval grid and evidence reflection","minutes":20,"theory":"modules/8.html#revision","visual":"assets/visuals/sections/m8-revision-map.svg"}
+  ],
+  "coverage": {
+    "activity_count": 20,
+    "modules": [1,2,3,4,5,6,7,8],
+    "minutes_each": 20,
+    "approximate_total_minutes": 400,
+    "interaction_families": 11,
+    "families": ["classification","sequencing","criteria audit","matching","branching decisions","evidence table","weighted comparison","calculation","interview builder","suitability matrix","retrieval grid"]
+  },
+  "storage_and_evidence": {
+    "storage_prefix": "yr9-textiles:busy:v1:",
+    "boundary": "Browser-local practice only; no network submission.",
+    "feedback": "Immediate accuracy and completeness feedback after the student selects Check my work.",
+    "print": "Current activity or hub progress can be printed or saved as PDF.",
+    "navigation": "Hub, module filter, precise theory link, previous activity, next activity and folio return."
+  },
+  "visual_use": {
+    "policy": "Existing source-safe course diagrams are reused only beside the matching taught concept. Every activity provides accurate alt text and an Open larger route.",
+    "unique_visuals": 20,
+    "repeated_contextual_visuals": []
+  },
+  "verification": {
+    "desktop_routes": "PASS — all 20 hash routes rendered at 1581 CSS pixels with no document overflow or broken images.",
+    "mobile_390": "PASS — all 20 hash routes rendered at exactly 390 CSS pixels with no document overflow; wide evidence tables remain keyboard-operable internal scrollers.",
+    "route_and_asset_http": "PASS — 20 HTML pages and 45 local targets returned HTTP 200 with zero failures.",
+    "interaction": "PASS — correct completion, corrective feedback, objective checking, field-length checking, numeric range validation, autosave/reload, progress state, costing and weighted totals tested.",
+    "print": "PASS — a representative evidence-table activity produced a two-page tagged A4 PDF; every rendered page was inspected with no clipping or overlap.",
+    "console": "PASS — no warning or error logs across the 20-activity route gate.",
+    "javascript": "PASS — Node syntax check.",
+    "mechanic_depth": "PASS — 11 rendered interaction families; no repeated choice-plus-text library pattern."
+  },
+  "gate": {
+    "environment": "local",
+    "phase": "producer-complete",
+    "subject_digest": "sha256:3624b8ca4eac542e075bb54e19070b5044b41986758e9784383ae6fe9e174322",
+    "decision": "PASS",
+    "independent_content_conformance": "PENDING"
+  },
+  "exceptions": [],
+  "timestamp": "2026-08-19T03:05:00+10:00"
+}

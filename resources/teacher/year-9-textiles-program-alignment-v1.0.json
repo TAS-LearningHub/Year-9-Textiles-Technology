@@ -1,0 +1,4424 @@
+{
+  "schema_version": "1.1",
+  "program_id": "year-9-textiles-program",
+  "version": "1.0",
+  "course": {
+    "title": "Year 9 Textiles Technology",
+    "classification": "Stage 5 elective — annual component; 100-hour/200-hour enrolment Teacher to confirm",
+    "stage_or_year": "Stage 5 / Year 9",
+    "delivery_year": 2024,
+    "project": "Designer Pyjamas and hoodie; Fashion Era/Designer magazine; Textile Art: In the Garden; conditional Textiles as Gifts"
+  },
+  "site": {
+    "name": "Year 9 Textiles Foundation v2",
+    "reference": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-18\\activate-and-use-these-skills-1\\outputs\\year-9-textiles-foundation-v2",
+    "inspection_date": "2026-08-19",
+    "state": "issue-ready local candidate"
+  },
+  "syllabus": {
+    "title": "Textiles Technology 7–10",
+    "version": "2019",
+    "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-technology-7-10-2019",
+    "verified_date": "2026-08-19",
+    "mandatory_from": "Current for the 2024 source edition; replacement 2025 syllabus mandatory from 2028",
+    "early_implementation": "permitted",
+    "steve_decision": "use-current",
+    "implementation_status": "current",
+    "new_syllabus_reference": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/overview/course"
+  },
+  "timetable": {
+    "weeks": 40,
+    "period_minutes": 60,
+    "periods_per_fortnight": 5,
+    "total_periods": 100,
+    "model": "Evidence-based annual delivery model; local timetable Teacher to confirm"
+  },
+  "outcomes": [
+    {
+      "code": "TEX5-1",
+      "statement": "explains the properties and performance of a range of textile items",
+      "source_id": "SRC-SYL-2019",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-technology-7-10-2019"
+    },
+    {
+      "code": "TEX5-2",
+      "statement": "justifies the selection of textile materials for specific end uses",
+      "source_id": "SRC-SYL-2019",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-technology-7-10-2019"
+    },
+    {
+      "code": "TEX5-3",
+      "statement": "explains the creative process of design used in the work of textile designers",
+      "source_id": "SRC-SYL-2019",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-technology-7-10-2019"
+    },
+    {
+      "code": "TEX5-4",
+      "statement": "generates and develops textile design ideas",
+      "source_id": "SRC-SYL-2019",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-technology-7-10-2019"
+    },
+    {
+      "code": "TEX5-5",
+      "statement": "investigates and applies methods of colouration and decoration for a range of textile items",
+      "source_id": "SRC-SYL-2019",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-technology-7-10-2019"
+    },
+    {
+      "code": "TEX5-6",
+      "statement": "analyses the influence of historical, cultural and contemporary perspectives on textile design, construction and use",
+      "source_id": "SRC-SYL-2019",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-technology-7-10-2019"
+    },
+    {
+      "code": "TEX5-7",
+      "statement": "evaluates the impact of textiles production and use on the individual consumer and society",
+      "source_id": "SRC-SYL-2019",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-technology-7-10-2019"
+    },
+    {
+      "code": "TEX5-8",
+      "statement": "selects and uses appropriate technology to creatively document, communicate and present design and project work",
+      "source_id": "SRC-SYL-2019",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-technology-7-10-2019"
+    },
+    {
+      "code": "TEX5-9",
+      "statement": "critically selects and creatively manipulates a range of textile materials to produce quality textile items",
+      "source_id": "SRC-SYL-2019",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-technology-7-10-2019"
+    },
+    {
+      "code": "TEX5-10",
+      "statement": "selects appropriate techniques and uses equipment safely in the production of quality textile projects",
+      "source_id": "SRC-SYL-2019",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-technology-7-10-2019"
+    },
+    {
+      "code": "TEX5-11",
+      "statement": "demonstrates competence in the production of textile projects to completion",
+      "source_id": "SRC-SYL-2019",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-technology-7-10-2019"
+    },
+    {
+      "code": "TEX5-12",
+      "statement": "evaluates textile items to determine quality in their design and construction",
+      "source_id": "SRC-SYL-2019",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-technology-7-10-2019"
+    }
+  ],
+  "source_register": [
+    {
+      "id": "SRC-SYL-2019",
+      "title": "Textiles Technology 7–10 Syllabus (2019)",
+      "authority": "official-syllabus",
+      "location": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-technology-7-10-2019",
+      "revision": "2019; verified current 2026-08-18",
+      "use": "Course requirements, content and exact Stage 5 outcomes."
+    },
+    {
+      "id": "SRC-2024-PROGRAM",
+      "title": "2024_PROGRAM_TASK_ONE_DESIGNER_PYJAMAS",
+      "authority": "local-program",
+      "location": "Google Drive file 1-40O8QmYgkdMYXXxtsK6n_-Ml5cwCvC5B2uTlVO6uWA",
+      "revision": "2024 Teacher Edition",
+      "use": "Twenty-week apparel sequence, introductory projects and practical progression."
+    },
+    {
+      "id": "SRC-2023-SCOPE",
+      "title": "2023 Year 9 Scope & Sequence Textiles Technology",
+      "authority": "local-program",
+      "location": "Google Drive file 1QjUkx7Gb2c6XZFX9Qkcs2Ur73wrREtVEHzXuyEDj7cw",
+      "revision": "2023",
+      "use": "Full-year project order and focus-area continuity."
+    },
+    {
+      "id": "SRC-ASSESS-2024",
+      "title": "Assessment schedule and formal notifications manifest v2",
+      "authority": "assessment",
+      "location": "assessment-schedule-notification-manifest-v2.json",
+      "revision": "2024 source set; built 2026-08-18",
+      "use": "Task identities, sequence, due points, marks, weightings and reconciliation decisions.",
+      "sha256": "2b5348575743de62fed060bdb57e6091b93315366da7da426caf1e626a17d5a1"
+    },
+    {
+      "id": "SRC-FOLIO",
+      "title": "Year 9 Textiles student folio v2",
+      "authority": "website",
+      "location": "folio.html and folio-build-manifest-v2.json",
+      "revision": "v2; 2026-08-18",
+      "use": "Project evidence cards and privacy-safe local evidence flow.",
+      "sha256": "1c868e62c6ac4bda25abc5d6acb75957d47a58316cf2a8c076b119010bdc0fc8"
+    },
+    {
+      "id": "SRC-SITE",
+      "title": "Year 9 Textiles Foundation v2 student site",
+      "authority": "website",
+      "location": "local site root; modules/1.html to modules/8.html",
+      "revision": "local candidate inspected 2026-08-18",
+      "use": "All 24 exact theory sections, 240 checks, guided responses, folio and assessment routes."
+    },
+    {
+      "id": "SRC-LOCAL-WHS",
+      "title": "Teacher demonstrations and local textiles-room procedures",
+      "authority": "local-whs",
+      "location": "Local school controls; not copied to student site",
+      "revision": "Teacher to confirm before practical delivery",
+      "use": "Exact machine, tool, material and room controls."
+    }
+  ],
+  "website_learning_inventory": [
+    {
+      "id": "M1-room-safety",
+      "route": "modules/1.html#room-safety",
+      "theory_section": "Working safely in the textiles room",
+      "quiz_or_check": "Working safely in the textiles room — knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        1
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Safety explanation and ten checks; guided response saved.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M1-machine-control",
+      "route": "modules/1.html#machine-control",
+      "theory_section": "Sewing-machine setup and control",
+      "quiz_or_check": "Sewing-machine setup and control — knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        3
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Machine-control explanation and ten checks; guided response saved.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M1-pincushion",
+      "route": "modules/1.html#pincushion",
+      "theory_section": "Pincushion practice and reflection",
+      "quiz_or_check": "Pincushion practice and reflection — knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        6
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Pincushion reflection and ten checks; guided response saved.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M2-design-medium",
+      "route": "modules/2.html#design-medium",
+      "theory_section": "Textiles as a design medium",
+      "quiz_or_check": "Textiles as a design medium — knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        11
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Design-purpose explanation and ten checks; guided response saved.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M2-design-elements",
+      "route": "modules/2.html#design-elements",
+      "theory_section": "Elements of design",
+      "quiz_or_check": "Elements of design — knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        13
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Annotated element examples and ten checks; guided response saved.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M2-inspiration",
+      "route": "modules/2.html#inspiration",
+      "theory_section": "Sources of inspiration and mood boards",
+      "quiz_or_check": "Sources of inspiration and mood boards — knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        15
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Mood-board rationale and ten checks; guided response saved.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M3-target-market",
+      "route": "modules/3.html#target-market",
+      "theory_section": "Target markets and nightwear needs",
+      "quiz_or_check": "Target markets and nightwear needs — knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        17
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Target-market profile and ten checks; guided response saved.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M3-commercial-pattern",
+      "route": "modules/3.html#commercial-pattern",
+      "theory_section": "Reading a commercial pattern",
+      "quiz_or_check": "Reading a commercial pattern — knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        18
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Pattern-symbol notes and ten checks; guided response saved.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M3-design-development",
+      "route": "modules/3.html#design-development",
+      "theory_section": "Developing and selecting design ideas",
+      "quiz_or_check": "Developing and selecting design ideas — knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        20
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Two concepts and selection rationale; ten checks and response saved.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M4-fibres",
+      "route": "modules/4.html#fibres",
+      "theory_section": "Fibre classification and properties",
+      "quiz_or_check": "Fibre classification and properties — knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        22
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Fibre classification and ten checks; guided response saved.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M4-yarns",
+      "route": "modules/4.html#yarns",
+      "theory_section": "From fibres to yarns",
+      "quiz_or_check": "From fibres to yarns — knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        23
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Fibre-to-yarn explanation and ten checks; guided response saved.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M4-fabric-structures",
+      "route": "modules/4.html#fabric-structures",
+      "theory_section": "Woven, knitted and non-woven fabrics",
+      "quiz_or_check": "Woven, knitted and non-woven fabrics — knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        24
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Structure comparison and ten checks; guided response saved.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M5-construction",
+      "route": "modules/5.html#construction",
+      "theory_section": "Construction sequence and technique samples",
+      "quiz_or_check": "Construction sequence and technique samples — knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        26
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Sequenced method and ten checks; guided response saved.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M5-resources-costing",
+      "route": "modules/5.html#resources-costing",
+      "theory_section": "Resources, equipment and costing",
+      "quiz_or_check": "Resources, equipment and costing — knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        34
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Real-resource table and ten checks; guided response saved.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M5-labels-evaluation",
+      "route": "modules/5.html#labels-evaluation",
+      "theory_section": "Product labels and evaluation",
+      "quiz_or_check": "Product labels and evaluation — knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        45
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Label/evaluation response and ten checks saved.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M6-fashion-eras",
+      "route": "modules/6.html#fashion-eras",
+      "theory_section": "Fashion eras and historical influence",
+      "quiz_or_check": "Fashion eras and historical influence — knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        51
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Era influence explanation and ten checks; guided response saved.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M6-designer-practice",
+      "route": "modules/6.html#designer-practice",
+      "theory_section": "Designer practice and target markets",
+      "quiz_or_check": "Designer practice and target markets — knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        55
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Designer/market analysis and ten checks; guided response saved.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M6-magazine-evidence",
+      "route": "modules/6.html#magazine-evidence",
+      "theory_section": "Magazine research and respectful evidence",
+      "quiz_or_check": "Magazine research and respectful evidence — knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        59
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Caption/reference audit and ten checks; guided response saved.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M7-techniques",
+      "route": "modules/7.html#techniques",
+      "theory_section": "Exploring textile-art techniques",
+      "quiz_or_check": "Exploring textile-art techniques — knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        62
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Technique decision and ten checks; guided response saved.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M7-garden-design",
+      "route": "modules/7.html#garden-design",
+      "theory_section": "Developing an original garden design",
+      "quiz_or_check": "Developing an original garden design — knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        70
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Original design rationale and ten checks; guided response saved.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M7-art-production",
+      "route": "modules/7.html#art-production",
+      "theory_section": "Production drawing, making and evaluation",
+      "quiz_or_check": "Production drawing, making and evaluation — knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        76
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Production/evaluation explanation and ten checks saved.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M8-revision",
+      "route": "modules/8.html#revision",
+      "theory_section": "Revision across the three areas of study",
+      "quiz_or_check": "Revision across the three areas of study — knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        82
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Retrieval map and ten checks; guided response saved.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M8-final-evaluation",
+      "route": "modules/8.html#final-evaluation",
+      "theory_section": "Final evaluation and portfolio readiness",
+      "quiz_or_check": "Final evaluation and portfolio readiness — knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        87
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Portfolio audit and ten checks; guided response saved.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M8-gifts",
+      "route": "modules/8.html#gifts",
+      "theory_section": "Textiles as Gifts: a teacher-approved extension",
+      "quiz_or_check": "Textiles as Gifts: a teacher-approved extension — knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        89
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Conditional brief and ten checks; guided response saved.",
+      "teacher_to_confirm_ids": [
+        "TBC-04"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "number": 1,
+      "term": 1,
+      "approx_week": 1.0,
+      "type": "Site/theory",
+      "focus": "Working safely in the textiles room",
+      "student_work": "Teach the named site theory. Complete 10 checks and one guided response; correct errors from feedback.",
+      "evidence": "Safety explanation and ten checks; guided response saved.",
+      "syllabus_content": [
+        "safe techniques and equipment"
+      ],
+      "outcome_codes": [
+        "TEX5-10"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/1.html#room-safety"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M1-room-safety"
+      ]
+    },
+    {
+      "number": 2,
+      "term": 1,
+      "approx_week": 1.0,
+      "type": "Practical",
+      "focus": "Room routines and equipment hold points",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "safe techniques and equipment"
+      ],
+      "outcome_codes": [
+        "TEX5-10"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/1.html#room-safety"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 3,
+      "term": 1,
+      "approx_week": 1.0,
+      "type": "Site/theory",
+      "focus": "Sewing-machine setup and control",
+      "student_work": "Teach the named site theory. Complete 10 checks and one guided response; correct errors from feedback.",
+      "evidence": "Machine-control explanation and ten checks; guided response saved.",
+      "syllabus_content": [
+        "safe techniques and equipment"
+      ],
+      "outcome_codes": [
+        "TEX5-10"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/1.html#machine-control"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M1-machine-control"
+      ]
+    },
+    {
+      "number": 4,
+      "term": 1,
+      "approx_week": 2.0,
+      "type": "Practical",
+      "focus": "Machine control on paper and threading",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "safe techniques and equipment"
+      ],
+      "outcome_codes": [
+        "TEX5-10"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/1.html#machine-control"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 5,
+      "term": 1,
+      "approx_week": 2.0,
+      "type": "Practical",
+      "focus": "Machine control on paper and threading",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "safe techniques and equipment"
+      ],
+      "outcome_codes": [
+        "TEX5-10"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/1.html#machine-control"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 6,
+      "term": 1,
+      "approx_week": 3.0,
+      "type": "Site/theory",
+      "focus": "Pincushion practice and reflection",
+      "student_work": "Teach the named site theory. Complete 10 checks and one guided response; correct errors from feedback.",
+      "evidence": "Pincushion reflection and ten checks; guided response saved.",
+      "syllabus_content": [
+        "safe techniques and equipment",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-10",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/1.html#pincushion"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M1-pincushion"
+      ]
+    },
+    {
+      "number": 7,
+      "term": 1,
+      "approx_week": 3.0,
+      "type": "Practical",
+      "focus": "Pincushion practice — mark and cut",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion"
+      ],
+      "outcome_codes": [
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/1.html#pincushion"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 8,
+      "term": 1,
+      "approx_week": 3.0,
+      "type": "Practical",
+      "focus": "Pincushion practice — join and control seams",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion"
+      ],
+      "outcome_codes": [
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/1.html#pincushion"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 9,
+      "term": 1,
+      "approx_week": 4.0,
+      "type": "Practical",
+      "focus": "Pincushion practice — turn and fill",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion"
+      ],
+      "outcome_codes": [
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/1.html#pincushion"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 10,
+      "term": 1,
+      "approx_week": 4.0,
+      "type": "Practical",
+      "focus": "Pincushion practice — finish and quality check",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion"
+      ],
+      "outcome_codes": [
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/1.html#pincushion"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 11,
+      "term": 1,
+      "approx_week": 5.0,
+      "type": "Site/theory",
+      "focus": "Textiles as a design medium",
+      "student_work": "Teach the named site theory. Complete 10 checks and one guided response; correct errors from feedback.",
+      "evidence": "Design-purpose explanation and ten checks; guided response saved.",
+      "syllabus_content": [
+        "creative design process",
+        "develop textile design ideas"
+      ],
+      "outcome_codes": [
+        "TEX5-3",
+        "TEX5-4"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/2.html#design-medium"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M2-design-medium"
+      ]
+    },
+    {
+      "number": 12,
+      "term": 1,
+      "approx_week": 5.0,
+      "type": "Project/folio",
+      "focus": "Designer Pyjamas brief and criteria",
+      "student_work": "Start Folio cards: user need and success criteria; identify the authorised task boundaries.",
+      "evidence": "Completed brief and criteria cards.",
+      "syllabus_content": [
+        "develop textile design ideas",
+        "document and communicate project work"
+      ],
+      "outcome_codes": [
+        "TEX5-4",
+        "TEX5-8"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-FOLIO"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#designer-pyjamas"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 13,
+      "term": 1,
+      "approx_week": 5.0,
+      "type": "Site/theory",
+      "focus": "Elements of design",
+      "student_work": "Teach the named site theory. Complete 10 checks and one guided response; correct errors from feedback.",
+      "evidence": "Annotated element examples and ten checks; guided response saved.",
+      "syllabus_content": [
+        "develop textile design ideas"
+      ],
+      "outcome_codes": [
+        "TEX5-4"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/2.html#design-elements"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M2-design-elements"
+      ]
+    },
+    {
+      "number": 14,
+      "term": 1,
+      "approx_week": 6.0,
+      "type": "Practical",
+      "focus": "Design-element textile sampler",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "develop textile design ideas",
+        "colouration and decoration",
+        "select and manipulate materials"
+      ],
+      "outcome_codes": [
+        "TEX5-4",
+        "TEX5-5",
+        "TEX5-9"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/2.html#design-elements"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 15,
+      "term": 1,
+      "approx_week": 6.0,
+      "type": "Site/theory",
+      "focus": "Sources of inspiration and mood boards",
+      "student_work": "Teach the named site theory. Complete 10 checks and one guided response; correct errors from feedback.",
+      "evidence": "Mood-board rationale and ten checks; guided response saved.",
+      "syllabus_content": [
+        "creative design process",
+        "develop textile design ideas"
+      ],
+      "outcome_codes": [
+        "TEX5-3",
+        "TEX5-4"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/2.html#inspiration"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M2-inspiration"
+      ]
+    },
+    {
+      "number": 16,
+      "term": 1,
+      "approx_week": 7.0,
+      "type": "Project/folio",
+      "focus": "Mood board and inspiration evidence",
+      "student_work": "Select, caption and reference purposeful inspiration; explain links to the intended user.",
+      "evidence": "Inspiration card with captions and source list.",
+      "syllabus_content": [
+        "creative design process",
+        "develop textile design ideas",
+        "document and communicate project work"
+      ],
+      "outcome_codes": [
+        "TEX5-3",
+        "TEX5-4",
+        "TEX5-8"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-FOLIO"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#designer-pyjamas"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 17,
+      "term": 1,
+      "approx_week": 7.0,
+      "type": "Site/theory",
+      "focus": "Target markets and nightwear needs",
+      "student_work": "Teach the named site theory. Complete 10 checks and one guided response; correct errors from feedback.",
+      "evidence": "Target-market profile and ten checks; guided response saved.",
+      "syllabus_content": [
+        "materials selected for end use",
+        "develop textile design ideas"
+      ],
+      "outcome_codes": [
+        "TEX5-2",
+        "TEX5-4"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/3.html#target-market"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M3-target-market"
+      ]
+    },
+    {
+      "number": 18,
+      "term": 1,
+      "approx_week": 7.0,
+      "type": "Site/theory",
+      "focus": "Reading a commercial pattern",
+      "student_work": "Teach the named site theory. Complete 10 checks and one guided response; correct errors from feedback.",
+      "evidence": "Pattern-symbol notes and ten checks; guided response saved.",
+      "syllabus_content": [
+        "materials selected for end use",
+        "safe techniques and equipment"
+      ],
+      "outcome_codes": [
+        "TEX5-2",
+        "TEX5-10"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/3.html#commercial-pattern"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M3-commercial-pattern"
+      ]
+    },
+    {
+      "number": 19,
+      "term": 1,
+      "approx_week": 8.0,
+      "type": "Practical",
+      "focus": "Commercial-pattern handling",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "materials selected for end use",
+        "safe techniques and equipment"
+      ],
+      "outcome_codes": [
+        "TEX5-2",
+        "TEX5-10"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/3.html#commercial-pattern"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 20,
+      "term": 1,
+      "approx_week": 8.0,
+      "type": "Site/theory",
+      "focus": "Developing and selecting design ideas",
+      "student_work": "Teach the named site theory. Complete 10 checks and one guided response; correct errors from feedback.",
+      "evidence": "Two concepts and selection rationale; ten checks and response saved.",
+      "syllabus_content": [
+        "develop textile design ideas",
+        "document and communicate project work"
+      ],
+      "outcome_codes": [
+        "TEX5-4",
+        "TEX5-8"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/3.html#design-development"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M3-design-development"
+      ]
+    },
+    {
+      "number": 21,
+      "term": 1,
+      "approx_week": 9.0,
+      "type": "Project/folio",
+      "focus": "Concept comparison and selection",
+      "student_work": "Complete two labelled front/back concepts and justify the final direction against criteria.",
+      "evidence": "Concepts card and design decision.",
+      "syllabus_content": [
+        "develop textile design ideas",
+        "document and communicate project work"
+      ],
+      "outcome_codes": [
+        "TEX5-4",
+        "TEX5-8"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-FOLIO"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#designer-pyjamas"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 22,
+      "term": 1,
+      "approx_week": 9.0,
+      "type": "Site/theory",
+      "focus": "Fibre classification and properties",
+      "student_work": "Teach the named site theory. Complete 10 checks and one guided response; correct errors from feedback.",
+      "evidence": "Fibre classification and ten checks; guided response saved.",
+      "syllabus_content": [
+        "properties and performance",
+        "materials selected for end use"
+      ],
+      "outcome_codes": [
+        "TEX5-1",
+        "TEX5-2"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/4.html#fibres"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M4-fibres"
+      ]
+    },
+    {
+      "number": 23,
+      "term": 1,
+      "approx_week": 9.0,
+      "type": "Site/theory",
+      "focus": "From fibres to yarns",
+      "student_work": "Teach the named site theory. Complete 10 checks and one guided response; correct errors from feedback.",
+      "evidence": "Fibre-to-yarn explanation and ten checks; guided response saved.",
+      "syllabus_content": [
+        "properties and performance"
+      ],
+      "outcome_codes": [
+        "TEX5-1"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/4.html#yarns"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M4-yarns"
+      ]
+    },
+    {
+      "number": 24,
+      "term": 1,
+      "approx_week": 10.0,
+      "type": "Site/theory",
+      "focus": "Woven, knitted and non-woven fabrics",
+      "student_work": "Teach the named site theory. Complete 10 checks and one guided response; correct errors from feedback.",
+      "evidence": "Structure comparison and ten checks; guided response saved.",
+      "syllabus_content": [
+        "properties and performance",
+        "materials selected for end use"
+      ],
+      "outcome_codes": [
+        "TEX5-1",
+        "TEX5-2"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/4.html#fabric-structures"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M4-fabric-structures"
+      ]
+    },
+    {
+      "number": 25,
+      "term": 1,
+      "approx_week": 10.0,
+      "type": "Practical",
+      "focus": "Fabric structure and end-use investigation",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "properties and performance",
+        "materials selected for end use"
+      ],
+      "outcome_codes": [
+        "TEX5-1",
+        "TEX5-2"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/4.html#fabric-structures"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 26,
+      "term": 2,
+      "approx_week": 1.0,
+      "type": "Site/theory",
+      "focus": "Construction sequence and technique samples",
+      "student_work": "Teach the named site theory. Complete 10 checks and one guided response; correct errors from feedback.",
+      "evidence": "Sequenced method and ten checks; guided response saved.",
+      "syllabus_content": [
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion"
+      ],
+      "outcome_codes": [
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/5.html#construction"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M5-construction"
+      ]
+    },
+    {
+      "number": 27,
+      "term": 2,
+      "approx_week": 1.0,
+      "type": "Practical",
+      "focus": "Pattern check and layout",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/5.html#construction"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 28,
+      "term": 2,
+      "approx_week": 1.0,
+      "type": "Practical",
+      "focus": "Accurate marking and cutting",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/5.html#construction"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 29,
+      "term": 2,
+      "approx_week": 2.0,
+      "type": "Practical",
+      "focus": "Initial seam sample",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/5.html#construction"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 30,
+      "term": 2,
+      "approx_week": 2.0,
+      "type": "Practical",
+      "focus": "Pyjama assembly",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/5.html#construction"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 31,
+      "term": 2,
+      "approx_week": 3.0,
+      "type": "Practical",
+      "focus": "Seam finish and quality",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/5.html#construction"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 32,
+      "term": 2,
+      "approx_week": 3.0,
+      "type": "Practical",
+      "focus": "Waist/fastening process",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/5.html#construction"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 33,
+      "term": 2,
+      "approx_week": 3.0,
+      "type": "Practical",
+      "focus": "Hem preparation",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/5.html#construction"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 34,
+      "term": 2,
+      "approx_week": 4.0,
+      "type": "Site/theory",
+      "focus": "Resources, equipment and costing",
+      "student_work": "Teach the named site theory. Complete 10 checks and one guided response; correct errors from feedback.",
+      "evidence": "Real-resource table and ten checks; guided response saved.",
+      "syllabus_content": [
+        "materials selected for end use",
+        "document and communicate project work"
+      ],
+      "outcome_codes": [
+        "TEX5-2",
+        "TEX5-8"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/5.html#resources-costing"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M5-resources-costing"
+      ]
+    },
+    {
+      "number": 35,
+      "term": 2,
+      "approx_week": 4.0,
+      "type": "Project/folio",
+      "focus": "Resources, costing and production evidence",
+      "student_work": "Update materials, resources and production-plan cards using actual classroom evidence.",
+      "evidence": "Costing/resource table and dated production plan.",
+      "syllabus_content": [
+        "materials selected for end use",
+        "document and communicate project work"
+      ],
+      "outcome_codes": [
+        "TEX5-2",
+        "TEX5-8"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-FOLIO"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#designer-pyjamas"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 36,
+      "term": 2,
+      "approx_week": 5.0,
+      "type": "Practical",
+      "focus": "Hoodie fabric handling",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/5.html#construction"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 37,
+      "term": 2,
+      "approx_week": 5.0,
+      "type": "Practical",
+      "focus": "Hoodie seam sample",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/5.html#construction"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 38,
+      "term": 2,
+      "approx_week": 5.0,
+      "type": "Practical",
+      "focus": "Hood/body construction",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/5.html#construction"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 39,
+      "term": 2,
+      "approx_week": 6.0,
+      "type": "Practical",
+      "focus": "Sleeve preparation",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/5.html#construction"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 40,
+      "term": 2,
+      "approx_week": 6.0,
+      "type": "Practical",
+      "focus": "Sleeve insertion",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/5.html#construction"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 41,
+      "term": 2,
+      "approx_week": 7.0,
+      "type": "Practical",
+      "focus": "Neck/hood preparation",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/5.html#construction"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 42,
+      "term": 2,
+      "approx_week": 7.0,
+      "type": "Practical",
+      "focus": "Hood attachment",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/5.html#construction"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 43,
+      "term": 2,
+      "approx_week": 7.0,
+      "type": "Practical",
+      "focus": "Edge finishing",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/5.html#construction"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 44,
+      "term": 2,
+      "approx_week": 8.0,
+      "type": "Practical",
+      "focus": "Fit and function check",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/5.html#construction"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 45,
+      "term": 2,
+      "approx_week": 8.0,
+      "type": "Site/theory",
+      "focus": "Product labels and evaluation",
+      "student_work": "Teach the named site theory. Complete 10 checks and one guided response; correct errors from feedback.",
+      "evidence": "Label/evaluation response and ten checks saved.",
+      "syllabus_content": [
+        "document and communicate project work",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-8",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/5.html#labels-evaluation"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M5-labels-evaluation"
+      ]
+    },
+    {
+      "number": 46,
+      "term": 2,
+      "approx_week": 9.0,
+      "type": "Project/folio",
+      "focus": "Task 1 folio completion and product record",
+      "student_work": "Complete checkpoints, resources/label and evaluation; prepare the authorised Task 1 folio submission.",
+      "evidence": "Task 1 folio checkpoint: Term 2 Week 5 source milestone recorded.",
+      "syllabus_content": [
+        "document and communicate project work",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-8",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-FOLIO",
+        "SRC-ASSESS-2024"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "assessment-notifications/designer-pyjamas.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 47,
+      "term": 2,
+      "approx_week": 9.0,
+      "type": "Practical",
+      "focus": "Final pyjama finishing",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/5.html#construction"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 48,
+      "term": 2,
+      "approx_week": 9.0,
+      "type": "Practical",
+      "focus": "Final hoodie finishing",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/5.html#construction"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 49,
+      "term": 2,
+      "approx_week": 10.0,
+      "type": "Practical",
+      "focus": "Pressing and presentation",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/5.html#construction"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 50,
+      "term": 2,
+      "approx_week": 10.0,
+      "type": "Practical",
+      "focus": "Task 1 practical checkpoint",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/5.html#construction"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 51,
+      "term": 3,
+      "approx_week": 1.0,
+      "type": "Site/theory",
+      "focus": "Fashion eras and historical influence",
+      "student_work": "Teach the named site theory. Complete 10 checks and one guided response; correct errors from feedback.",
+      "evidence": "Era influence explanation and ten checks; guided response saved.",
+      "syllabus_content": [
+        "historical/cultural/contemporary influences"
+      ],
+      "outcome_codes": [
+        "TEX5-6"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/6.html#fashion-eras"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M6-fashion-eras"
+      ]
+    },
+    {
+      "number": 52,
+      "term": 3,
+      "approx_week": 1.0,
+      "type": "Project/folio",
+      "focus": "Fashion-era research question",
+      "student_work": "Select an era and build a reliable research question and source list.",
+      "evidence": "Fashion-era planning notes.",
+      "syllabus_content": [
+        "historical/cultural/contemporary influences",
+        "document and communicate project work"
+      ],
+      "outcome_codes": [
+        "TEX5-6",
+        "TEX5-8"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-FOLIO"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#fashion-magazine"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 53,
+      "term": 3,
+      "approx_week": 1.0,
+      "type": "Project/folio",
+      "focus": "Fashion-era article",
+      "student_work": "Draft a concise article describing characteristic clothing and context.",
+      "evidence": "Draft era article with evidence.",
+      "syllabus_content": [
+        "historical/cultural/contemporary influences",
+        "document and communicate project work"
+      ],
+      "outcome_codes": [
+        "TEX5-6",
+        "TEX5-8"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-FOLIO"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#fashion-magazine"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 54,
+      "term": 3,
+      "approx_week": 2.0,
+      "type": "Project/folio",
+      "focus": "Historical influence comparison",
+      "student_work": "Compare one era feature with a contemporary example and explain the influence.",
+      "evidence": "Captioned comparison and explanation.",
+      "syllabus_content": [
+        "historical/cultural/contemporary influences",
+        "production/use impacts"
+      ],
+      "outcome_codes": [
+        "TEX5-6",
+        "TEX5-7"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-FOLIO"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#fashion-magazine"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 55,
+      "term": 3,
+      "approx_week": 2.0,
+      "type": "Site/theory",
+      "focus": "Designer practice and target markets",
+      "student_work": "Teach the named site theory. Complete 10 checks and one guided response; correct errors from feedback.",
+      "evidence": "Designer/market analysis and ten checks; guided response saved.",
+      "syllabus_content": [
+        "creative design process",
+        "production/use impacts"
+      ],
+      "outcome_codes": [
+        "TEX5-3",
+        "TEX5-7"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/6.html#designer-practice"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M6-designer-practice"
+      ]
+    },
+    {
+      "number": 56,
+      "term": 3,
+      "approx_week": 3.0,
+      "type": "Project/folio",
+      "focus": "Designer research",
+      "student_work": "Investigate a textile designer's background, location, focus area and recognisable style.",
+      "evidence": "Designer profile evidence.",
+      "syllabus_content": [
+        "creative design process",
+        "document and communicate project work"
+      ],
+      "outcome_codes": [
+        "TEX5-3",
+        "TEX5-8"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-FOLIO"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#fashion-magazine"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 57,
+      "term": 3,
+      "approx_week": 3.0,
+      "type": "Project/folio",
+      "focus": "Designer interview writing",
+      "student_work": "Write evidence-based interview questions and responses in the designer's professional context.",
+      "evidence": "Draft designer interview.",
+      "syllabus_content": [
+        "creative design process",
+        "production/use impacts"
+      ],
+      "outcome_codes": [
+        "TEX5-3",
+        "TEX5-7"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-FOLIO"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#fashion-magazine"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 58,
+      "term": 3,
+      "approx_week": 3.0,
+      "type": "Project/folio",
+      "focus": "Target market and brand positioning",
+      "student_work": "Connect materials, styling, quality, price and marketing to the designer's target market.",
+      "evidence": "Target-market analysis.",
+      "syllabus_content": [
+        "creative design process",
+        "production/use impacts"
+      ],
+      "outcome_codes": [
+        "TEX5-3",
+        "TEX5-7"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-FOLIO"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#fashion-magazine"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 59,
+      "term": 3,
+      "approx_week": 4.0,
+      "type": "Site/theory",
+      "focus": "Magazine research and respectful evidence",
+      "student_work": "Teach the named site theory. Complete 10 checks and one guided response; correct errors from feedback.",
+      "evidence": "Caption/reference audit and ten checks; guided response saved.",
+      "syllabus_content": [
+        "historical/cultural/contemporary influences",
+        "document and communicate project work"
+      ],
+      "outcome_codes": [
+        "TEX5-6",
+        "TEX5-8"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/6.html#magazine-evidence"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M6-magazine-evidence"
+      ]
+    },
+    {
+      "number": 60,
+      "term": 3,
+      "approx_week": 4.0,
+      "type": "Project/folio",
+      "focus": "Image captions and ethical use",
+      "student_work": "Caption each image, distinguish source evidence from student interpretation and check respectful use.",
+      "evidence": "Caption and image-source audit.",
+      "syllabus_content": [
+        "historical/cultural/contemporary influences",
+        "document and communicate project work"
+      ],
+      "outcome_codes": [
+        "TEX5-6",
+        "TEX5-8"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-FOLIO"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#fashion-magazine"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 61,
+      "term": 3,
+      "approx_week": 5.0,
+      "type": "Project/folio",
+      "focus": "APA references and page plan",
+      "student_work": "Complete the reference list and plan a readable two-part magazine structure.",
+      "evidence": "APA list and page map.",
+      "syllabus_content": [
+        "document and communicate project work"
+      ],
+      "outcome_codes": [
+        "TEX5-8"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-FOLIO"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "activities.html#txt9-bw17"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 62,
+      "term": 3,
+      "approx_week": 5.0,
+      "type": "Site/theory",
+      "focus": "Exploring textile-art techniques",
+      "student_work": "Teach the named site theory. Complete 10 checks and one guided response; correct errors from feedback.",
+      "evidence": "Technique decision and ten checks; guided response saved.",
+      "syllabus_content": [
+        "colouration and decoration",
+        "select and manipulate materials",
+        "safe techniques and equipment"
+      ],
+      "outcome_codes": [
+        "TEX5-5",
+        "TEX5-9",
+        "TEX5-10"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/7.html#techniques"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M7-techniques"
+      ]
+    },
+    {
+      "number": 63,
+      "term": 3,
+      "approx_week": 5.0,
+      "type": "Practical",
+      "focus": "Textile-art technique sample — Hand embroidery",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "colouration and decoration",
+        "select and manipulate materials",
+        "safe techniques and equipment"
+      ],
+      "outcome_codes": [
+        "TEX5-5",
+        "TEX5-9",
+        "TEX5-10"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/7.html#techniques"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 64,
+      "term": 3,
+      "approx_week": 6.0,
+      "type": "Practical",
+      "focus": "Textile-art technique sample — Appliqué",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "colouration and decoration",
+        "select and manipulate materials",
+        "safe techniques and equipment"
+      ],
+      "outcome_codes": [
+        "TEX5-5",
+        "TEX5-9",
+        "TEX5-10"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/7.html#techniques"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 65,
+      "term": 3,
+      "approx_week": 6.0,
+      "type": "Practical",
+      "focus": "Textile-art technique sample — Couching",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "colouration and decoration",
+        "select and manipulate materials",
+        "safe techniques and equipment"
+      ],
+      "outcome_codes": [
+        "TEX5-5",
+        "TEX5-9",
+        "TEX5-10"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/7.html#techniques"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 66,
+      "term": 3,
+      "approx_week": 7.0,
+      "type": "Practical",
+      "focus": "Textile-art technique sample — Free-motion or machine embroidery",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "colouration and decoration",
+        "select and manipulate materials",
+        "safe techniques and equipment"
+      ],
+      "outcome_codes": [
+        "TEX5-5",
+        "TEX5-9",
+        "TEX5-10"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/7.html#techniques"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 67,
+      "term": 3,
+      "approx_week": 7.0,
+      "type": "Practical",
+      "focus": "Textile-art technique sample — Printing/painting",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "colouration and decoration",
+        "select and manipulate materials",
+        "safe techniques and equipment"
+      ],
+      "outcome_codes": [
+        "TEX5-5",
+        "TEX5-9",
+        "TEX5-10"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/7.html#techniques"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 68,
+      "term": 3,
+      "approx_week": 7.0,
+      "type": "Practical",
+      "focus": "Textile-art technique sample — Dyeing/fabric crayons",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "colouration and decoration",
+        "select and manipulate materials",
+        "safe techniques and equipment"
+      ],
+      "outcome_codes": [
+        "TEX5-5",
+        "TEX5-9",
+        "TEX5-10"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/7.html#techniques"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 69,
+      "term": 3,
+      "approx_week": 8.0,
+      "type": "Project/folio",
+      "focus": "Task 2 submission checkpoint",
+      "student_work": "Proofread, export and submit the two-part magazine using the formal notification.",
+      "evidence": "Task 2 submitted: Term 3 Week 8 / 12 September 2024 source date.",
+      "syllabus_content": [
+        "creative design process",
+        "historical/cultural/contemporary influences",
+        "production/use impacts",
+        "document and communicate project work"
+      ],
+      "outcome_codes": [
+        "TEX5-3",
+        "TEX5-6",
+        "TEX5-7",
+        "TEX5-8"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-FOLIO",
+        "SRC-ASSESS-2024"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "assessment-notifications/fashion-magazine.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 70,
+      "term": 3,
+      "approx_week": 8.0,
+      "type": "Site/theory",
+      "focus": "Developing an original garden design",
+      "student_work": "Teach the named site theory. Complete 10 checks and one guided response; correct errors from feedback.",
+      "evidence": "Original design rationale and ten checks; guided response saved.",
+      "syllabus_content": [
+        "develop textile design ideas",
+        "colouration and decoration"
+      ],
+      "outcome_codes": [
+        "TEX5-4",
+        "TEX5-5"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/7.html#garden-design"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M7-garden-design"
+      ]
+    },
+    {
+      "number": 71,
+      "term": 3,
+      "approx_week": 9.0,
+      "type": "Project/folio",
+      "focus": "Textile Art brief and inspiration",
+      "student_work": "Begin the In the Garden folio brief and mood board; retain original, referenced source evidence.",
+      "evidence": "Brief and inspiration cards.",
+      "syllabus_content": [
+        "develop textile design ideas",
+        "colouration and decoration",
+        "document and communicate project work"
+      ],
+      "outcome_codes": [
+        "TEX5-4",
+        "TEX5-5",
+        "TEX5-8"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-FOLIO"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#textile-art"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 72,
+      "term": 3,
+      "approx_week": 9.0,
+      "type": "Project/folio",
+      "focus": "Textile Art concept development",
+      "student_work": "Develop two ideas for a maximum 40 × 40 cm artwork and compare strengths and weaknesses.",
+      "evidence": "Two labelled concepts.",
+      "syllabus_content": [
+        "develop textile design ideas",
+        "colouration and decoration"
+      ],
+      "outcome_codes": [
+        "TEX5-4",
+        "TEX5-5"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-FOLIO"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#textile-art"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 73,
+      "term": 3,
+      "approx_week": 9.0,
+      "type": "Project/folio",
+      "focus": "Final design and technique plan",
+      "student_work": "Render the selected design and nominate at least four teacher-approved decoration techniques.",
+      "evidence": "Final design and technique plan.",
+      "syllabus_content": [
+        "develop textile design ideas",
+        "colouration and decoration",
+        "document and communicate project work"
+      ],
+      "outcome_codes": [
+        "TEX5-4",
+        "TEX5-5",
+        "TEX5-8"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-FOLIO"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#textile-art"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 74,
+      "term": 3,
+      "approx_week": 10.0,
+      "type": "Practical",
+      "focus": "Textile-art technique sample — Needle felting or approved alternative",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "colouration and decoration",
+        "select and manipulate materials",
+        "safe techniques and equipment"
+      ],
+      "outcome_codes": [
+        "TEX5-5",
+        "TEX5-9",
+        "TEX5-10"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/7.html#techniques"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 75,
+      "term": 3,
+      "approx_week": 10.0,
+      "type": "Practical",
+      "focus": "Textile-art technique sample — Technique combination test",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "colouration and decoration",
+        "select and manipulate materials",
+        "safe techniques and equipment"
+      ],
+      "outcome_codes": [
+        "TEX5-5",
+        "TEX5-9",
+        "TEX5-10"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/7.html#techniques"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 76,
+      "term": 4,
+      "approx_week": 1.0,
+      "type": "Site/theory",
+      "focus": "Production drawing, making and evaluation",
+      "student_work": "Teach the named site theory. Complete 10 checks and one guided response; correct errors from feedback.",
+      "evidence": "Production/evaluation explanation and ten checks saved.",
+      "syllabus_content": [
+        "document and communicate project work",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-8",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/7.html#art-production"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M7-art-production"
+      ]
+    },
+    {
+      "number": 77,
+      "term": 4,
+      "approx_week": 1.0,
+      "type": "Practical",
+      "focus": "In the Garden production — Transfer production drawing",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "colouration and decoration",
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion"
+      ],
+      "outcome_codes": [
+        "TEX5-5",
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/7.html#art-production"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 78,
+      "term": 4,
+      "approx_week": 1.0,
+      "type": "Practical",
+      "focus": "In the Garden production — Prepare background",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "colouration and decoration",
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion"
+      ],
+      "outcome_codes": [
+        "TEX5-5",
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/7.html#art-production"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 79,
+      "term": 4,
+      "approx_week": 2.0,
+      "type": "Practical",
+      "focus": "In the Garden production — Apply technique 1",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "colouration and decoration",
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion"
+      ],
+      "outcome_codes": [
+        "TEX5-5",
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/7.html#art-production"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 80,
+      "term": 4,
+      "approx_week": 2.0,
+      "type": "Practical",
+      "focus": "In the Garden production — Apply technique 2",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "colouration and decoration",
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion"
+      ],
+      "outcome_codes": [
+        "TEX5-5",
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/7.html#art-production"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 81,
+      "term": 4,
+      "approx_week": 3.0,
+      "type": "Practical",
+      "focus": "In the Garden production — Apply technique 3",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "colouration and decoration",
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion"
+      ],
+      "outcome_codes": [
+        "TEX5-5",
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/7.html#art-production"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 82,
+      "term": 4,
+      "approx_week": 3.0,
+      "type": "Site/theory",
+      "focus": "Revision across the three areas of study",
+      "student_work": "Teach the named site theory. Complete 10 checks and one guided response; correct errors from feedback.",
+      "evidence": "Retrieval map and ten checks; guided response saved.",
+      "syllabus_content": [
+        "properties and performance",
+        "materials selected for end use",
+        "historical/cultural/contemporary influences",
+        "production/use impacts"
+      ],
+      "outcome_codes": [
+        "TEX5-1",
+        "TEX5-2",
+        "TEX5-6",
+        "TEX5-7"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/8.html#revision"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M8-revision"
+      ]
+    },
+    {
+      "number": 83,
+      "term": 4,
+      "approx_week": 3.0,
+      "type": "Project/folio",
+      "focus": "Final examination retrieval plan",
+      "student_work": "Build a revision map across Design, Properties and Performance, and Textiles and Society.",
+      "evidence": "Completed revision map and corrected retrieval notes.",
+      "syllabus_content": [
+        "properties and performance",
+        "materials selected for end use",
+        "historical/cultural/contemporary influences",
+        "production/use impacts"
+      ],
+      "outcome_codes": [
+        "TEX5-1",
+        "TEX5-2",
+        "TEX5-6",
+        "TEX5-7"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-FOLIO"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "assessment-notifications/theory-examination.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 84,
+      "term": 4,
+      "approx_week": 4.0,
+      "type": "Project/folio",
+      "focus": "Task 4 final examination",
+      "student_work": "Complete the authorised open-book examination under the formal task conditions.",
+      "evidence": "Task 4 examination evidence: Term 4 Week 4 / 7 November 2024 source date.",
+      "syllabus_content": [
+        "properties and performance",
+        "materials selected for end use",
+        "creative design process",
+        "historical/cultural/contemporary influences",
+        "production/use impacts"
+      ],
+      "outcome_codes": [
+        "TEX5-1",
+        "TEX5-2",
+        "TEX5-3",
+        "TEX5-6",
+        "TEX5-7"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-FOLIO",
+        "SRC-ASSESS-2024"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "assessment-notifications/theory-examination.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TBC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 85,
+      "term": 4,
+      "approx_week": 4.0,
+      "type": "Practical",
+      "focus": "In the Garden production — Apply technique 4",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "colouration and decoration",
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion"
+      ],
+      "outcome_codes": [
+        "TEX5-5",
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/7.html#art-production"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 86,
+      "term": 4,
+      "approx_week": 5.0,
+      "type": "Practical",
+      "focus": "In the Garden production — Finish and quality check",
+      "student_work": "Follow the current teacher demonstration and hold points; record the operation and named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "colouration and decoration",
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion"
+      ],
+      "outcome_codes": [
+        "TEX5-5",
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/7.html#art-production"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 87,
+      "term": 4,
+      "approx_week": 5.0,
+      "type": "Site/theory",
+      "focus": "Final evaluation and portfolio readiness",
+      "student_work": "Teach the named site theory. Complete 10 checks and one guided response; correct errors from feedback.",
+      "evidence": "Portfolio audit and ten checks; guided response saved.",
+      "syllabus_content": [
+        "document and communicate project work",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-8",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/8.html#final-evaluation"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M8-final-evaluation"
+      ]
+    },
+    {
+      "number": 88,
+      "term": 4,
+      "approx_week": 5.0,
+      "type": "Project/folio",
+      "focus": "Task 3 folio and evaluation submission",
+      "student_work": "Complete production evidence and evaluation; submit the authorised In the Garden task.",
+      "evidence": "Task 3 submitted: Term 4 Week 5 / 14 November 2024 source date.",
+      "syllabus_content": [
+        "develop textile design ideas",
+        "colouration and decoration",
+        "document and communicate project work",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-4",
+        "TEX5-5",
+        "TEX5-8",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-FOLIO",
+        "SRC-ASSESS-2024"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "assessment-notifications/textile-art.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 89,
+      "term": 4,
+      "approx_week": 6.0,
+      "type": "Site/theory",
+      "focus": "Textiles as Gifts: a teacher-approved extension",
+      "student_work": "Teach the named site theory. Complete 10 checks and one guided response; correct errors from feedback.",
+      "evidence": "Conditional brief and ten checks; guided response saved.",
+      "syllabus_content": [
+        "materials selected for end use",
+        "develop textile design ideas",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-2",
+        "TEX5-4",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/8.html#gifts"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TBC-04"
+      ],
+      "website_learning_ids": [
+        "M8-gifts"
+      ]
+    },
+    {
+      "number": 90,
+      "term": 4,
+      "approx_week": 6.0,
+      "type": "Project/folio",
+      "focus": "Textiles as Gifts proposal — conditional",
+      "student_work": "Draft a recipient, need and criteria; do not begin making until the teacher approves the controlling brief.",
+      "evidence": "Teacher-approved proposal or recorded hold point.",
+      "syllabus_content": [
+        "materials selected for end use",
+        "develop textile design ideas"
+      ],
+      "outcome_codes": [
+        "TEX5-2",
+        "TEX5-4"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-FOLIO"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#textiles-gifts"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TBC-04"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 91,
+      "term": 4,
+      "approx_week": 7.0,
+      "type": "Practical",
+      "focus": "Textiles as Gifts — approve brief",
+      "student_work": "Only after teacher approval: follow the demonstration, record the work and complete the named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "materials selected for end use",
+        "develop textile design ideas",
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-2",
+        "TEX5-4",
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/8.html#gifts"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-04"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 92,
+      "term": 4,
+      "approx_week": 7.0,
+      "type": "Practical",
+      "focus": "Textiles as Gifts — test materials",
+      "student_work": "Only after teacher approval: follow the demonstration, record the work and complete the named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "materials selected for end use",
+        "develop textile design ideas",
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-2",
+        "TEX5-4",
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/8.html#gifts"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-04"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 93,
+      "term": 4,
+      "approx_week": 7.0,
+      "type": "Practical",
+      "focus": "Textiles as Gifts — refine design",
+      "student_work": "Only after teacher approval: follow the demonstration, record the work and complete the named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "materials selected for end use",
+        "develop textile design ideas",
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-2",
+        "TEX5-4",
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/8.html#gifts"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-04"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 94,
+      "term": 4,
+      "approx_week": 8.0,
+      "type": "Practical",
+      "focus": "Textiles as Gifts — prepare resources",
+      "student_work": "Only after teacher approval: follow the demonstration, record the work and complete the named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "materials selected for end use",
+        "develop textile design ideas",
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-2",
+        "TEX5-4",
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/8.html#gifts"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-04"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 95,
+      "term": 4,
+      "approx_week": 8.0,
+      "type": "Practical",
+      "focus": "Textiles as Gifts — make stage 1",
+      "student_work": "Only after teacher approval: follow the demonstration, record the work and complete the named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "materials selected for end use",
+        "develop textile design ideas",
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-2",
+        "TEX5-4",
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/8.html#gifts"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-04"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 96,
+      "term": 4,
+      "approx_week": 9.0,
+      "type": "Practical",
+      "focus": "Textiles as Gifts — make stage 2",
+      "student_work": "Only after teacher approval: follow the demonstration, record the work and complete the named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "materials selected for end use",
+        "develop textile design ideas",
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-2",
+        "TEX5-4",
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/8.html#gifts"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-04"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 97,
+      "term": 4,
+      "approx_week": 9.0,
+      "type": "Practical",
+      "focus": "Textiles as Gifts — quality check",
+      "student_work": "Only after teacher approval: follow the demonstration, record the work and complete the named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "materials selected for end use",
+        "develop textile design ideas",
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-2",
+        "TEX5-4",
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/8.html#gifts"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-04"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 98,
+      "term": 4,
+      "approx_week": 9.0,
+      "type": "Practical",
+      "focus": "Textiles as Gifts — finish",
+      "student_work": "Only after teacher approval: follow the demonstration, record the work and complete the named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "materials selected for end use",
+        "develop textile design ideas",
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-2",
+        "TEX5-4",
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/8.html#gifts"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-04"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 99,
+      "term": 4,
+      "approx_week": 10.0,
+      "type": "Practical",
+      "focus": "Textiles as Gifts — evaluate",
+      "student_work": "Only after teacher approval: follow the demonstration, record the work and complete the named quality check.",
+      "evidence": "Dated work sample/photo and teacher observation.",
+      "syllabus_content": [
+        "materials selected for end use",
+        "develop textile design ideas",
+        "select and manipulate materials",
+        "safe techniques and equipment",
+        "produce projects to completion",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-2",
+        "TEX5-4",
+        "TEX5-9",
+        "TEX5-10",
+        "TEX5-11",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-2024-PROGRAM",
+        "SRC-LOCAL-WHS"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/8.html#gifts"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-04"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 100,
+      "term": 4,
+      "approx_week": 10.0,
+      "type": "Project/folio",
+      "focus": "Course portfolio, feedback and next steps",
+      "student_work": "Export the folio, check evidence against outcomes, respond to feedback and record one next-learning goal.",
+      "evidence": "Versioned folio export and final reflection.",
+      "syllabus_content": [
+        "document and communicate project work",
+        "evaluate design/construction quality"
+      ],
+      "outcome_codes": [
+        "TEX5-8",
+        "TEX5-12"
+      ],
+      "source_ids": [
+        "SRC-SYL-2019",
+        "SRC-SITE",
+        "SRC-FOLIO"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    }
+  ],
+  "site_route_map": [
+    {
+      "destination": "activities.html#txt9-bw17",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        61
+      ]
+    },
+    {
+      "destination": "assessment-notifications/designer-pyjamas.html",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        46
+      ]
+    },
+    {
+      "destination": "assessment-notifications/fashion-magazine.html",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        69
+      ]
+    },
+    {
+      "destination": "assessment-notifications/textile-art.html",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        88
+      ]
+    },
+    {
+      "destination": "assessment-notifications/theory-examination.html",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        83,
+        84
+      ]
+    },
+    {
+      "destination": "folio.html",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        100
+      ]
+    },
+    {
+      "destination": "folio.html#designer-pyjamas",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        12,
+        16,
+        21,
+        35
+      ]
+    },
+    {
+      "destination": "folio.html#fashion-magazine",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        52,
+        53,
+        54,
+        56,
+        57,
+        58,
+        60
+      ]
+    },
+    {
+      "destination": "folio.html#textile-art",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        71,
+        72,
+        73
+      ]
+    },
+    {
+      "destination": "folio.html#textiles-gifts",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        90
+      ]
+    },
+    {
+      "destination": "modules/1.html#machine-control",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "destination": "modules/1.html#pincushion",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "destination": "modules/1.html#room-safety",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "destination": "modules/2.html#design-elements",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "destination": "modules/2.html#design-medium",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        11
+      ]
+    },
+    {
+      "destination": "modules/2.html#inspiration",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        15
+      ]
+    },
+    {
+      "destination": "modules/3.html#commercial-pattern",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "destination": "modules/3.html#design-development",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        20
+      ]
+    },
+    {
+      "destination": "modules/3.html#target-market",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        17
+      ]
+    },
+    {
+      "destination": "modules/4.html#fabric-structures",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        24,
+        25
+      ]
+    },
+    {
+      "destination": "modules/4.html#fibres",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        22
+      ]
+    },
+    {
+      "destination": "modules/4.html#yarns",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        23
+      ]
+    },
+    {
+      "destination": "modules/5.html#construction",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        47,
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "destination": "modules/5.html#labels-evaluation",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        45
+      ]
+    },
+    {
+      "destination": "modules/5.html#resources-costing",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        34
+      ]
+    },
+    {
+      "destination": "modules/6.html#designer-practice",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        55
+      ]
+    },
+    {
+      "destination": "modules/6.html#fashion-eras",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        51
+      ]
+    },
+    {
+      "destination": "modules/6.html#magazine-evidence",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        59
+      ]
+    },
+    {
+      "destination": "modules/7.html#art-production",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        85,
+        86
+      ]
+    },
+    {
+      "destination": "modules/7.html#garden-design",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        70
+      ]
+    },
+    {
+      "destination": "modules/7.html#techniques",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        74,
+        75
+      ]
+    },
+    {
+      "destination": "modules/8.html#final-evaluation",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        87
+      ]
+    },
+    {
+      "destination": "modules/8.html#gifts",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        89,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99
+      ]
+    },
+    {
+      "destination": "modules/8.html#revision",
+      "purpose": "Scheduled student learning and evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        82
+      ]
+    }
+  ],
+  "teacher_to_confirm": [
+    {
+      "id": "TBC-01",
+      "item": "Confirm whether Year 9 is the complete 100-hour elective or the first half of a 200-hour course; if 200 hours, audit Year 10 for four units across three focus areas.",
+      "owner": "Head Teacher / course coordinator",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ],
+      "due_before": "Period 1"
+    },
+    {
+      "id": "TBC-02",
+      "item": "Confirm the 2024 source sequence and formal notices are authorised for the delivery cohort; issue replacement notices for any later cohort.",
+      "owner": "Class teacher / Head Teacher",
+      "affected_periods": [
+        46,
+        69,
+        84,
+        88
+      ],
+      "due_before": "Student distribution"
+    },
+    {
+      "id": "TBC-03",
+      "item": "Confirm current PJ/hoodie patterns, practical checkpoints, room equipment, permitted resources and local WHS demonstrations before each practical block.",
+      "owner": "Class teacher",
+      "affected_periods": [
+        2,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        14,
+        19,
+        25,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        47,
+        48,
+        49,
+        50,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        74,
+        75,
+        77,
+        78,
+        79,
+        80,
+        81,
+        85,
+        86
+      ],
+      "due_before": "Relevant practical period"
+    },
+    {
+      "id": "TBC-04",
+      "item": "Supply and approve the controlling Textiles as Gifts brief, status, materials, dimensions, processes and risk controls; otherwise replace Periods 89–100 with teacher-directed consolidation.",
+      "owner": "Class teacher / Head Teacher",
+      "affected_periods": [
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ],
+      "due_before": "Period 89"
+    }
+  ],
+  "files": [
+    {
+      "path": "resources/teacher/Year-9-Textiles-Teaching-Program-and-Scope-Sequence-v1.0.docx",
+      "purpose": "editable-program",
+      "version": "1.0",
+      "sha256": "37419e9151153dc94659f5a234aee5bea712d073899f384e1ed3fab7688cdd5d"
+    },
+    {
+      "path": "resources/teacher/Year-9-Textiles-Teaching-Program-and-Scope-Sequence-v1.0.pdf",
+      "purpose": "rendered-program",
+      "version": "1.0",
+      "sha256": "69d1b59a102b2aad0ca1ec2635d39711858dae60cad2fab36c8695e328abaeb3"
+    },
+    {
+      "path": "resources/teacher/Year-9-Textiles-Delivery-Ledger-v1.0.docx",
+      "purpose": "delivery-ledger",
+      "version": "1.0",
+      "sha256": "b3f10ccbce0b07228b00e37a35a710d4fb333a941af2989317a6f0c013542e5c"
+    },
+    {
+      "path": "resources/teacher/year-9-textiles-program-alignment-v1.0.json",
+      "purpose": "alignment-manifest",
+      "version": "1.0"
+    },
+    {
+      "path": "resources/teacher/year-9-textiles-program-site-map-v1.0.json",
+      "purpose": "site-route-map",
+      "version": "1.0",
+      "sha256": "3c3d74a725d715678face528a5dfba5134133cb0a55374ffae79e6fcc18ef696"
+    }
+  ],
+  "quality": {
+    "practical_majority": {
+      "practical_periods": 54,
+      "total_periods": 100,
+      "percentage": 54,
+      "status": "PASS"
+    },
+    "website_learning": {
+      "named_sections": 24,
+      "knowledge_checks": 240,
+      "guided_responses": 24,
+      "scheduled": "all"
+    },
+    "assessment": {
+      "tasks": 4,
+      "weighting_total": 100,
+      "source_year": 2024
+    },
+    "publication_state": "Issue-ready local candidate; authorised public release remains subject to the independent course release gates",
+    "document_review": {
+      "program_docx": "PASS — 11 A4 landscape pages; every page rendered and inspected",
+      "program_pdf": "PASS — 11 A4 landscape pages; tagged, unencrypted and visually matched to DOCX",
+      "delivery_ledger": "PASS — 8 A4 landscape pages; every page rendered and inspected"
+    },
+    "site_integration": "PASS"
+  }
+}

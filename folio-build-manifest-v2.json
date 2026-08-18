@@ -1,0 +1,132 @@
+{
+  "manifest": "folio-build-manifest",
+  "version": 2,
+  "course": "Year 9 Textiles Technology",
+  "route": "folio.html",
+  "buildDate": "2026-08-18",
+  "buildVerdict": "PASS",
+  "publicationState": "Local candidate only; not pushed or deployed",
+  "authority": {
+    "primaryContract": "../../work/source-contract.md",
+    "courseSequence": "assets/course-data.js",
+    "rules": [
+      "Current teacher and Classroom instructions control formal assessment dates and submission.",
+      "Practical competence requires teacher observation; the folio stores supporting evidence only.",
+      "Unsupported requirements remain Teacher to confirm.",
+      "No names, faces or identifiable school details belong in repository assets."
+    ]
+  },
+  "networkPattern": {
+    "DeskTidy": "Project-evidence card grammar and decision/process/result hierarchy",
+    "Year8Agriculture": "Calm local save, photo, backup, reset and print controls",
+    "RivBurger": "Course identity and device-local warning; raw response aggregation was not copied"
+  },
+  "projects": [
+    {
+      "id": "designer-pyjamas",
+      "verdict": "PASS",
+      "cards": [
+        "user-need",
+        "criteria",
+        "inspiration",
+        "concepts",
+        "pattern",
+        "materials",
+        "production-plan",
+        "checkpoints",
+        "resources-label",
+        "evaluation"
+      ],
+      "sourceModules": [2, 3, 4, 5],
+      "boundary": "Exact dates and submission arrangements remain in the current Classroom notice."
+    },
+    {
+      "id": "designer-hoodie",
+      "verdict": "PASS",
+      "cards": [
+        "brief",
+        "criteria",
+        "concept",
+        "textiles",
+        "plan",
+        "making",
+        "product-record",
+        "evaluation"
+      ],
+      "sourceModules": [3, 4, 5],
+      "boundary": "Learning-project status, dimensions, materials and exact construction remain Teacher to confirm."
+    },
+    {
+      "id": "fashion-magazine",
+      "verdict": "PASS",
+      "cards": [
+        "era-brief",
+        "era-evidence",
+        "era-influence",
+        "designer-profile",
+        "interview",
+        "sources-layout"
+      ],
+      "sourceModules": [6],
+      "migration": "Clearly matched Magazine Studio writing is copied once; original activity values remain preserved."
+    },
+    {
+      "id": "textile-art",
+      "verdict": "PASS",
+      "cards": ["brief", "inspiration", "ideas", "samples", "production", "evaluation"],
+      "sourceModules": [7],
+      "boundary": "Formal Task 3 controls the In the Garden theme, 40 × 40 cm maximum, at least four approved techniques and 45-mark folio allocation; teacher demonstration controls practical methods and safety."
+    },
+    {
+      "id": "textiles-gifts",
+      "verdict": "BLOCKED",
+      "cards": [],
+      "reason": "The source supplies a free-choice destination but no controlling project brief."
+    }
+  ],
+  "visuals": {
+    "policy": "Existing source-safe course diagrams are reused in the evidence context for which they were built.",
+    "assets": [
+      "assets/visuals/designer-market.svg",
+      "assets/visuals/design-elements.svg",
+      "assets/visuals/fashion-timeline.svg",
+      "assets/visuals/evaluation-cycle.svg",
+      "assets/visuals/pattern-symbols.svg",
+      "assets/visuals/fibre-yarn-fabric.svg",
+      "assets/visuals/safety-studio.svg",
+      "assets/visuals/garment-label.svg",
+      "assets/visuals/fashion-era-influence.svg",
+      "assets/visuals/respectful-magazine.svg",
+      "assets/visuals/magazine-evidence-map.svg"
+    ]
+  },
+  "dataAndPrivacy": {
+    "textStorage": "Versioned localStorage keys under yr9-textiles:folio:v2",
+    "photoStorage": "IndexedDB database yr9-textiles-folio-v2, one optional image per purposeful card",
+    "backup": "Validated JSON containing version 2 writing, photos and preserved legacy course values",
+    "reset": "Confirmation required; clears only version 2 folio keys and folio photo store",
+    "legacy": "Older module and activity values remain untouched and visible in a collapsed reference section",
+    "submission": "No network submission is performed"
+  },
+  "verification": {
+    "desktopRendered": "PASS in the in-app browser",
+    "mobile390": "PASS; no horizontal page overflow",
+    "printA4": "PASS; 12 pages for the 10-card Pyjamas sequence with a sample evidence image",
+    "routesAndAssets": "PASS; all 25 local route and asset requests returned HTTP 200",
+    "autosaveReload": "PASS for identity, writing, status and photo",
+    "projectIsolation": "PASS",
+    "photoAddReloadRemove": "PASS",
+    "backupRestore": "PASS; schema and photos validated",
+    "invalidRestore": "PASS; rejected without import",
+    "legacyMigration": "PASS; project-specific Magazine Studio writing copied once and originals preserved",
+    "reset": "PASS; confirmation required and legacy data preserved without automatic re-migration",
+    "consoleErrors": 0,
+    "duplicateIds": 0
+  },
+  "ownedFiles": [
+    "folio.html",
+    "assets/folio.js",
+    "assets/site.css",
+    "folio-build-manifest-v2.json"
+  ]
+}

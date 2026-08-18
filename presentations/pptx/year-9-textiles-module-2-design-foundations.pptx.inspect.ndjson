@@ -1,0 +1,172 @@
+{"kind":"deck","id":"pr/mqytx6","name":"Deck"}
+{"kind":"layout","layoutId":"0d702dc2-84e8-4075-b2ea-f33bf12d1bfa","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"f150c3e5-620c-40df-8b8b-3fbcdd79dcd5","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/zu3lca","slide":1,"title":"2","textShapes":6}
+{"kind":"shape","id":"sh/o32lkn69","slide":1,"bbox":[0,0,24,720]}
+{"kind":"shape","id":"sh/n2t4bipo","slide":1,"bbox":[78,64,58,58]}
+{"kind":"textbox","id":"sh/2hk3ido3","slide":1,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[78,64,58,58]}
+{"kind":"textbox","id":"sh/1gbm987i","slide":1,"text":"YEAR 9 TEXTILES TECHNOLOGY","textPreview":"YEAR 9 TEXTILES TECHNOLOGY","textChars":26,"textLines":1,"bbox":[154,77,420,36]}
+{"kind":"textbox","id":"sh/0f2lg36x","slide":1,"text":"Design foundations","textPreview":"Design foundations","textChars":18,"textLines":1,"bbox":[78,172,515,212]}
+{"kind":"textbox","id":"sh/fet47ipc","slide":1,"text":"Understand textiles as a design medium, use the elements of design and turn inspiration into a purposeful mood board.","textPreview":"Understand textiles as a design medium, use the elements of design and turn inspiration into a purposeful mood board.","textChars":117,"textLines":1,"bbox":[82,414,500,110]}
+{"kind":"shape","id":"sh/edk3edo7","slide":1,"bbox":[82,558,500,68]}
+{"kind":"textbox","id":"sh/dcrm587m","slide":1,"text":"TODAY: understand → retrieve → explain → save evidence","textPreview":"TODAY: understand → retrieve → explain → save evidence","textChars":54,"textLines":1,"bbox":[106,572,452,42]}
+{"kind":"shape","id":"sh/sbilc361","slide":1,"bbox":[646,86,562,518]}
+{"kind":"textbox","id":"sh/zu5036lw","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1124,666,84,32]}
+{"kind":"image","id":"im/lw3ax87i","slide":1,"name":"","geometry":"roundRect","alt":"Module 2 subject visual","bbox":[670,110,514,470]}
+{"kind":"notes","id":"nt/zu3lca","slide":1,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 2, module summary and evidence sequence.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/textiles-course-hero.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: State the module purpose. Ask students which part of the topic feels familiar and which part is new.\nSlide 1 of 8."}
+{"kind":"slide","id":"sl/vhre5a","slide":2,"title":"LEARNING MAP + RETRIEVAL STARTER","textShapes":15}
+{"kind":"shape","id":"sh/187ut8fm","slide":2,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/elwvitgv","slide":2,"text":"LEARNING MAP + RETRIEVAL STARTER","textPreview":"LEARNING MAP + RETRIEVAL STARTER","textChars":32,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/fm5cryxg","slide":2,"text":"Three ideas to connect","textPreview":"Three ideas to connect","textChars":22,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/sjedgjy5","slide":2,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/dknupofq","slide":2,"text":"YEAR 9 TEXTILES · MODULE 2","textPreview":"YEAR 9 TEXTILES · MODULE 2","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/qhwve9gz","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/ri5cnehk","slide":2,"bbox":[72,182,760,98]}
+{"kind":"textbox","id":"sh/cfidsny9","slide":2,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[94,202,52,52]}
+{"kind":"textbox","id":"sh/xgre1sfu","slide":2,"text":"Textiles as a design medium","textPreview":"Textiles as a design medium","textChars":27,"textLines":1,"bbox":[170,198,630,34]}
+{"kind":"textbox","id":"sh/hgva5wvi","slide":2,"text":"The five focus areas are apparel, furnishings, costume, textile art and non-apparel.","textPreview":"The five focus areas are apparel, furnishings, costume, textile art and non-apparel.","textChars":84,"textLines":1,"bbox":[170,234,630,30]}
+{"kind":"shape","id":"sh/wf2twrud","slide":2,"bbox":[72,302,760,98]}
+{"kind":"textbox","id":"sh/vets3mds","slide":2,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[94,322,52,52]}
+{"kind":"textbox","id":"sh/utkbuhc7","slide":2,"text":"Elements of design","textPreview":"Elements of design","textChars":18,"textLines":1,"bbox":[170,318,630,34]}
+{"kind":"textbox","id":"sh/9sba1cvm","slide":2,"text":"Line, direction, shape, size, colour, value and texture are design elements.","textPreview":"Line, direction, shape, size, colour, value and texture are design elements.","textChars":76,"textLines":1,"bbox":[170,354,630,30]}
+{"kind":"shape","id":"sh/8r2ts7u1","slide":2,"bbox":[72,422,760,98]}
+{"kind":"textbox","id":"sh/7qtsz2dg","slide":2,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[94,442,52,52]}
+{"kind":"textbox","id":"sh/mpkbqxcv","slide":2,"text":"Sources of inspiration and mood boards","textPreview":"Sources of inspiration and mood boards","textChars":38,"textLines":1,"bbox":[170,438,630,34]}
+{"kind":"textbox","id":"sh/tofudgvq","slide":2,"text":"History, culture, nature, manufactured items, events and emotions can inspire design.","textPreview":"History, culture, nature, manufactured items, events and emotions can inspire design.","textChars":85,"textLines":1,"bbox":[170,474,630,30]}
+{"kind":"shape","id":"sh/sn6t4bu5","slide":2,"bbox":[866,182,342,344]}
+{"kind":"textbox","id":"sh/d4nmp4ne","slide":2,"text":"RETRIEVE FIRST","textPreview":"RETRIEVE FIRST","textChars":14,"textLines":1,"bbox":[892,404,286,26]}
+{"kind":"textbox","id":"sh/q1w3u9on","slide":2,"text":"Without notes: say one fact you already know and one question you need answered.","textPreview":"Without notes: say one fact you already know and one question you need answered.","textChars":80,"textLines":1,"bbox":[900,438,270,68]}
+{"kind":"image","id":"im/b6tkvmlw","slide":2,"name":"","geometry":"roundRect","alt":"Course learning map visual","bbox":[892,198,290,190]}
+{"kind":"notes","id":"nt/vhre5a","slide":2,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 2, all three section titles and first facts.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/respectful-magazine.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Give students 30 seconds of silent retrieval, then connect their responses to the three-part learning map.\nSlide 2 of 8."}
+{"kind":"slide","id":"sl/4yz49k","slide":3,"title":"THEORY 1 OF 3","textShapes":9}
+{"kind":"shape","id":"sh/xc3qlwz6","slide":3,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/apc7ah0f","slide":3,"text":"THEORY 1 OF 3","textPreview":"THEORY 1 OF 3","textChars":13,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/bql8jmh0","slide":3,"text":"Textiles as a design medium","textPreview":"Textiles as a design medium","textChars":27,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/onup87ip","slide":3,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/po3qhcza","slide":3,"text":"YEAR 9 TEXTILES · MODULE 2","textPreview":"YEAR 9 TEXTILES · MODULE 2","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/2ls76h0j","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/nm18f2h4","slide":3,"bbox":[72,184,558,338]}
+{"kind":"textbox","id":"sh/0jap47id","slide":3,"text":"UNDERSTAND THE IDEA","textPreview":"UNDERSTAND THE IDEA","textChars":19,"textLines":1,"bbox":[100,208,502,26]}
+{"kind":"textbox","id":"sh/1kj6dczy","slide":3,"text":"The five focus areas are apparel, furnishings, costume, textile art and non-apparel. They organise the different end uses of textile design.\nTextile fibres, yarns and fabrics can be used as a design medium. Their flexible structures can be selected and manipulated for many products.\nPurpose and user needs guide material and process choices. A successful item must perform for its intended end use.","textPreview":"The five focus areas are apparel, furnishings, costume, textile art and non-apparel. They organise the different end uses of textile desi...","textChars":399,"textLines":3,"bbox":[100,252,502,246]}
+{"kind":"shape","id":"sh/9gru9sn6","slide":3,"bbox":[650,184,558,338]}
+{"kind":"textbox","id":"sh/7e9c7i50","slide":3,"text":"SEE THE RELATIONSHIP","textPreview":"SEE THE RELATIONSHIP","textChars":20,"textLines":1,"bbox":[678,486,502,24]}
+{"kind":"shape","id":"sh/md0bydof","slide":3,"bbox":[72,548,1136,96]}
+{"kind":"textbox","id":"sh/lc7u58nu","slide":3,"text":"EVIDENCE PROMPT","textPreview":"EVIDENCE PROMPT","textChars":15,"textLines":1,"bbox":[98,568,210,24]}
+{"kind":"textbox","id":"sh/kbytw369","slide":3,"text":"Choose one focus area and explain how user, purpose, material and equipment would influence a textile design.","textPreview":"Choose one focus area and explain how user, purpose, material and equipment would influence a textile design.","textChars":109,"textLines":1,"bbox":[310,562,870,60]}
+{"kind":"image","id":"im/fy9kz6pw","slide":3,"name":"","geometry":"roundRect","alt":"Textiles as a design medium explanatory visual","bbox":[674,206,510,278]}
+{"kind":"notes","id":"nt/4yz49k","slide":3,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 2, Section 1: Textiles as a design medium.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/fibre-yarn-fabric.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Teach the three points, then pause for students to answer the evidence prompt in one or two precise sentences.\nSlide 3 of 8."}
+{"kind":"slide","id":"sl/bac6dk","slide":4,"title":"THEORY 2 OF 3","textShapes":9}
+{"kind":"shape","id":"sh/hcnul87i","slide":4,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/u9cbador","slide":4,"text":"THEORY 2 OF 3","textPreview":"THEORY 2 OF 3","textChars":13,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/valcjypc","slide":4,"text":"Elements of design","textPreview":"Elements of design","textChars":18,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/87ut836l","slide":4,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/983uh876","slide":4,"text":"YEAR 9 TEXTILES · MODULE 2","textPreview":"YEAR 9 TEXTILES · MODULE 2","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/m5cb6tov","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/76lcfyp0","slide":4,"bbox":[650,184,558,338]}
+{"kind":"textbox","id":"sh/kjat4j6p","slide":4,"text":"UNDERSTAND THE IDEA","textPreview":"UNDERSTAND THE IDEA","textChars":19,"textLines":1,"bbox":[678,208,502,26]}
+{"kind":"textbox","id":"sh/lk3udo7a","slide":4,"text":"Line, direction, shape, size, colour, value and texture are design elements. They are visual tools used to communicate and develop ideas.\nElements can be isolated or combined. Designers control emphasis and visual effect through their relationships.\nTexture describes a surface's visual or tactile quality. It affects how an item looks and can affect how it feels.","textPreview":"Line, direction, shape, size, colour, value and texture are design elements. They are visual tools used to communicate and develop ideas....","textChars":364,"textLines":3,"bbox":[678,252,502,246]}
+{"kind":"shape","id":"sh/xo7ih8zy","slide":4,"bbox":[72,184,558,338]}
+{"kind":"textbox","id":"sh/bmp0fyhs","slide":4,"text":"SEE THE RELATIONSHIP","textPreview":"SEE THE RELATIONSHIP","textChars":20,"textLines":1,"bbox":[100,486,502,24]}
+{"kind":"shape","id":"sh/a1gz6t07","slide":4,"bbox":[72,548,1136,96]}
+{"kind":"textbox","id":"sh/907idozm","slide":4,"text":"EVIDENCE PROMPT","textPreview":"EVIDENCE PROMPT","textChars":15,"textLines":1,"bbox":[98,568,210,24]}
+{"kind":"textbox","id":"sh/ozyh4ji1","slide":4,"text":"Explain how you would use three design elements to communicate a chosen mood for nightwear.","textPreview":"Explain how you would use three design elements to communicate a chosen mood for nightwear.","textChars":91,"textLines":1,"bbox":[310,562,870,60]}
+{"kind":"image","id":"im/v6tk7mlk","slide":4,"name":"","geometry":"roundRect","alt":"Elements of design explanatory visual","bbox":[96,206,510,278]}
+{"kind":"notes","id":"nt/bac6dk","slide":4,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 2, Section 2: Elements of design.\nCourse authority: work/source-contract.md and work/source-audit.md.\nLocal visual: assets/visuals/design-elements.svg, source-bound course artwork rasterised for PowerPoint.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Teach the three points, then pause for students to answer the evidence prompt in one or two precise sentences.\nSlide 4 of 8."}
+{"kind":"slide","id":"sl/j7dlox","slide":5,"title":"THEORY 3 OF 3","textShapes":15}
+{"kind":"shape","id":"sh/apozq1k7","slide":5,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/xcfilgji","slide":5,"text":"THEORY 3 OF 3","textPreview":"THEORY 3 OF 3","textChars":13,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/wb61sb2x","slide":5,"text":"Sources of inspiration and mood boards","textPreview":"Sources of inspiration and mood boards","textChars":38,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/nmd0f61g","slide":5,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/ml4zm1kv","slide":5,"text":"YEAR 9 TEXTILES · MODULE 2","textPreview":"YEAR 9 TEXTILES · MODULE 2","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/9ofihgjm","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/on6hob21","slide":5,"bbox":[72,184,558,338]}
+{"kind":"textbox","id":"sh/7ih0rq1k","slide":5,"text":"UNDERSTAND THE IDEA","textPreview":"UNDERSTAND THE IDEA","textChars":19,"textLines":1,"bbox":[100,208,502,26]}
+{"kind":"textbox","id":"sh/6h8jylkz","slide":5,"text":"History, culture, nature, manufactured items, events and emotions can inspire design. A broad source range helps designers generate varied directions.\nInspiration is transformed rather than copied. Original design develops selected features for a new purpose.\nA mood board communicates a coherent direction. Related images, colours and textures make the intended mood visible.","textPreview":"History, culture, nature, manufactured items, events and emotions can inspire design. A broad source range helps designers generate varie...","textChars":376,"textLines":3,"bbox":[100,252,502,246]}
+{"kind":"shape","id":"sh/kb250f25","slide":5,"bbox":[650,184,558,338]}
+{"kind":"shape","id":"sh/5wb69k3q","slide":5,"bbox":[690,198,478,70]}
+{"kind":"textbox","id":"sh/i90ny5kz","slide":5,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[706,211,44,44]}
+{"kind":"textbox","id":"sh/jato7alk","slide":5,"text":"History, culture, nature, manufactured items, events and emotions can inspire design","textPreview":"History, culture, nature, manufactured items, events and emotions can inspire design","textChars":84,"textLines":1,"bbox":[772,206,368,54]}
+{"kind":"shape","id":"sh/w7i5wv29","slide":5,"bbox":[690,292,478,70]}
+{"kind":"textbox","id":"sh/x8r6503u","slide":5,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[706,305,44,44]}
+{"kind":"textbox","id":"sh/a50nu5k3","slide":5,"text":"Inspiration is transformed rather than copied","textPreview":"Inspiration is transformed rather than copied","textChars":45,"textLines":1,"bbox":[772,300,368,54]}
+{"kind":"shape","id":"sh/v69o3alo","slide":5,"bbox":[690,386,478,70]}
+{"kind":"textbox","id":"sh/83i5sv2x","slide":5,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[706,399,44,44]}
+{"kind":"textbox","id":"sh/94r6103i","slide":5,"text":"A mood board communicates a coherent direction","textPreview":"A mood board communicates a coherent direction","textChars":46,"textLines":1,"bbox":[772,394,368,54]}
+{"kind":"shape","id":"sh/pozu9sra","slide":5,"bbox":[736,494,386,36]}
+{"kind":"textbox","id":"sh/onqdgnqp","slide":5,"text":"CONNECT THE IDEA — DO NOT JUST LIST IT","textPreview":"CONNECT THE IDEA — DO NOT JUST LIST IT","textChars":38,"textLines":1,"bbox":[754,501,350,24]}
+{"kind":"shape","id":"sh/3mhc7i94","slide":5,"bbox":[72,548,1136,96]}
+{"kind":"textbox","id":"sh/2loved8j","slide":5,"text":"EVIDENCE PROMPT","textPreview":"EVIDENCE PROMPT","textChars":15,"textLines":1,"bbox":[98,568,210,24]}
+{"kind":"textbox","id":"sh/1kfu58ry","slide":5,"text":"Describe a mood-board direction for Designer Pyjamas and explain how the sources would lead to original design ideas.","textPreview":"Describe a mood-board direction for Designer Pyjamas and explain how the sources would lead to original design ideas.","textChars":117,"textLines":1,"bbox":[310,562,870,60]}
+{"kind":"notes","id":"nt/j7dlox","slide":5,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 2, Section 3: Sources of inspiration and mood boards.\nCourse authority: work/source-contract.md and work/source-audit.md.\nVisual treatment: editable PowerPoint diagram generated only from the cited module facts.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Teach the three points, then pause for students to answer the evidence prompt in one or two precise sentences.\nSlide 5 of 8."}
+{"kind":"slide","id":"sl/sn9538","slide":6,"title":"NO NOTES FOR THE FIRST ATTEMPT","textShapes":14}
+{"kind":"shape","id":"sh/ul87i1c7","slide":6,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/hozqtwby","slide":6,"text":"NO NOTES FOR THE FIRST ATTEMPT","textPreview":"NO NOTES FOR THE FIRST ATTEMPT","textChars":30,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/gnqpkbud","slide":6,"text":"Retrieve before you check","textPreview":"Retrieve before you check","textChars":25,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/3qh8v6to","slide":6,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/2p87m1c3","slide":6,"text":"YEAR 9 TEXTILES · MODULE 2","textPreview":"YEAR 9 TEXTILES · MODULE 2","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/psjqxgbu","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/ora9obu9","slide":6,"bbox":[72,190,354,344]}
+{"kind":"textbox","id":"sh/bu18zqt0","slide":6,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[96,214,64,64]}
+{"kind":"textbox","id":"sh/qtsrqlcf","slide":6,"text":"Textiles as a design medium","textPreview":"Textiles as a design medium","textChars":27,"textLines":1,"bbox":[96,302,306,70]}
+{"kind":"textbox","id":"sh/4rq58f2d","slide":6,"text":"Define textiles as a design medium in your own words and give one course example.","textPreview":"Define textiles as a design medium in your own words and give one course example.","textChars":81,"textLines":1,"bbox":[96,390,306,114]}
+{"kind":"shape","id":"sh/5szm1kjy","slide":6,"bbox":[458,190,354,344]}
+{"kind":"textbox","id":"sh/i58n6pkn","slide":6,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[482,214,64,64]}
+{"kind":"textbox","id":"sh/3qh4zu1s","slide":6,"text":"Elements of design","textPreview":"Elements of design","textChars":18,"textLines":1,"bbox":[482,302,306,70]}
+{"kind":"textbox","id":"sh/sva5cz2p","slide":6,"text":"Why does elements of design matter to a successful textile outcome?","textPreview":"Why does elements of design matter to a successful textile outcome?","textChars":67,"textLines":1,"bbox":[482,390,306,114]}
+{"kind":"shape","id":"sh/dwjm54ja","slide":6,"bbox":[844,190,354,344]}
+{"kind":"textbox","id":"sh/qt8napkj","slide":6,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[868,214,64,64]}
+{"kind":"textbox","id":"sh/ruh43u14","slide":6,"text":"Sources of inspiration and mood boards","textPreview":"Sources of inspiration and mood boards","textChars":38,"textLines":1,"bbox":[868,302,306,70]}
+{"kind":"textbox","id":"sh/0za5gj2l","slide":6,"text":"What evidence would prove you understand sources of inspiration and mood boards?","textPreview":"What evidence would prove you understand sources of inspiration and mood boards?","textChars":80,"textLines":1,"bbox":[868,390,306,114]}
+{"kind":"textbox","id":"sh/10j694j6","slide":6,"text":"Attempt → check the module → correct in a different colour","textPreview":"Attempt → check the module → correct in a different colour","textChars":58,"textLines":1,"bbox":[72,574,1136,42]}
+{"kind":"notes","id":"nt/sn9538","slide":6,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 2, retrieval questions generated from the first fact in each section.\nCourse authority: work/source-contract.md and work/source-audit.md.\nVisual treatment: editable PowerPoint diagram generated only from the cited module facts.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Keep the first attempt closed-book. Accuracy improves when students check and visibly correct the response afterwards.\nSlide 6 of 8."}
+{"kind":"slide","id":"sl/0gjvr4","slide":7,"title":"READ → SELECT → EXPLAIN → CHECK","textShapes":19}
+{"kind":"shape","id":"sh/zet0zu1c","slide":7,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/kf21szix","slide":7,"text":"READ → SELECT → EXPLAIN → CHECK","textPreview":"READ → SELECT → EXPLAIN → CHECK","textChars":31,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/lgbi14ji","slide":7,"text":"Build one strong written response","textPreview":"Build one strong written response","textChars":33,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/m1kju903","slide":7,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/72t03eho","slide":7,"text":"YEAR 9 TEXTILES · MODULE 2","textPreview":"YEAR 9 TEXTILES · MODULE 2","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/83m1wzi9","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/94vi54ze","slide":7,"bbox":[72,174,1136,92]}
+{"kind":"textbox","id":"sh/u54jy90z","slide":7,"text":"QUESTION","textPreview":"QUESTION","textChars":8,"textLines":1,"bbox":[96,194,130,24]}
+{"kind":"textbox","id":"sh/v6d07ehk","slide":7,"text":"Describe a mood-board direction for Designer Pyjamas and explain how the sources would lead to original design ideas.","textPreview":"Describe a mood-board direction for Designer Pyjamas and explain how the sources would lead to original design ideas.","textChars":117,"textLines":1,"bbox":[230,188,948,58]}
+{"kind":"shape","id":"sh/r29sbm10","slide":7,"bbox":[72,310,260,218]}
+{"kind":"textbox","id":"sh/q10bihkf","slide":7,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[94,330,46,46]}
+{"kind":"textbox","id":"sh/d4rudcj6","slide":7,"text":"READ","textPreview":"READ","textChars":4,"textLines":1,"bbox":[154,336,154,32]}
+{"kind":"textbox","id":"sh/s3itk72l","slide":7,"text":"Underline the action word and the exact topic.","textPreview":"Underline the action word and the exact topic.","textChars":46,"textLines":1,"bbox":[96,398,212,102]}
+{"kind":"shape","id":"sh/je9s721o","slide":7,"bbox":[356,310,260,218]}
+{"kind":"textbox","id":"sh/idgbexkj","slide":7,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[378,330,46,46]}
+{"kind":"textbox","id":"sh/50ra9cju","slide":7,"text":"SELECT","textPreview":"SELECT","textChars":6,"textLines":1,"bbox":[438,336,154,32]}
+{"kind":"textbox","id":"sh/4zitg729","slide":7,"text":"Choose two or three course facts that answer it.","textPreview":"Choose two or three course facts that answer it.","textChars":48,"textLines":1,"bbox":[380,398,212,102]}
+{"kind":"shape","id":"sh/natcj618","slide":7,"bbox":[640,310,260,218]}
+{"kind":"textbox","id":"sh/29kbq1kn","slide":7,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[662,330,46,46]}
+{"kind":"textbox","id":"sh/ypovi54v","slide":7,"text":"EXPLAIN","textPreview":"EXPLAIN","textChars":7,"textLines":1,"bbox":[722,336,154,32]}
+{"kind":"textbox","id":"sh/zqxwbqlg","slide":7,"text":"Link each fact to why it matters or what it proves.","textPreview":"Link each fact to why it matters or what it proves.","textChars":51,"textLines":1,"bbox":[664,398,212,102]}
+{"kind":"shape","id":"sh/kr6xkvm1","slide":7,"bbox":[924,310,260,218]}
+{"kind":"textbox","id":"sh/lsfed036","slide":7,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[946,330,46,46]}
+{"kind":"textbox","id":"sh/mtofm54r","slide":7,"text":"CHECK","textPreview":"CHECK","textChars":5,"textLines":1,"bbox":[1006,336,154,32]}
+{"kind":"textbox","id":"sh/7uxwfalc","slide":7,"text":"Return to the question; correct gaps and vague words.","textPreview":"Return to the question; correct gaps and vague words.","textChars":53,"textLines":1,"bbox":[948,398,212,102]}
+{"kind":"textbox","id":"sh/8v6xofmx","slide":7,"text":"Strong responses use evidence and reasoning—not a copied paragraph.","textPreview":"Strong responses use evidence and reasoning—not a copied paragraph.","textChars":67,"textLines":1,"bbox":[72,570,1136,44]}
+{"kind":"notes","id":"nt/0gjvr4","slide":7,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 2, Section 3 evidence prompt plus the course response scaffold.\nCourse authority: work/source-contract.md and work/source-audit.md.\nVisual treatment: editable PowerPoint diagram generated only from the cited module facts.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Model the four-step process aloud. Students should be able to point to the fact and the explanation in their finished response.\nSlide 7 of 8."}
+{"kind":"slide","id":"sl/vrbi1d","slide":8,"title":"EXIT TICKET + NEXT STEP","textShapes":16}
+{"kind":"shape","id":"sh/yt8nedsj","slide":8,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/lwj69sra","slide":8,"text":"EXIT TICKET + NEXT STEP","textPreview":"EXIT TICKET + NEXT STEP","textChars":23,"textLines":1,"bbox":[72,36,500,30]}
+{"kind":"textbox","id":"sh/0va5gnap","slide":8,"text":"Finish with evidence","textPreview":"Finish with evidence","textChars":20,"textLines":1,"bbox":[72,72,1136,70]}
+{"kind":"shape","id":"sh/ny1ob29g","slide":8,"bbox":[72,150,1136,2]}
+{"kind":"textbox","id":"sh/mxsnixsv","slide":8,"text":"YEAR 9 TEXTILES · MODULE 2","textPreview":"YEAR 9 TEXTILES · MODULE 2","textChars":26,"textLines":1,"bbox":[72,672,420,28]}
+{"kind":"textbox","id":"sh/9kj6dcr6","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1124,668,84,32]}
+{"kind":"shape","id":"sh/8za5k7a1","slide":8,"bbox":[72,184,550,376]}
+{"kind":"textbox","id":"sh/32x4zy9w","slide":8,"text":"EXIT TICKET","textPreview":"EXIT TICKET","textChars":11,"textLines":1,"bbox":[108,220,470,40]}
+{"kind":"textbox","id":"sh/21on6tsb","slide":8,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[108,292,46,46]}
+{"kind":"textbox","id":"sh/gva94ju5","slide":8,"text":"Name one idea you can now explain accurately.","textPreview":"Name one idea you can now explain accurately.","textChars":45,"textLines":1,"bbox":[176,286,400,58]}
+{"kind":"textbox","id":"sh/hw3adobq","slide":8,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[108,374,46,46]}
+{"kind":"textbox","id":"sh/utsr2tcf","slide":8,"text":"Identify one correction you made after retrieval.","textPreview":"Identify one correction you made after retrieval.","textChars":49,"textLines":1,"bbox":[176,368,400,58]}
+{"kind":"textbox","id":"sh/fu1sbet0","slide":8,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[108,456,46,46]}
+{"kind":"textbox","id":"sh/4zu983ah","slide":8,"text":"State the evidence you will save from this module.","textPreview":"State the evidence you will save from this module.","textChars":50,"textLines":1,"bbox":[176,450,400,58]}
+{"kind":"shape","id":"sh/p03ah8b2","slide":8,"bbox":[654,184,554,238]}
+{"kind":"textbox","id":"sh/2xcr6tcb","slide":8,"text":"SAVE THIS EVIDENCE","textPreview":"SAVE THIS EVIDENCE","textChars":18,"textLines":1,"bbox":[686,216,490,34]}
+{"kind":"textbox","id":"sh/3ylsfytw","slide":8,"text":"Mood board, two initial concepts and an annotated design decision.","textPreview":"Mood board, two initial concepts and an annotated design decision.","textChars":66,"textLines":1,"bbox":[686,270,490,118]}
+{"kind":"shape","id":"sh/k3q9wzud","slide":8,"bbox":[654,446,554,114]}
+{"kind":"textbox","id":"sh/54zq54bi","slide":8,"text":"NEXT STEP","textPreview":"NEXT STEP","textChars":9,"textLines":1,"bbox":[682,468,140,28]}
+{"kind":"textbox","id":"sh/1orydwza","slide":8,"text":"Return to the module page, complete the evidence prompt and use teacher directions for practical work.","textPreview":"Return to the module page, complete the evidence prompt and use teacher directions for practical work.","textChars":102,"textLines":1,"bbox":[824,462,354,72]}
+{"kind":"textbox","id":"sh/0nyxkrip","slide":8,"text":"Explain it. Check it. Save it.","textPreview":"Explain it. Check it. Save it.","textChars":30,"textLines":1,"bbox":[72,594,1136,42]}
+{"kind":"notes","id":"nt/vrbi1d","slide":8,"text":"[Sources]\nWebsite course data: assets/course-data.js, Module 2, module evidence summary and student next step.\nCourse authority: work/source-contract.md and work/source-audit.md.\nVisual treatment: editable PowerPoint diagram generated only from the cited module facts.\nSource boundary: exact practical settings, construction directions and current assessment arrangements remain teacher-controlled.\n[/Sources]\n\nTeaching note: Collect a brief spoken or written exit response. Remind students that the website and teacher directions control the practical next step.\nSlide 8 of 8."}
